@@ -1,0 +1,2902 @@
+"Calendar year","ABS remoteness area","Age group","Road user","Sum(Bed days)","Sum(Died_cases)","Sum(Count of cases)","Sum(Hospitalisations)","Avg_Bed_Days"
+2011,"Major Cities","0-7","Bus occupant",9,0,5,5,1.8
+2011,"Major Cities","0-7","Car passenger",640,3,143,140,4.571428571428571
+2011,"Major Cities","0-7","Car unknown position",44,0,11,11,4
+2011,"Major Cities","0-7","Heavy transport passenger",1,0,1,1,1
+2011,"Major Cities","0-7","Motorcyclist",14,0,10,10,1.4
+2011,"Major Cities","0-7","Other or unknown",11,0,6,6,1.8333333333333333
+2011,"Major Cities","0-7","Pedal cyclist",178,0,124,124,1.435483870967742
+2011,"Major Cities","0-7","Pedestrian",542,2,112,110,4.927272727272728
+2011,"Major Cities","0-7","Pick-up truck or van occupant",1,0,1,1,1
+2011,"Major Cities","17-25","Bus occupant",29,0,18,18,1.6111111111111112
+2011,"Major Cities","17-25","Car driver",5638,7,1783,1776,3.1745495495495497
+2011,"Major Cities","17-25","Car passenger",2753,3,846,843,3.265717674970344
+2011,"Major Cities","17-25","Car unknown position",315,0,116,116,2.7155172413793105
+2011,"Major Cities","17-25","Heavy transport driver",106,1,23,22,4.818181818181818
+2011,"Major Cities","17-25","Heavy transport passenger",4,0,3,3,1.3333333333333333
+2011,"Major Cities","17-25","Heavy transport unknown position",7,0,1,1,7
+2011,"Major Cities","17-25","Motorcyclist",5027,4,1187,1183,4.249366018596787
+2011,"Major Cities","17-25","Other or unknown",148,0,56,56,2.642857142857143
+2011,"Major Cities","17-25","Pedal cyclist",1198,0,477,477,2.511530398322851
+2011,"Major Cities","17-25","Pedestrian",2016,5,400,395,5.10379746835443
+2011,"Major Cities","17-25","Pick-up truck or van occupant",64,0,27,27,2.3703703703703702
+2011,"Major Cities","26-39","Bus occupant",41,0,17,17,2.411764705882353
+2011,"Major Cities","26-39","Car driver",6295,5,1866,1861,3.382590005373455
+2011,"Major Cities","26-39","Car passenger",1990,0,537,537,3.7057728119180635
+2011,"Major Cities","26-39","Car unknown position",331,0,114,114,2.9035087719298245
+2011,"Major Cities","26-39","Heavy transport driver",206,0,61,61,3.377049180327869
+2011,"Major Cities","26-39","Heavy transport passenger",39,0,4,4,9.75
+2011,"Major Cities","26-39","Heavy transport unknown position",9,0,5,5,1.8
+2011,"Major Cities","26-39","Motorcyclist",6660,8,1419,1411,4.720056697377746
+2011,"Major Cities","26-39","Other or unknown",123,0,59,59,2.0847457627118646
+2011,"Major Cities","26-39","Pedal cyclist",2690,0,1066,1066,2.523452157598499
+2011,"Major Cities","26-39","Pedestrian",2574,4,357,353,7.291784702549575
+2011,"Major Cities","26-39","Pick-up truck or van occupant",272,0,36,36,7.555555555555555
+2011,"Major Cities","40-64","Bus occupant",117,0,45,45,2.6
+2011,"Major Cities","40-64","Car driver",8339,4,2275,2271,3.6719506825187143
+2011,"Major Cities","40-64","Car passenger",2658,3,607,604,4.400662251655629
+2011,"Major Cities","40-64","Car unknown position",542,0,141,141,3.8439716312056738
+2011,"Major Cities","40-64","Heavy transport driver",474,0,117,117,4.051282051282051
+2011,"Major Cities","40-64","Heavy transport passenger",51,0,13,13,3.923076923076923
+2011,"Major Cities","40-64","Heavy transport unknown position",90,0,14,14,6.428571428571429
+2011,"Major Cities","40-64","Motorcyclist",9594,10,1610,1600,5.99625
+2011,"Major Cities","40-64","Other or unknown",376,0,115,115,3.2695652173913046
+2011,"Major Cities","40-64","Pedal cyclist",4978,8,1600,1592,3.1268844221105527
+2011,"Major Cities","40-64","Pedestrian",3524,12,451,439,8.027334851936219
+2011,"Major Cities","40-64","Pick-up truck or van occupant",235,1,43,42,5.595238095238095
+2011,"Major Cities","65-74","Bus occupant",96,1,28,27,3.5555555555555554
+2011,"Major Cities","65-74","Car driver",3336,6,519,513,6.502923976608187
+2011,"Major Cities","65-74","Car passenger",972,1,217,216,4.5
+2011,"Major Cities","65-74","Car unknown position",165,0,31,31,5.32258064516129
+2011,"Major Cities","65-74","Heavy transport driver",12,0,5,5,2.4
+2011,"Major Cities","65-74","Heavy transport passenger",30,0,5,5,6
+2011,"Major Cities","65-74","Motorcyclist",834,0,88,88,9.477272727272727
+2011,"Major Cities","65-74","Other or unknown",176,0,59,59,2.983050847457627
+2011,"Major Cities","65-74","Pedal cyclist",808,2,168,166,4.867469879518072
+2011,"Major Cities","65-74","Pedestrian",1653,3,185,182,9.082417582417582
+2011,"Major Cities","65-74","Pick-up truck or van occupant",24,0,5,5,4.8
+2011,"Major Cities","75+","Bus occupant",273,0,50,50,5.46
+2011,"Major Cities","75+","Car driver",3575,14,603,589,6.069609507640068
+2011,"Major Cities","75+","Car passenger",1779,9,269,260,6.842307692307692
+2011,"Major Cities","75+","Car unknown position",419,0,34,34,12.323529411764707
+2011,"Major Cities","75+","Heavy transport driver",6,0,1,1,6
+2011,"Major Cities","75+","Motorcyclist",387,0,31,31,12.483870967741936
+2011,"Major Cities","75+","Other or unknown",507,2,35,33,15.363636363636363
+2011,"Major Cities","75+","Pedal cyclist",471,3,65,62,7.596774193548387
+2011,"Major Cities","75+","Pedestrian",3473,24,310,286,12.143356643356643
+2011,"Major Cities","75+","Pick-up truck or van occupant",1,0,1,1,1
+2011,"Major Cities","8-16","Bus occupant",11,0,8,8,1.375
+2011,"Major Cities","8-16","Car driver",196,2,34,32,6.125
+2011,"Major Cities","8-16","Car passenger",1026,3,337,334,3.07185628742515
+2011,"Major Cities","8-16","Car unknown position",47,2,19,17,2.764705882352941
+2011,"Major Cities","8-16","Heavy transport passenger",8,0,2,2,4
+2011,"Major Cities","8-16","Motorcyclist",554,1,174,173,3.2023121387283235
+2011,"Major Cities","8-16","Other or unknown",22,0,9,9,2.4444444444444446
+2011,"Major Cities","8-16","Pedal cyclist",964,0,532,532,1.8120300751879699
+2011,"Major Cities","8-16","Pedestrian",1841,0,274,274,6.718978102189781
+2011,"Major Cities","8-16","Pick-up truck or van occupant",47,1,4,3,15.666666666666666
+2011,"Regional","0-7","Bus occupant",2,0,2,2,1
+2011,"Regional","0-7","Car passenger",307,2,121,119,2.5798319327731094
+2011,"Regional","0-7","Car unknown position",53,0,6,6,8.833333333333334
+2011,"Regional","0-7","Motorcyclist",18,0,15,15,1.2
+2011,"Regional","0-7","Other or unknown",53,0,7,7,7.571428571428571
+2011,"Regional","0-7","Pedal cyclist",132,0,65,65,2.0307692307692307
+2011,"Regional","0-7","Pedestrian",153,0,46,46,3.3260869565217392
+2011,"Regional","0-7","Pick-up truck or van occupant",4,0,3,3,1.3333333333333333
+2011,"Regional","17-25","Car driver",4433,10,1004,994,4.459758551307847
+2011,"Regional","17-25","Car passenger",1956,6,477,471,4.1528662420382165
+2011,"Regional","17-25","Car unknown position",331,1,71,70,4.728571428571429
+2011,"Regional","17-25","Heavy transport driver",21,0,11,11,1.9090909090909092
+2011,"Regional","17-25","Heavy transport passenger",90,0,6,6,15
+2011,"Regional","17-25","Heavy transport unknown position",2,0,1,1,2
+2011,"Regional","17-25","Motorcyclist",3099,2,724,722,4.292243767313019
+2011,"Regional","17-25","Other or unknown",238,1,51,50,4.76
+2011,"Regional","17-25","Pedal cyclist",420,0,158,158,2.6582278481012658
+2011,"Regional","17-25","Pedestrian",511,1,105,104,4.913461538461538
+2011,"Regional","17-25","Pick-up truck or van occupant",100,1,32,31,3.225806451612903
+2011,"Regional","26-39","Bus occupant",2,0,2,2,1
+2011,"Regional","26-39","Car driver",3580,3,822,819,4.371184371184371
+2011,"Regional","26-39","Car passenger",1376,1,223,222,6.198198198198198
+2011,"Regional","26-39","Car unknown position",403,0,85,85,4.741176470588235
+2011,"Regional","26-39","Heavy transport driver",241,0,59,59,4.084745762711864
+2011,"Regional","26-39","Heavy transport passenger",17,0,7,7,2.4285714285714284
+2011,"Regional","26-39","Heavy transport unknown position",20,0,4,4,5
+2011,"Regional","26-39","Motorcyclist",3218,3,663,660,4.875757575757576
+2011,"Regional","26-39","Other or unknown",125,0,50,50,2.5
+2011,"Regional","26-39","Pedal cyclist",573,1,200,199,2.879396984924623
+2011,"Regional","26-39","Pedestrian",455,2,71,69,6.594202898550725
+2011,"Regional","26-39","Pick-up truck or van occupant",67,1,26,25,2.68
+2011,"Regional","40-64","Bus occupant",26,0,11,11,2.3636363636363638
+2011,"Regional","40-64","Car driver",5926,12,1111,1099,5.3921747042766155
+2011,"Regional","40-64","Car passenger",1405,2,291,289,4.86159169550173
+2011,"Regional","40-64","Car unknown position",587,0,115,115,5.104347826086957
+2011,"Regional","40-64","Heavy transport driver",841,0,150,150,5.6066666666666665
+2011,"Regional","40-64","Heavy transport passenger",37,0,6,6,6.166666666666667
+2011,"Regional","40-64","Heavy transport unknown position",70,0,20,20,3.5
+2011,"Regional","40-64","Motorcyclist",5477,4,950,946,5.789640591966173
+2011,"Regional","40-64","Other or unknown",290,0,55,55,5.2727272727272725
+2011,"Regional","40-64","Pedal cyclist",1370,1,386,385,3.5584415584415585
+2011,"Regional","40-64","Pedestrian",1343,3,151,148,9.074324324324325
+2011,"Regional","40-64","Pick-up truck or van occupant",246,0,31,31,7.935483870967742
+2011,"Regional","65-74","Bus occupant",10,0,3,3,3.3333333333333335
+2011,"Regional","65-74","Car driver",1838,4,283,279,6.587813620071684
+2011,"Regional","65-74","Car passenger",562,0,85,85,6.6117647058823525
+2011,"Regional","65-74","Car unknown position",114,1,29,28,4.071428571428571
+2011,"Regional","65-74","Heavy transport driver",30,0,9,9,3.3333333333333335
+2011,"Regional","65-74","Heavy transport passenger",10,0,2,2,5
+2011,"Regional","65-74","Heavy transport unknown position",4,0,4,4,1
+2011,"Regional","65-74","Motorcyclist",462,1,65,64,7.21875
+2011,"Regional","65-74","Other or unknown",232,0,18,18,12.88888888888889
+2011,"Regional","65-74","Pedal cyclist",279,0,71,71,3.9295774647887325
+2011,"Regional","65-74","Pedestrian",677,1,44,43,15.744186046511627
+2011,"Regional","65-74","Pick-up truck or van occupant",2,0,2,2,1
+2011,"Regional","75+","Bus occupant",80,0,11,11,7.2727272727272725
+2011,"Regional","75+","Car driver",2517,8,293,285,8.83157894736842
+2011,"Regional","75+","Car passenger",1002,4,107,103,9.728155339805825
+2011,"Regional","75+","Car unknown position",410,2,22,20,20.5
+2011,"Regional","75+","Motorcyclist",59,0,11,11,5.363636363636363
+2011,"Regional","75+","Other or unknown",138,0,10,10,13.8
+2011,"Regional","75+","Pedal cyclist",130,0,24,24,5.416666666666667
+2011,"Regional","75+","Pedestrian",731,2,69,67,10.91044776119403
+2011,"Regional","75+","Pick-up truck or van occupant",4,0,3,3,1.3333333333333333
+2011,"Regional","8-16","Bus occupant",5,0,4,4,1.25
+2011,"Regional","8-16","Car driver",146,0,30,30,4.866666666666666
+2011,"Regional","8-16","Car passenger",1498,4,254,250,5.992
+2011,"Regional","8-16","Car unknown position",42,0,18,18,2.3333333333333335
+2011,"Regional","8-16","Heavy transport passenger",1,0,1,1,1
+2011,"Regional","8-16","Motorcyclist",629,1,256,255,2.466666666666667
+2011,"Regional","8-16","Other or unknown",46,0,20,20,2.3
+2011,"Regional","8-16","Pedal cyclist",557,0,306,306,1.8202614379084967
+2011,"Regional","8-16","Pedestrian",446,1,94,93,4.795698924731183
+2011,"Regional","8-16","Pick-up truck or van occupant",25,0,5,5,5
+2011,"Remote","0-7","Car passenger",81,0,13,13,6.230769230769231
+2011,"Remote","0-7","Car unknown position",3,0,3,3,1
+2011,"Remote","0-7","Motorcyclist",5,0,2,2,2.5
+2011,"Remote","0-7","Other or unknown",7,0,7,7,1
+2011,"Remote","0-7","Pedal cyclist",36,0,13,13,2.769230769230769
+2011,"Remote","0-7","Pedestrian",17,1,8,7,2.4285714285714284
+2011,"Remote","17-25","Car driver",285,2,90,88,3.2386363636363638
+2011,"Remote","17-25","Car passenger",294,0,72,72,4.083333333333333
+2011,"Remote","17-25","Car unknown position",38,0,26,26,1.4615384615384615
+2011,"Remote","17-25","Heavy transport passenger",1,0,1,1,1
+2011,"Remote","17-25","Motorcyclist",454,0,105,105,4.3238095238095235
+2011,"Remote","17-25","Other or unknown",24,0,15,15,1.6
+2011,"Remote","17-25","Pedal cyclist",18,0,12,12,1.5
+2011,"Remote","17-25","Pedestrian",101,0,14,14,7.214285714285714
+2011,"Remote","17-25","Pick-up truck or van occupant",119,0,11,11,10.818181818181818
+2011,"Remote","26-39","Bus occupant",11,0,3,3,3.6666666666666665
+2011,"Remote","26-39","Car driver",417,0,75,75,5.56
+2011,"Remote","26-39","Car passenger",342,0,43,43,7.953488372093023
+2011,"Remote","26-39","Car unknown position",94,0,21,21,4.476190476190476
+2011,"Remote","26-39","Heavy transport driver",43,0,5,5,8.6
+2011,"Remote","26-39","Motorcyclist",385,0,77,77,5
+2011,"Remote","26-39","Other or unknown",51,0,8,8,6.375
+2011,"Remote","26-39","Pedal cyclist",132,0,21,21,6.285714285714286
+2011,"Remote","26-39","Pedestrian",159,0,23,23,6.913043478260869
+2011,"Remote","26-39","Pick-up truck or van occupant",16,0,2,2,8
+2011,"Remote","40-64","Bus occupant",11,0,2,2,5.5
+2011,"Remote","40-64","Car driver",478,1,76,75,6.373333333333333
+2011,"Remote","40-64","Car passenger",312,0,43,43,7.255813953488372
+2011,"Remote","40-64","Car unknown position",31,0,15,15,2.066666666666667
+2011,"Remote","40-64","Heavy transport driver",19,0,10,10,1.9
+2011,"Remote","40-64","Heavy transport unknown position",29,0,3,3,9.666666666666666
+2011,"Remote","40-64","Motorcyclist",347,0,85,85,4.08235294117647
+2011,"Remote","40-64","Other or unknown",73,0,15,15,4.866666666666666
+2011,"Remote","40-64","Pedal cyclist",96,0,17,17,5.647058823529412
+2011,"Remote","40-64","Pedestrian",252,0,27,27,9.333333333333334
+2011,"Remote","40-64","Pick-up truck or van occupant",6,0,3,3,2
+2011,"Remote","65-74","Bus occupant",1,0,1,1,1
+2011,"Remote","65-74","Car driver",105,0,16,16,6.5625
+2011,"Remote","65-74","Car passenger",6,0,4,4,1.5
+2011,"Remote","65-74","Heavy transport driver",16,0,2,2,8
+2011,"Remote","65-74","Motorcyclist",54,0,7,7,7.714285714285714
+2011,"Remote","65-74","Other or unknown",7,0,2,2,3.5
+2011,"Remote","65-74","Pedal cyclist",23,1,3,2,11.5
+2011,"Remote","65-74","Pedestrian",74,0,3,3,24.666666666666668
+2011,"Remote","65-74","Pick-up truck or van occupant",12,0,4,4,3
+2011,"Remote","75+","Car driver",110,0,6,6,18.333333333333332
+2011,"Remote","75+","Car passenger",14,0,4,4,3.5
+2011,"Remote","75+","Car unknown position",2,0,1,1,2
+2011,"Remote","75+","Other or unknown",3,0,2,2,1.5
+2011,"Remote","75+","Pedestrian",54,0,2,2,27
+2011,"Remote","8-16","Car driver",46,0,11,11,4.181818181818182
+2011,"Remote","8-16","Car passenger",339,1,44,43,7.883720930232558
+2011,"Remote","8-16","Car unknown position",15,0,7,7,2.142857142857143
+2011,"Remote","8-16","Heavy transport unknown position",2,0,2,2,1
+2011,"Remote","8-16","Motorcyclist",100,0,42,42,2.380952380952381
+2011,"Remote","8-16","Other or unknown",9,0,6,6,1.5
+2011,"Remote","8-16","Pedal cyclist",50,0,22,22,2.272727272727273
+2011,"Remote","8-16","Pedestrian",20,0,4,4,5
+2011,"Remote","8-16","Pick-up truck or van occupant",2,0,1,1,2
+2011,"Unknown","0-7","Car passenger",1,0,1,1,1
+2011,"Unknown","0-7","Pedal cyclist",2,0,2,2,1
+2011,"Unknown","0-7","Pedestrian",1,1,1,0,
+2011,"Unknown","17-25","Bus occupant",14,0,3,3,4.666666666666667
+2011,"Unknown","17-25","Car driver",405,1,60,59,6.864406779661017
+2011,"Unknown","17-25","Car passenger",399,1,70,69,5.782608695652174
+2011,"Unknown","17-25","Car unknown position",17,0,4,4,4.25
+2011,"Unknown","17-25","Motorcyclist",197,0,32,32,6.15625
+2011,"Unknown","17-25","Other or unknown",19,0,2,2,9.5
+2011,"Unknown","17-25","Pedal cyclist",30,0,21,21,1.4285714285714286
+2011,"Unknown","17-25","Pedestrian",211,1,20,19,11.105263157894736
+2011,"Unknown","17-25","Pick-up truck or van occupant",9,0,6,6,1.5
+2011,"Unknown","26-39","Bus occupant",17,0,2,2,8.5
+2011,"Unknown","26-39","Car driver",262,0,35,35,7.485714285714286
+2011,"Unknown","26-39","Car passenger",177,1,40,39,4.538461538461538
+2011,"Unknown","26-39","Car unknown position",4,0,4,4,1
+2011,"Unknown","26-39","Heavy transport passenger",1,0,1,1,1
+2011,"Unknown","26-39","Motorcyclist",93,0,26,26,3.576923076923077
+2011,"Unknown","26-39","Other or unknown",49,0,3,3,16.333333333333332
+2011,"Unknown","26-39","Pedal cyclist",62,0,28,28,2.2142857142857144
+2011,"Unknown","26-39","Pedestrian",185,2,23,21,8.80952380952381
+2011,"Unknown","26-39","Pick-up truck or van occupant",7,0,4,4,1.75
+2011,"Unknown","40-64","Car driver",247,1,28,27,9.148148148148149
+2011,"Unknown","40-64","Car passenger",145,1,27,26,5.576923076923077
+2011,"Unknown","40-64","Car unknown position",3,0,2,2,1.5
+2011,"Unknown","40-64","Heavy transport driver",4,0,2,2,2
+2011,"Unknown","40-64","Heavy transport unknown position",17,0,1,1,17
+2011,"Unknown","40-64","Motorcyclist",36,0,14,14,2.5714285714285716
+2011,"Unknown","40-64","Other or unknown",2,0,2,2,1
+2011,"Unknown","40-64","Pedal cyclist",83,0,23,23,3.608695652173913
+2011,"Unknown","40-64","Pedestrian",174,2,21,19,9.157894736842104
+2011,"Unknown","40-64","Pick-up truck or van occupant",1,0,1,1,1
+2011,"Unknown","65-74","Car driver",21,1,6,5,4.2
+2011,"Unknown","65-74","Car passenger",29,0,9,9,3.2222222222222223
+2011,"Unknown","65-74","Heavy transport driver",5,0,1,1,5
+2011,"Unknown","65-74","Motorcyclist",27,0,2,2,13.5
+2011,"Unknown","65-74","Pedal cyclist",11,0,1,1,11
+2011,"Unknown","65-74","Pedestrian",7,1,5,4,1.75
+2011,"Unknown","75+","Car driver",28,0,3,3,9.333333333333334
+2011,"Unknown","75+","Car passenger",27,1,6,5,5.4
+2011,"Unknown","75+","Car unknown position",14,0,0,0,
+2011,"Unknown","75+","Other or unknown",1,0,1,1,1
+2011,"Unknown","75+","Pedal cyclist",1,0,1,1,1
+2011,"Unknown","75+","Pedestrian",34,0,0,0,
+2011,"Unknown","8-16","Car passenger",42,1,10,9,4.666666666666667
+2011,"Unknown","8-16","Motorcyclist",10,0,4,4,2.5
+2011,"Unknown","8-16","Pedal cyclist",2,0,1,1,2
+2011,"Unknown","8-16","Pedestrian",5,0,2,2,2.5
+2012,"Major Cities","0-7","Bus occupant",9,0,5,5,1.8
+2012,"Major Cities","0-7","Car driver",7,0,2,2,3.5
+2012,"Major Cities","0-7","Car passenger",857,0,167,167,5.131736526946108
+2012,"Major Cities","0-7","Car unknown position",7,0,5,5,1.4
+2012,"Major Cities","0-7","Motorcyclist",27,0,17,17,1.588235294117647
+2012,"Major Cities","0-7","Other or unknown",14,0,11,11,1.2727272727272727
+2012,"Major Cities","0-7","Pedal cyclist",246,0,116,116,2.1206896551724137
+2012,"Major Cities","0-7","Pedestrian",462,2,101,99,4.666666666666667
+2012,"Major Cities","0-7","Pick-up truck or van occupant",1,0,1,1,1
+2012,"Major Cities","17-25","Bus occupant",46,0,11,11,4.181818181818182
+2012,"Major Cities","17-25","Car driver",5065,6,1645,1639,3.0902989627821844
+2012,"Major Cities","17-25","Car passenger",2538,6,773,767,3.3089960886571057
+2012,"Major Cities","17-25","Car unknown position",301,0,115,115,2.617391304347826
+2012,"Major Cities","17-25","Heavy transport driver",54,0,14,14,3.857142857142857
+2012,"Major Cities","17-25","Heavy transport passenger",8,0,6,6,1.3333333333333333
+2012,"Major Cities","17-25","Heavy transport unknown position",3,0,3,3,1
+2012,"Major Cities","17-25","Motorcyclist",5320,10,1243,1233,4.314679643146796
+2012,"Major Cities","17-25","Other or unknown",253,0,64,64,3.953125
+2012,"Major Cities","17-25","Pedal cyclist",1204,0,538,538,2.2379182156133828
+2012,"Major Cities","17-25","Pedestrian",1425,6,385,379,3.7598944591029024
+2012,"Major Cities","17-25","Pick-up truck or van occupant",152,0,28,28,5.428571428571429
+2012,"Major Cities","26-39","Bus occupant",88,0,22,22,4
+2012,"Major Cities","26-39","Car driver",5402,8,1753,1745,3.0957020057306592
+2012,"Major Cities","26-39","Car passenger",1876,1,518,517,3.62862669245648
+2012,"Major Cities","26-39","Car unknown position",284,2,112,110,2.581818181818182
+2012,"Major Cities","26-39","Heavy transport driver",393,0,62,62,6.338709677419355
+2012,"Major Cities","26-39","Heavy transport passenger",33,0,5,5,6.6
+2012,"Major Cities","26-39","Heavy transport unknown position",41,0,7,7,5.857142857142857
+2012,"Major Cities","26-39","Motorcyclist",6931,9,1472,1463,4.737525632262474
+2012,"Major Cities","26-39","Other or unknown",219,0,55,55,3.981818181818182
+2012,"Major Cities","26-39","Pedal cyclist",2467,1,1083,1082,2.28003696857671
+2012,"Major Cities","26-39","Pedestrian",2271,2,402,400,5.6775
+2012,"Major Cities","26-39","Pick-up truck or van occupant",217,0,40,40,5.425
+2012,"Major Cities","40-64","Bus occupant",127,0,47,47,2.702127659574468
+2012,"Major Cities","40-64","Car driver",8738,6,2187,2181,4.006419073819349
+2012,"Major Cities","40-64","Car passenger",2182,2,568,566,3.8551236749116606
+2012,"Major Cities","40-64","Car unknown position",683,1,147,146,4.678082191780822
+2012,"Major Cities","40-64","Heavy transport driver",496,0,96,96,5.166666666666667
+2012,"Major Cities","40-64","Heavy transport passenger",18,0,3,3,6
+2012,"Major Cities","40-64","Heavy transport unknown position",54,0,19,19,2.8421052631578947
+2012,"Major Cities","40-64","Motorcyclist",9674,5,1711,1706,5.670574443141852
+2012,"Major Cities","40-64","Other or unknown",384,0,107,107,3.588785046728972
+2012,"Major Cities","40-64","Pedal cyclist",5361,2,1674,1672,3.2063397129186604
+2012,"Major Cities","40-64","Pedestrian",3662,3,482,479,7.645093945720251
+2012,"Major Cities","40-64","Pick-up truck or van occupant",194,1,55,54,3.5925925925925926
+2012,"Major Cities","65-74","Bus occupant",48,0,14,14,3.4285714285714284
+2012,"Major Cities","65-74","Car driver",2506,4,522,518,4.837837837837838
+2012,"Major Cities","65-74","Car passenger",791,4,188,184,4.298913043478261
+2012,"Major Cities","65-74","Car unknown position",140,0,41,41,3.4146341463414633
+2012,"Major Cities","65-74","Heavy transport driver",90,0,8,8,11.25
+2012,"Major Cities","65-74","Heavy transport passenger",1,0,1,1,1
+2012,"Major Cities","65-74","Motorcyclist",503,0,81,81,6.209876543209877
+2012,"Major Cities","65-74","Other or unknown",83,0,14,14,5.928571428571429
+2012,"Major Cities","65-74","Pedal cyclist",774,1,199,198,3.909090909090909
+2012,"Major Cities","65-74","Pedestrian",1835,11,166,155,11.838709677419354
+2012,"Major Cities","65-74","Pick-up truck or van occupant",17,0,7,7,2.4285714285714284
+2012,"Major Cities","75+","Bus occupant",362,0,62,62,5.838709677419355
+2012,"Major Cities","75+","Car driver",4371,21,672,651,6.714285714285714
+2012,"Major Cities","75+","Car passenger",1745,8,307,299,5.8361204013377925
+2012,"Major Cities","75+","Car unknown position",414,0,44,44,9.409090909090908
+2012,"Major Cities","75+","Heavy transport driver",40,0,1,1,40
+2012,"Major Cities","75+","Heavy transport passenger",1,0,1,1,1
+2012,"Major Cities","75+","Motorcyclist",140,0,21,21,6.666666666666667
+2012,"Major Cities","75+","Other or unknown",321,0,58,58,5.5344827586206895
+2012,"Major Cities","75+","Pedal cyclist",303,1,62,61,4.967213114754099
+2012,"Major Cities","75+","Pedestrian",3677,17,305,288,12.76736111111111
+2012,"Major Cities","75+","Pick-up truck or van occupant",25,0,2,2,12.5
+2012,"Major Cities","8-16","Bus occupant",12,0,5,5,2.4
+2012,"Major Cities","8-16","Car driver",80,0,26,26,3.076923076923077
+2012,"Major Cities","8-16","Car passenger",981,1,323,322,3.046583850931677
+2012,"Major Cities","8-16","Car unknown position",46,0,16,16,2.875
+2012,"Major Cities","8-16","Heavy transport unknown position",1,0,1,1,1
+2012,"Major Cities","8-16","Motorcyclist",1092,0,181,181,6.033149171270718
+2012,"Major Cities","8-16","Other or unknown",21,0,11,11,1.9090909090909092
+2012,"Major Cities","8-16","Pedal cyclist",1088,0,513,513,2.120857699805068
+2012,"Major Cities","8-16","Pedestrian",1007,3,223,220,4.577272727272727
+2012,"Major Cities","8-16","Pick-up truck or van occupant",10,0,4,4,2.5
+2012,"Regional","0-7","Bus occupant",28,0,4,4,7
+2012,"Regional","0-7","Car passenger",623,1,116,115,5.417391304347826
+2012,"Regional","0-7","Car unknown position",7,0,6,6,1.1666666666666667
+2012,"Regional","0-7","Heavy transport passenger",2,0,2,2,1
+2012,"Regional","0-7","Motorcyclist",47,0,27,27,1.7407407407407407
+2012,"Regional","0-7","Other or unknown",9,0,7,7,1.2857142857142858
+2012,"Regional","0-7","Pedal cyclist",165,0,76,76,2.1710526315789473
+2012,"Regional","0-7","Pedestrian",120,0,36,36,3.3333333333333335
+2012,"Regional","0-7","Pick-up truck or van occupant",3,0,3,3,1
+2012,"Regional","17-25","Car driver",4129,7,1036,1029,4.012633624878523
+2012,"Regional","17-25","Car passenger",2275,4,477,473,4.809725158562368
+2012,"Regional","17-25","Car unknown position",459,0,119,119,3.857142857142857
+2012,"Regional","17-25","Heavy transport driver",14,0,11,11,1.2727272727272727
+2012,"Regional","17-25","Heavy transport passenger",13,0,8,8,1.625
+2012,"Regional","17-25","Heavy transport unknown position",1,0,1,1,1
+2012,"Regional","17-25","Motorcyclist",2664,3,720,717,3.715481171548117
+2012,"Regional","17-25","Other or unknown",242,0,34,34,7.117647058823529
+2012,"Regional","17-25","Pedal cyclist",263,0,156,156,1.685897435897436
+2012,"Regional","17-25","Pedestrian",359,1,86,85,4.223529411764706
+2012,"Regional","17-25","Pick-up truck or van occupant",170,1,35,34,5
+2012,"Regional","26-39","Bus occupant",39,0,5,5,7.8
+2012,"Regional","26-39","Car driver",4341,7,847,840,5.167857142857143
+2012,"Regional","26-39","Car passenger",1052,3,228,225,4.6755555555555555
+2012,"Regional","26-39","Car unknown position",253,0,66,66,3.8333333333333335
+2012,"Regional","26-39","Heavy transport driver",214,0,62,62,3.4516129032258065
+2012,"Regional","26-39","Heavy transport passenger",29,0,5,5,5.8
+2012,"Regional","26-39","Heavy transport unknown position",10,0,7,7,1.4285714285714286
+2012,"Regional","26-39","Motorcyclist",3091,2,652,650,4.7553846153846155
+2012,"Regional","26-39","Other or unknown",230,0,44,44,5.2272727272727275
+2012,"Regional","26-39","Pedal cyclist",437,0,197,197,2.218274111675127
+2012,"Regional","26-39","Pedestrian",538,1,79,78,6.897435897435898
+2012,"Regional","26-39","Pick-up truck or van occupant",44,0,15,15,2.933333333333333
+2012,"Regional","40-64","Bus occupant",42,0,14,14,3
+2012,"Regional","40-64","Car driver",5616,10,1090,1080,5.2
+2012,"Regional","40-64","Car passenger",1420,2,257,255,5.568627450980392
+2012,"Regional","40-64","Car unknown position",448,0,80,80,5.6
+2012,"Regional","40-64","Heavy transport driver",582,1,133,132,4.409090909090909
+2012,"Regional","40-64","Heavy transport passenger",107,0,11,11,9.727272727272727
+2012,"Regional","40-64","Heavy transport unknown position",58,0,8,8,7.25
+2012,"Regional","40-64","Motorcyclist",5055,11,890,879,5.750853242320819
+2012,"Regional","40-64","Other or unknown",265,0,68,68,3.8970588235294117
+2012,"Regional","40-64","Pedal cyclist",1447,3,439,436,3.3188073394495414
+2012,"Regional","40-64","Pedestrian",900,3,112,109,8.256880733944953
+2012,"Regional","40-64","Pick-up truck or van occupant",297,2,46,44,6.75
+2012,"Regional","65-74","Bus occupant",23,0,8,8,2.875
+2012,"Regional","65-74","Car driver",2215,2,299,297,7.457912457912458
+2012,"Regional","65-74","Car passenger",652,1,89,88,7.409090909090909
+2012,"Regional","65-74","Car unknown position",297,0,19,19,15.631578947368421
+2012,"Regional","65-74","Heavy transport driver",17,0,7,7,2.4285714285714284
+2012,"Regional","65-74","Heavy transport unknown position",1,0,1,1,1
+2012,"Regional","65-74","Motorcyclist",685,0,78,78,8.782051282051283
+2012,"Regional","65-74","Other or unknown",87,0,15,15,5.8
+2012,"Regional","65-74","Pedal cyclist",661,0,78,78,8.474358974358974
+2012,"Regional","65-74","Pedestrian",323,1,49,48,6.729166666666667
+2012,"Regional","65-74","Pick-up truck or van occupant",136,0,11,11,12.363636363636363
+2012,"Regional","75+","Bus occupant",13,0,6,6,2.1666666666666665
+2012,"Regional","75+","Car driver",2360,5,279,274,8.613138686131387
+2012,"Regional","75+","Car passenger",817,5,104,99,8.252525252525253
+2012,"Regional","75+","Car unknown position",207,0,21,21,9.857142857142858
+2012,"Regional","75+","Heavy transport passenger",1,0,1,1,1
+2012,"Regional","75+","Motorcyclist",114,0,18,18,6.333333333333333
+2012,"Regional","75+","Other or unknown",105,1,9,8,13.125
+2012,"Regional","75+","Pedal cyclist",313,1,43,42,7.4523809523809526
+2012,"Regional","75+","Pedestrian",555,6,60,54,10.277777777777779
+2012,"Regional","75+","Pick-up truck or van occupant",106,0,6,6,17.666666666666668
+2012,"Regional","8-16","Bus occupant",6,0,3,3,2
+2012,"Regional","8-16","Car driver",70,0,25,25,2.8
+2012,"Regional","8-16","Car passenger",601,3,204,201,2.990049751243781
+2012,"Regional","8-16","Car unknown position",24,0,10,10,2.4
+2012,"Regional","8-16","Heavy transport passenger",1,0,1,1,1
+2012,"Regional","8-16","Motorcyclist",684,0,256,256,2.671875
+2012,"Regional","8-16","Other or unknown",72,0,12,12,6
+2012,"Regional","8-16","Pedal cyclist",571,0,287,287,1.9895470383275262
+2012,"Regional","8-16","Pedestrian",921,0,88,88,10.465909090909092
+2012,"Regional","8-16","Pick-up truck or van occupant",10,0,6,6,1.6666666666666667
+2012,"Remote","0-7","Car passenger",91,0,21,21,4.333333333333333
+2012,"Remote","0-7","Car unknown position",3,0,3,3,1
+2012,"Remote","0-7","Motorcyclist",3,0,3,3,1
+2012,"Remote","0-7","Pedal cyclist",28,0,9,9,3.111111111111111
+2012,"Remote","0-7","Pedestrian",67,0,9,9,7.444444444444445
+2012,"Remote","17-25","Car driver",653,1,90,89,7.337078651685394
+2012,"Remote","17-25","Car passenger",264,0,64,64,4.125
+2012,"Remote","17-25","Car unknown position",90,0,21,21,4.285714285714286
+2012,"Remote","17-25","Heavy transport driver",2,0,2,2,1
+2012,"Remote","17-25","Motorcyclist",379,0,97,97,3.9072164948453607
+2012,"Remote","17-25","Other or unknown",23,0,18,18,1.2777777777777777
+2012,"Remote","17-25","Pedal cyclist",19,0,10,10,1.9
+2012,"Remote","17-25","Pedestrian",133,1,11,10,13.3
+2012,"Remote","17-25","Pick-up truck or van occupant",32,0,9,9,3.5555555555555554
+2012,"Remote","26-39","Car driver",443,0,97,97,4.56701030927835
+2012,"Remote","26-39","Car passenger",419,0,82,82,5.109756097560975
+2012,"Remote","26-39","Car unknown position",82,0,21,21,3.9047619047619047
+2012,"Remote","26-39","Heavy transport driver",70,0,5,5,14
+2012,"Remote","26-39","Heavy transport passenger",8,0,1,1,8
+2012,"Remote","26-39","Motorcyclist",376,0,91,91,4.131868131868132
+2012,"Remote","26-39","Other or unknown",45,0,12,12,3.75
+2012,"Remote","26-39","Pedal cyclist",33,0,14,14,2.357142857142857
+2012,"Remote","26-39","Pedestrian",261,0,15,15,17.4
+2012,"Remote","26-39","Pick-up truck or van occupant",12,0,3,3,4
+2012,"Remote","40-64","Bus occupant",17,0,2,2,8.5
+2012,"Remote","40-64","Car driver",644,1,107,106,6.0754716981132075
+2012,"Remote","40-64","Car passenger",236,1,53,52,4.538461538461538
+2012,"Remote","40-64","Car unknown position",104,0,28,28,3.7142857142857144
+2012,"Remote","40-64","Heavy transport driver",10,0,7,7,1.4285714285714286
+2012,"Remote","40-64","Heavy transport passenger",1,0,1,1,1
+2012,"Remote","40-64","Heavy transport unknown position",1,0,1,1,1
+2012,"Remote","40-64","Motorcyclist",347,2,81,79,4.3924050632911396
+2012,"Remote","40-64","Other or unknown",62,0,11,11,5.636363636363637
+2012,"Remote","40-64","Pedal cyclist",66,0,25,25,2.64
+2012,"Remote","40-64","Pedestrian",389,1,44,43,9.046511627906977
+2012,"Remote","40-64","Pick-up truck or van occupant",6,0,1,1,6
+2012,"Remote","65-74","Car driver",78,0,23,23,3.391304347826087
+2012,"Remote","65-74","Car passenger",53,0,7,7,7.571428571428571
+2012,"Remote","65-74","Car unknown position",35,0,4,4,8.75
+2012,"Remote","65-74","Heavy transport driver",17,0,3,3,5.666666666666667
+2012,"Remote","65-74","Motorcyclist",8,0,3,3,2.6666666666666665
+2012,"Remote","65-74","Other or unknown",3,0,1,1,3
+2012,"Remote","65-74","Pedal cyclist",8,0,5,5,1.6
+2012,"Remote","65-74","Pedestrian",19,0,1,1,19
+2012,"Remote","65-74","Pick-up truck or van occupant",2,0,1,1,2
+2012,"Remote","75+","Car driver",213,0,12,12,17.75
+2012,"Remote","75+","Car passenger",9,0,4,4,2.25
+2012,"Remote","75+","Car unknown position",19,0,0,0,
+2012,"Remote","75+","Heavy transport driver",5,0,1,1,5
+2012,"Remote","75+","Motorcyclist",62,0,2,2,31
+2012,"Remote","75+","Pedal cyclist",12,0,1,1,12
+2012,"Remote","75+","Pedestrian",21,0,3,3,7
+2012,"Remote","8-16","Bus occupant",1,0,1,1,1
+2012,"Remote","8-16","Car driver",56,0,7,7,8
+2012,"Remote","8-16","Car passenger",190,0,41,41,4.634146341463414
+2012,"Remote","8-16","Car unknown position",5,0,5,5,1
+2012,"Remote","8-16","Motorcyclist",112,0,41,41,2.731707317073171
+2012,"Remote","8-16","Other or unknown",33,0,6,6,5.5
+2012,"Remote","8-16","Pedal cyclist",36,0,25,25,1.44
+2012,"Remote","8-16","Pedestrian",34,0,4,4,8.5
+2012,"Unknown","0-7","Car passenger",17,0,5,5,3.4
+2012,"Unknown","0-7","Pedal cyclist",2,0,1,1,2
+2012,"Unknown","17-25","Car driver",386,0,73,73,5.287671232876712
+2012,"Unknown","17-25","Car passenger",703,1,81,80,8.7875
+2012,"Unknown","17-25","Car unknown position",18,0,6,6,3
+2012,"Unknown","17-25","Heavy transport driver",28,0,2,2,14
+2012,"Unknown","17-25","Motorcyclist",135,0,30,30,4.5
+2012,"Unknown","17-25","Other or unknown",4,0,3,3,1.3333333333333333
+2012,"Unknown","17-25","Pedal cyclist",46,0,27,27,1.7037037037037037
+2012,"Unknown","17-25","Pedestrian",97,1,29,28,3.4642857142857144
+2012,"Unknown","17-25","Pick-up truck or van occupant",7,0,2,2,3.5
+2012,"Unknown","26-39","Bus occupant",8,0,2,2,4
+2012,"Unknown","26-39","Car driver",170,0,54,54,3.1481481481481484
+2012,"Unknown","26-39","Car passenger",279,1,61,60,4.65
+2012,"Unknown","26-39","Car unknown position",39,0,5,5,7.8
+2012,"Unknown","26-39","Heavy transport driver",1,0,1,1,1
+2012,"Unknown","26-39","Heavy transport passenger",2,0,1,1,2
+2012,"Unknown","26-39","Motorcyclist",136,2,38,36,3.7777777777777777
+2012,"Unknown","26-39","Other or unknown",30,0,3,3,10
+2012,"Unknown","26-39","Pedal cyclist",55,0,24,24,2.2916666666666665
+2012,"Unknown","26-39","Pedestrian",125,0,20,20,6.25
+2012,"Unknown","26-39","Pick-up truck or van occupant",25,0,2,2,12.5
+2012,"Unknown","40-64","Bus occupant",11,0,5,5,2.2
+2012,"Unknown","40-64","Car driver",118,0,24,24,4.916666666666667
+2012,"Unknown","40-64","Car passenger",216,0,32,32,6.75
+2012,"Unknown","40-64","Car unknown position",3,0,3,3,1
+2012,"Unknown","40-64","Heavy transport driver",2,0,1,1,2
+2012,"Unknown","40-64","Motorcyclist",74,1,16,15,4.933333333333334
+2012,"Unknown","40-64","Pedal cyclist",121,0,24,24,5.041666666666667
+2012,"Unknown","40-64","Pedestrian",95,0,10,10,9.5
+2012,"Unknown","65-74","Car driver",45,0,8,8,5.625
+2012,"Unknown","65-74","Car passenger",26,0,4,4,6.5
+2012,"Unknown","65-74","Heavy transport driver",1,0,1,1,1
+2012,"Unknown","65-74","Motorcyclist",15,0,4,4,3.75
+2012,"Unknown","65-74","Pedal cyclist",15,0,1,1,15
+2012,"Unknown","65-74","Pedestrian",16,0,4,4,4
+2012,"Unknown","75+","Bus occupant",9,0,1,1,9
+2012,"Unknown","75+","Car driver",30,1,6,5,6
+2012,"Unknown","75+","Car passenger",26,0,4,4,6.5
+2012,"Unknown","75+","Car unknown position",1,0,1,1,1
+2012,"Unknown","75+","Heavy transport passenger",1,0,0,0,
+2012,"Unknown","75+","Motorcyclist",1,1,1,0,
+2012,"Unknown","75+","Other or unknown",75,0,1,1,75
+2012,"Unknown","75+","Pedal cyclist",4,0,0,0,
+2012,"Unknown","75+","Pedestrian",23,0,6,6,3.8333333333333335
+2012,"Unknown","8-16","Car driver",5,0,1,1,5
+2012,"Unknown","8-16","Car passenger",5,0,4,4,1.25
+2012,"Unknown","8-16","Pedal cyclist",4,0,3,3,1.3333333333333333
+2012,"Unknown","8-16","Pedestrian",1,0,1,1,1
+2013,"Major Cities","0-7","Bus occupant",6,0,6,6,1
+2013,"Major Cities","0-7","Car driver",2,0,2,2,1
+2013,"Major Cities","0-7","Car passenger",381,0,170,170,2.2411764705882353
+2013,"Major Cities","0-7","Car unknown position",9,0,8,8,1.125
+2013,"Major Cities","0-7","Motorcyclist",40,0,15,15,2.6666666666666665
+2013,"Major Cities","0-7","Other or unknown",9,0,9,9,1
+2013,"Major Cities","0-7","Pedal cyclist",199,0,122,122,1.6311475409836065
+2013,"Major Cities","0-7","Pedestrian",382,0,104,104,3.673076923076923
+2013,"Major Cities","0-7","Pick-up truck or van occupant",2,0,1,1,2
+2013,"Major Cities","17-25","Bus occupant",10,0,9,9,1.1111111111111112
+2013,"Major Cities","17-25","Car driver",4844,6,1636,1630,2.9717791411042946
+2013,"Major Cities","17-25","Car passenger",2766,6,778,772,3.582901554404145
+2013,"Major Cities","17-25","Car unknown position",227,1,92,91,2.4945054945054945
+2013,"Major Cities","17-25","Heavy transport driver",107,0,15,15,7.133333333333334
+2013,"Major Cities","17-25","Heavy transport passenger",64,0,5,5,12.8
+2013,"Major Cities","17-25","Motorcyclist",4430,7,1235,1228,3.6074918566775245
+2013,"Major Cities","17-25","Other or unknown",133,0,44,44,3.022727272727273
+2013,"Major Cities","17-25","Pedal cyclist",1366,1,564,563,2.4262877442273534
+2013,"Major Cities","17-25","Pedestrian",1849,4,385,381,4.853018372703412
+2013,"Major Cities","17-25","Pick-up truck or van occupant",131,0,33,33,3.9696969696969697
+2013,"Major Cities","26-39","Bus occupant",53,0,18,18,2.9444444444444446
+2013,"Major Cities","26-39","Car driver",5158,5,1943,1938,2.6615067079463364
+2013,"Major Cities","26-39","Car passenger",1691,1,556,555,3.046846846846847
+2013,"Major Cities","26-39","Car unknown position",282,0,126,126,2.238095238095238
+2013,"Major Cities","26-39","Heavy transport driver",291,0,53,53,5.490566037735849
+2013,"Major Cities","26-39","Heavy transport passenger",5,0,1,1,5
+2013,"Major Cities","26-39","Heavy transport unknown position",1,0,1,1,1
+2013,"Major Cities","26-39","Motorcyclist",6516,5,1534,1529,4.2616088947024195
+2013,"Major Cities","26-39","Other or unknown",272,0,60,60,4.533333333333333
+2013,"Major Cities","26-39","Pedal cyclist",2589,1,1212,1211,2.137902559867878
+2013,"Major Cities","26-39","Pedestrian",1872,2,350,348,5.379310344827586
+2013,"Major Cities","26-39","Pick-up truck or van occupant",171,0,34,34,5.029411764705882
+2013,"Major Cities","40-64","Bus occupant",158,0,56,56,2.8214285714285716
+2013,"Major Cities","40-64","Car driver",7140,6,2322,2316,3.082901554404145
+2013,"Major Cities","40-64","Car passenger",2565,2,653,651,3.9400921658986174
+2013,"Major Cities","40-64","Car unknown position",539,0,133,133,4.052631578947368
+2013,"Major Cities","40-64","Heavy transport driver",589,2,108,106,5.556603773584905
+2013,"Major Cities","40-64","Heavy transport passenger",23,0,9,9,2.5555555555555554
+2013,"Major Cities","40-64","Heavy transport unknown position",26,1,12,11,2.3636363636363638
+2013,"Major Cities","40-64","Motorcyclist",10380,9,1868,1859,5.583647122108661
+2013,"Major Cities","40-64","Other or unknown",320,1,94,93,3.4408602150537635
+2013,"Major Cities","40-64","Pedal cyclist",5930,4,2029,2025,2.928395061728395
+2013,"Major Cities","40-64","Pedestrian",3782,8,514,506,7.474308300395257
+2013,"Major Cities","40-64","Pick-up truck or van occupant",213,0,46,46,4.630434782608695
+2013,"Major Cities","65-74","Bus occupant",216,0,34,34,6.352941176470588
+2013,"Major Cities","65-74","Car driver",2876,2,571,569,5.054481546572935
+2013,"Major Cities","65-74","Car passenger",1079,0,217,217,4.972350230414746
+2013,"Major Cities","65-74","Car unknown position",147,0,38,38,3.8684210526315788
+2013,"Major Cities","65-74","Heavy transport driver",31,0,8,8,3.875
+2013,"Major Cities","65-74","Heavy transport unknown position",11,0,2,2,5.5
+2013,"Major Cities","65-74","Motorcyclist",1013,2,119,117,8.658119658119658
+2013,"Major Cities","65-74","Other or unknown",90,0,26,26,3.4615384615384617
+2013,"Major Cities","65-74","Pedal cyclist",1177,3,235,232,5.073275862068965
+2013,"Major Cities","65-74","Pedestrian",2087,7,211,204,10.230392156862745
+2013,"Major Cities","65-74","Pick-up truck or van occupant",13,0,4,4,3.25
+2013,"Major Cities","75+","Bus occupant",381,0,61,61,6.245901639344262
+2013,"Major Cities","75+","Car driver",4036,14,635,621,6.499194847020934
+2013,"Major Cities","75+","Car passenger",1635,8,272,264,6.193181818181818
+2013,"Major Cities","75+","Car unknown position",327,2,40,38,8.605263157894736
+2013,"Major Cities","75+","Heavy transport driver",99,0,1,1,99
+2013,"Major Cities","75+","Heavy transport unknown position",4,0,1,1,4
+2013,"Major Cities","75+","Motorcyclist",557,1,50,49,11.36734693877551
+2013,"Major Cities","75+","Other or unknown",400,1,35,34,11.764705882352942
+2013,"Major Cities","75+","Pedal cyclist",554,0,71,71,7.802816901408451
+2013,"Major Cities","75+","Pedestrian",2746,26,315,289,9.501730103806228
+2013,"Major Cities","75+","Pick-up truck or van occupant",39,0,6,6,6.5
+2013,"Major Cities","8-16","Bus occupant",18,0,4,4,4.5
+2013,"Major Cities","8-16","Car driver",154,0,36,36,4.277777777777778
+2013,"Major Cities","8-16","Car passenger",714,1,346,345,2.0695652173913044
+2013,"Major Cities","8-16","Car unknown position",22,0,16,16,1.375
+2013,"Major Cities","8-16","Heavy transport passenger",2,0,2,2,1
+2013,"Major Cities","8-16","Motorcyclist",682,1,185,184,3.7065217391304346
+2013,"Major Cities","8-16","Other or unknown",32,0,14,14,2.2857142857142856
+2013,"Major Cities","8-16","Pedal cyclist",1196,1,537,536,2.2313432835820897
+2013,"Major Cities","8-16","Pedestrian",863,1,216,215,4.013953488372093
+2013,"Major Cities","8-16","Pick-up truck or van occupant",11,0,3,3,3.6666666666666665
+2013,"Regional","0-7","Bus occupant",1,0,1,1,1
+2013,"Regional","0-7","Car driver",2,0,1,1,2
+2013,"Regional","0-7","Car passenger",362,2,112,110,3.290909090909091
+2013,"Regional","0-7","Car unknown position",12,0,4,4,3
+2013,"Regional","0-7","Motorcyclist",37,0,19,19,1.9473684210526316
+2013,"Regional","0-7","Other or unknown",16,0,10,10,1.6
+2013,"Regional","0-7","Pedal cyclist",109,0,62,62,1.7580645161290323
+2013,"Regional","0-7","Pedestrian",121,2,39,37,3.27027027027027
+2013,"Regional","0-7","Pick-up truck or van occupant",14,0,1,1,14
+2013,"Regional","17-25","Bus occupant",10,0,4,4,2.5
+2013,"Regional","17-25","Car driver",3555,4,944,940,3.7819148936170213
+2013,"Regional","17-25","Car passenger",1509,1,392,391,3.8593350383631715
+2013,"Regional","17-25","Car unknown position",255,1,71,70,3.642857142857143
+2013,"Regional","17-25","Heavy transport driver",51,0,17,17,3
+2013,"Regional","17-25","Heavy transport passenger",29,0,1,1,29
+2013,"Regional","17-25","Heavy transport unknown position",1,0,1,1,1
+2013,"Regional","17-25","Motorcyclist",2603,0,731,731,3.560875512995896
+2013,"Regional","17-25","Other or unknown",82,0,41,41,2
+2013,"Regional","17-25","Pedal cyclist",469,0,167,167,2.808383233532934
+2013,"Regional","17-25","Pedestrian",423,0,84,84,5.035714285714286
+2013,"Regional","17-25","Pick-up truck or van occupant",85,0,26,26,3.269230769230769
+2013,"Regional","26-39","Bus occupant",3,0,3,3,1
+2013,"Regional","26-39","Car driver",3081,3,738,735,4.191836734693878
+2013,"Regional","26-39","Car passenger",1010,3,220,217,4.654377880184332
+2013,"Regional","26-39","Car unknown position",148,1,66,65,2.276923076923077
+2013,"Regional","26-39","Heavy transport driver",266,0,57,57,4.666666666666667
+2013,"Regional","26-39","Heavy transport passenger",10,0,3,3,3.3333333333333335
+2013,"Regional","26-39","Heavy transport unknown position",3,0,3,3,1
+2013,"Regional","26-39","Motorcyclist",2647,1,626,625,4.2352
+2013,"Regional","26-39","Other or unknown",176,0,41,41,4.2926829268292686
+2013,"Regional","26-39","Pedal cyclist",482,0,199,199,2.422110552763819
+2013,"Regional","26-39","Pedestrian",858,2,83,81,10.592592592592593
+2013,"Regional","26-39","Pick-up truck or van occupant",165,0,23,23,7.173913043478261
+2013,"Regional","40-64","Bus occupant",26,0,8,8,3.25
+2013,"Regional","40-64","Car driver",4991,5,1041,1036,4.8175675675675675
+2013,"Regional","40-64","Car passenger",1169,2,248,246,4.752032520325203
+2013,"Regional","40-64","Car unknown position",478,0,89,89,5.370786516853933
+2013,"Regional","40-64","Heavy transport driver",691,0,123,123,5.617886178861789
+2013,"Regional","40-64","Heavy transport passenger",25,0,11,11,2.272727272727273
+2013,"Regional","40-64","Heavy transport unknown position",19,0,8,8,2.375
+2013,"Regional","40-64","Motorcyclist",5332,4,939,935,5.702673796791444
+2013,"Regional","40-64","Other or unknown",593,0,73,73,8.123287671232877
+2013,"Regional","40-64","Pedal cyclist",1669,1,447,446,3.742152466367713
+2013,"Regional","40-64","Pedestrian",1019,2,119,117,8.709401709401709
+2013,"Regional","40-64","Pick-up truck or van occupant",136,0,23,23,5.913043478260869
+2013,"Regional","65-74","Bus occupant",5,0,1,1,5
+2013,"Regional","65-74","Car driver",1998,6,302,296,6.75
+2013,"Regional","65-74","Car passenger",688,0,109,109,6.3119266055045875
+2013,"Regional","65-74","Car unknown position",163,0,14,14,11.642857142857142
+2013,"Regional","65-74","Heavy transport driver",33,0,11,11,3
+2013,"Regional","65-74","Heavy transport unknown position",7,0,2,2,3.5
+2013,"Regional","65-74","Motorcyclist",595,1,79,78,7.628205128205129
+2013,"Regional","65-74","Other or unknown",36,0,10,10,3.6
+2013,"Regional","65-74","Pedal cyclist",383,1,81,80,4.7875
+2013,"Regional","65-74","Pedestrian",244,1,35,34,7.176470588235294
+2013,"Regional","65-74","Pick-up truck or van occupant",112,1,8,7,16
+2013,"Regional","75+","Bus occupant",44,0,8,8,5.5
+2013,"Regional","75+","Car driver",2287,8,318,310,7.377419354838709
+2013,"Regional","75+","Car passenger",1005,1,117,116,8.663793103448276
+2013,"Regional","75+","Car unknown position",202,0,27,27,7.481481481481482
+2013,"Regional","75+","Motorcyclist",238,2,26,24,9.916666666666666
+2013,"Regional","75+","Other or unknown",68,0,15,15,4.533333333333333
+2013,"Regional","75+","Pedal cyclist",246,1,33,32,7.6875
+2013,"Regional","75+","Pedestrian",785,2,60,58,13.53448275862069
+2013,"Regional","75+","Pick-up truck or van occupant",15,0,3,3,5
+2013,"Regional","8-16","Bus occupant",5,0,2,2,2.5
+2013,"Regional","8-16","Car driver",70,0,21,21,3.3333333333333335
+2013,"Regional","8-16","Car passenger",1021,1,221,220,4.640909090909091
+2013,"Regional","8-16","Car unknown position",23,0,16,16,1.4375
+2013,"Regional","8-16","Heavy transport passenger",3,0,2,2,1.5
+2013,"Regional","8-16","Motorcyclist",739,0,225,225,3.2844444444444445
+2013,"Regional","8-16","Other or unknown",48,0,16,16,3
+2013,"Regional","8-16","Pedal cyclist",506,0,301,301,1.681063122923588
+2013,"Regional","8-16","Pedestrian",342,0,58,58,5.896551724137931
+2013,"Regional","8-16","Pick-up truck or van occupant",52,0,3,3,17.333333333333332
+2013,"Remote","0-7","Car driver",2,0,1,1,2
+2013,"Remote","0-7","Car passenger",79,0,18,18,4.388888888888889
+2013,"Remote","0-7","Motorcyclist",10,0,3,3,3.3333333333333335
+2013,"Remote","0-7","Other or unknown",38,0,3,3,12.666666666666666
+2013,"Remote","0-7","Pedal cyclist",21,0,10,10,2.1
+2013,"Remote","0-7","Pedestrian",24,0,7,7,3.4285714285714284
+2013,"Remote","17-25","Bus occupant",1,0,1,1,1
+2013,"Remote","17-25","Car driver",525,1,116,115,4.565217391304348
+2013,"Remote","17-25","Car passenger",534,0,84,84,6.357142857142857
+2013,"Remote","17-25","Car unknown position",54,0,15,15,3.6
+2013,"Remote","17-25","Heavy transport driver",2,0,2,2,1
+2013,"Remote","17-25","Motorcyclist",269,0,96,96,2.8020833333333335
+2013,"Remote","17-25","Other or unknown",43,0,10,10,4.3
+2013,"Remote","17-25","Pedal cyclist",9,0,6,6,1.5
+2013,"Remote","17-25","Pedestrian",66,0,10,10,6.6
+2013,"Remote","17-25","Pick-up truck or van occupant",21,0,5,5,4.2
+2013,"Remote","26-39","Car driver",475,0,93,93,5.10752688172043
+2013,"Remote","26-39","Car passenger",425,0,69,69,6.159420289855072
+2013,"Remote","26-39","Car unknown position",30,0,14,14,2.142857142857143
+2013,"Remote","26-39","Heavy transport driver",26,0,3,3,8.666666666666666
+2013,"Remote","26-39","Heavy transport passenger",1,0,1,1,1
+2013,"Remote","26-39","Motorcyclist",603,0,88,88,6.8522727272727275
+2013,"Remote","26-39","Other or unknown",4,0,3,3,1.3333333333333333
+2013,"Remote","26-39","Pedal cyclist",49,0,19,19,2.5789473684210527
+2013,"Remote","26-39","Pedestrian",177,0,28,28,6.321428571428571
+2013,"Remote","26-39","Pick-up truck or van occupant",31,0,7,7,4.428571428571429
+2013,"Remote","40-64","Bus occupant",1,0,1,1,1
+2013,"Remote","40-64","Car driver",370,0,83,83,4.457831325301205
+2013,"Remote","40-64","Car passenger",358,0,49,49,7.3061224489795915
+2013,"Remote","40-64","Car unknown position",120,0,22,22,5.454545454545454
+2013,"Remote","40-64","Heavy transport driver",94,0,16,16,5.875
+2013,"Remote","40-64","Heavy transport passenger",1,0,1,1,1
+2013,"Remote","40-64","Motorcyclist",347,2,72,70,4.957142857142857
+2013,"Remote","40-64","Other or unknown",32,0,17,17,1.8823529411764706
+2013,"Remote","40-64","Pedal cyclist",39,0,23,23,1.6956521739130435
+2013,"Remote","40-64","Pedestrian",272,0,15,15,18.133333333333333
+2013,"Remote","40-64","Pick-up truck or van occupant",128,0,3,3,42.666666666666664
+2013,"Remote","65-74","Car driver",46,0,19,19,2.4210526315789473
+2013,"Remote","65-74","Car passenger",12,0,5,5,2.4
+2013,"Remote","65-74","Car unknown position",6,0,1,1,6
+2013,"Remote","65-74","Motorcyclist",67,0,10,10,6.7
+2013,"Remote","65-74","Other or unknown",8,0,1,1,8
+2013,"Remote","65-74","Pedal cyclist",56,0,4,4,14
+2013,"Remote","65-74","Pedestrian",1,0,1,1,1
+2013,"Remote","75+","Car driver",47,0,10,10,4.7
+2013,"Remote","75+","Car passenger",22,0,3,3,7.333333333333333
+2013,"Remote","75+","Car unknown position",43,0,3,3,14.333333333333334
+2013,"Remote","75+","Other or unknown",3,0,3,3,1
+2013,"Remote","75+","Pedestrian",7,0,3,3,2.3333333333333335
+2013,"Remote","8-16","Car driver",47,0,6,6,7.833333333333333
+2013,"Remote","8-16","Car passenger",100,2,38,36,2.7777777777777777
+2013,"Remote","8-16","Car unknown position",23,0,5,5,4.6
+2013,"Remote","8-16","Heavy transport unknown position",1,0,0,0,
+2013,"Remote","8-16","Motorcyclist",163,0,60,60,2.716666666666667
+2013,"Remote","8-16","Other or unknown",6,0,5,5,1.2
+2013,"Remote","8-16","Pedal cyclist",60,1,32,31,1.935483870967742
+2013,"Remote","8-16","Pedestrian",13,0,3,3,4.333333333333333
+2013,"Unknown","0-7","Car passenger",10,0,4,4,2.5
+2013,"Unknown","0-7","Other or unknown",7,0,2,2,3.5
+2013,"Unknown","0-7","Pedestrian",49,0,2,2,24.5
+2013,"Unknown","17-25","Bus occupant",17,0,2,2,8.5
+2013,"Unknown","17-25","Car driver",578,0,71,71,8.140845070422536
+2013,"Unknown","17-25","Car passenger",363,0,84,84,4.321428571428571
+2013,"Unknown","17-25","Car unknown position",24,0,10,10,2.4
+2013,"Unknown","17-25","Heavy transport driver",1,0,1,1,1
+2013,"Unknown","17-25","Motorcyclist",126,0,29,29,4.344827586206897
+2013,"Unknown","17-25","Other or unknown",27,0,3,3,9
+2013,"Unknown","17-25","Pedal cyclist",72,0,42,42,1.7142857142857142
+2013,"Unknown","17-25","Pedestrian",65,1,21,20,3.25
+2013,"Unknown","17-25","Pick-up truck or van occupant",3,0,2,2,1.5
+2013,"Unknown","26-39","Bus occupant",6,0,3,3,2
+2013,"Unknown","26-39","Car driver",282,0,64,64,4.40625
+2013,"Unknown","26-39","Car passenger",198,0,50,50,3.96
+2013,"Unknown","26-39","Car unknown position",16,0,3,3,5.333333333333333
+2013,"Unknown","26-39","Motorcyclist",209,0,27,27,7.7407407407407405
+2013,"Unknown","26-39","Other or unknown",41,0,2,2,20.5
+2013,"Unknown","26-39","Pedal cyclist",104,0,47,47,2.2127659574468086
+2013,"Unknown","26-39","Pedestrian",128,0,25,25,5.12
+2013,"Unknown","40-64","Bus occupant",10,0,1,1,10
+2013,"Unknown","40-64","Car driver",73,0,22,22,3.3181818181818183
+2013,"Unknown","40-64","Car passenger",145,0,25,25,5.8
+2013,"Unknown","40-64","Car unknown position",77,1,9,8,9.625
+2013,"Unknown","40-64","Heavy transport driver",9,0,2,2,4.5
+2013,"Unknown","40-64","Heavy transport passenger",16,0,4,4,4
+2013,"Unknown","40-64","Motorcyclist",119,1,16,15,7.933333333333334
+2013,"Unknown","40-64","Other or unknown",1,0,1,1,1
+2013,"Unknown","40-64","Pedal cyclist",39,1,24,23,1.6956521739130435
+2013,"Unknown","40-64","Pedestrian",182,0,18,18,10.11111111111111
+2013,"Unknown","40-64","Pick-up truck or van occupant",5,0,0,0,
+2013,"Unknown","65-74","Bus occupant",7,0,3,3,2.3333333333333335
+2013,"Unknown","65-74","Car driver",35,1,6,5,7
+2013,"Unknown","65-74","Car passenger",11,0,5,5,2.2
+2013,"Unknown","65-74","Car unknown position",1,1,1,0,
+2013,"Unknown","65-74","Pedal cyclist",7,0,5,5,1.4
+2013,"Unknown","65-74","Pedestrian",31,0,5,5,6.2
+2013,"Unknown","75+","Car driver",10,0,2,2,5
+2013,"Unknown","75+","Car passenger",26,0,4,4,6.5
+2013,"Unknown","75+","Car unknown position",2,0,1,1,2
+2013,"Unknown","75+","Pedal cyclist",5,0,2,2,2.5
+2013,"Unknown","75+","Pedestrian",17,3,4,1,17
+2013,"Unknown","8-16","Car passenger",63,0,9,9,7
+2013,"Unknown","8-16","Car unknown position",1,0,1,1,1
+2013,"Unknown","8-16","Motorcyclist",2,0,2,2,1
+2013,"Unknown","8-16","Pedal cyclist",8,0,3,3,2.6666666666666665
+2013,"Unknown","8-16","Pedestrian",108,0,3,3,36
+2013,"Unknown","8-16","Pick-up truck or van occupant",6,0,0,0,
+2014,"Major Cities","0-7","Bus occupant",3,0,3,3,1
+2014,"Major Cities","0-7","Car driver",15,0,3,3,5
+2014,"Major Cities","0-7","Car passenger",626,1,162,161,3.888198757763975
+2014,"Major Cities","0-7","Car unknown position",19,1,7,6,3.1666666666666665
+2014,"Major Cities","0-7","Motorcyclist",44,0,16,16,2.75
+2014,"Major Cities","0-7","Other or unknown",10,0,8,8,1.25
+2014,"Major Cities","0-7","Pedal cyclist",236,1,149,148,1.5945945945945945
+2014,"Major Cities","0-7","Pedestrian",325,2,92,90,3.611111111111111
+2014,"Major Cities","17-25","Bus occupant",65,0,15,15,4.333333333333333
+2014,"Major Cities","17-25","Car driver",4084,3,1650,1647,2.479659987856709
+2014,"Major Cities","17-25","Car passenger",2421,4,750,746,3.245308310991957
+2014,"Major Cities","17-25","Car unknown position",183,0,92,92,1.9891304347826086
+2014,"Major Cities","17-25","Heavy transport driver",38,0,12,12,3.1666666666666665
+2014,"Major Cities","17-25","Heavy transport passenger",28,0,6,6,4.666666666666667
+2014,"Major Cities","17-25","Heavy transport unknown position",2,0,2,2,1
+2014,"Major Cities","17-25","Motorcyclist",4594,5,1296,1291,3.558481797056545
+2014,"Major Cities","17-25","Other or unknown",82,0,49,49,1.6734693877551021
+2014,"Major Cities","17-25","Pedal cyclist",1080,1,588,587,1.839863713798978
+2014,"Major Cities","17-25","Pedestrian",1422,6,314,308,4.616883116883117
+2014,"Major Cities","17-25","Pick-up truck or van occupant",86,1,31,30,2.8666666666666667
+2014,"Major Cities","26-39","Bus occupant",24,0,22,22,1.0909090909090908
+2014,"Major Cities","26-39","Car driver",4798,2,1885,1883,2.5480616038236854
+2014,"Major Cities","26-39","Car passenger",1500,2,471,469,3.1982942430703623
+2014,"Major Cities","26-39","Car unknown position",311,0,109,109,2.853211009174312
+2014,"Major Cities","26-39","Heavy transport driver",130,0,41,41,3.1707317073170733
+2014,"Major Cities","26-39","Heavy transport passenger",24,0,7,7,3.4285714285714284
+2014,"Major Cities","26-39","Heavy transport unknown position",4,0,2,2,2
+2014,"Major Cities","26-39","Motorcyclist",6670,3,1623,1620,4.117283950617284
+2014,"Major Cities","26-39","Other or unknown",250,0,62,62,4.032258064516129
+2014,"Major Cities","26-39","Pedal cyclist",3177,2,1395,1393,2.280689160086145
+2014,"Major Cities","26-39","Pedestrian",1912,3,349,346,5.526011560693641
+2014,"Major Cities","26-39","Pick-up truck or van occupant",129,0,38,38,3.3947368421052633
+2014,"Major Cities","40-64","Bus occupant",269,1,67,66,4.075757575757576
+2014,"Major Cities","40-64","Car driver",8029,7,2391,2384,3.3678691275167787
+2014,"Major Cities","40-64","Car passenger",1963,1,623,622,3.1559485530546625
+2014,"Major Cities","40-64","Car unknown position",257,0,120,120,2.1416666666666666
+2014,"Major Cities","40-64","Heavy transport driver",540,0,92,92,5.869565217391305
+2014,"Major Cities","40-64","Heavy transport passenger",106,0,12,12,8.833333333333334
+2014,"Major Cities","40-64","Heavy transport unknown position",56,0,14,14,4
+2014,"Major Cities","40-64","Motorcyclist",9972,8,1935,1927,5.174883238194084
+2014,"Major Cities","40-64","Other or unknown",332,0,119,119,2.7899159663865545
+2014,"Major Cities","40-64","Pedal cyclist",5463,4,2064,2060,2.6519417475728155
+2014,"Major Cities","40-64","Pedestrian",3852,8,497,489,7.877300613496932
+2014,"Major Cities","40-64","Pick-up truck or van occupant",233,0,42,42,5.5476190476190474
+2014,"Major Cities","65-74","Bus occupant",142,0,30,30,4.733333333333333
+2014,"Major Cities","65-74","Car driver",2239,5,616,611,3.6644844517184945
+2014,"Major Cities","65-74","Car passenger",1163,1,241,240,4.845833333333333
+2014,"Major Cities","65-74","Car unknown position",128,0,25,25,5.12
+2014,"Major Cities","65-74","Heavy transport driver",18,0,11,11,1.6363636363636365
+2014,"Major Cities","65-74","Heavy transport passenger",37,0,3,3,12.333333333333334
+2014,"Major Cities","65-74","Heavy transport unknown position",2,0,2,2,1
+2014,"Major Cities","65-74","Motorcyclist",717,3,143,140,5.121428571428571
+2014,"Major Cities","65-74","Other or unknown",40,0,17,17,2.3529411764705883
+2014,"Major Cities","65-74","Pedal cyclist",1263,2,268,266,4.7481203007518795
+2014,"Major Cities","65-74","Pedestrian",2336,4,229,225,10.382222222222222
+2014,"Major Cities","65-74","Pick-up truck or van occupant",22,0,7,7,3.142857142857143
+2014,"Major Cities","75+","Bus occupant",539,1,62,61,8.836065573770492
+2014,"Major Cities","75+","Car driver",3933,13,692,679,5.792341678939617
+2014,"Major Cities","75+","Car passenger",1724,10,287,277,6.223826714801444
+2014,"Major Cities","75+","Car unknown position",428,0,39,39,10.974358974358974
+2014,"Major Cities","75+","Heavy transport driver",1,0,0,0,
+2014,"Major Cities","75+","Heavy transport passenger",14,0,3,3,4.666666666666667
+2014,"Major Cities","75+","Heavy transport unknown position",1,0,1,1,1
+2014,"Major Cities","75+","Motorcyclist",328,1,39,38,8.631578947368421
+2014,"Major Cities","75+","Other or unknown",248,1,31,30,8.266666666666667
+2014,"Major Cities","75+","Pedal cyclist",667,1,97,96,6.947916666666667
+2014,"Major Cities","75+","Pedestrian",3391,17,293,276,12.28623188405797
+2014,"Major Cities","75+","Pick-up truck or van occupant",13,0,1,1,13
+2014,"Major Cities","8-16","Bus occupant",11,0,10,10,1.1
+2014,"Major Cities","8-16","Car driver",57,0,24,24,2.375
+2014,"Major Cities","8-16","Car passenger",570,2,277,275,2.0727272727272728
+2014,"Major Cities","8-16","Car unknown position",21,0,11,11,1.9090909090909092
+2014,"Major Cities","8-16","Heavy transport passenger",39,0,2,2,19.5
+2014,"Major Cities","8-16","Heavy transport unknown position",1,0,1,1,1
+2014,"Major Cities","8-16","Motorcyclist",527,0,172,172,3.063953488372093
+2014,"Major Cities","8-16","Other or unknown",11,0,8,8,1.375
+2014,"Major Cities","8-16","Pedal cyclist",894,0,537,537,1.664804469273743
+2014,"Major Cities","8-16","Pedestrian",747,2,202,200,3.735
+2014,"Major Cities","8-16","Pick-up truck or van occupant",14,0,4,4,3.5
+2014,"Regional","0-7","Car driver",6,0,2,2,3
+2014,"Regional","0-7","Car passenger",814,1,116,115,7.078260869565217
+2014,"Regional","0-7","Car unknown position",19,0,9,9,2.111111111111111
+2014,"Regional","0-7","Motorcyclist",60,0,18,18,3.3333333333333335
+2014,"Regional","0-7","Other or unknown",11,0,7,7,1.5714285714285714
+2014,"Regional","0-7","Pedal cyclist",83,0,70,70,1.1857142857142857
+2014,"Regional","0-7","Pedestrian",45,1,32,31,1.4516129032258065
+2014,"Regional","0-7","Pick-up truck or van occupant",7,0,1,1,7
+2014,"Regional","17-25","Bus occupant",10,0,7,7,1.4285714285714286
+2014,"Regional","17-25","Car driver",2924,5,900,895,3.2670391061452513
+2014,"Regional","17-25","Car passenger",1730,1,403,402,4.303482587064677
+2014,"Regional","17-25","Car unknown position",340,0,68,68,5
+2014,"Regional","17-25","Heavy transport driver",68,0,13,13,5.230769230769231
+2014,"Regional","17-25","Heavy transport passenger",5,0,5,5,1
+2014,"Regional","17-25","Heavy transport unknown position",6,0,3,3,2
+2014,"Regional","17-25","Motorcyclist",2257,0,687,687,3.2852983988355167
+2014,"Regional","17-25","Other or unknown",103,0,30,30,3.433333333333333
+2014,"Regional","17-25","Pedal cyclist",368,0,148,148,2.4864864864864864
+2014,"Regional","17-25","Pedestrian",578,1,89,88,6.568181818181818
+2014,"Regional","17-25","Pick-up truck or van occupant",125,0,31,31,4.032258064516129
+2014,"Regional","26-39","Bus occupant",23,0,6,6,3.8333333333333335
+2014,"Regional","26-39","Car driver",3428,6,787,781,4.389244558258643
+2014,"Regional","26-39","Car passenger",1022,0,245,245,4.171428571428572
+2014,"Regional","26-39","Car unknown position",202,0,59,59,3.4237288135593222
+2014,"Regional","26-39","Heavy transport driver",124,0,40,40,3.1
+2014,"Regional","26-39","Heavy transport passenger",80,0,6,6,13.333333333333334
+2014,"Regional","26-39","Heavy transport unknown position",4,0,3,3,1.3333333333333333
+2014,"Regional","26-39","Motorcyclist",2655,0,671,671,3.956780923994039
+2014,"Regional","26-39","Other or unknown",54,0,31,31,1.7419354838709677
+2014,"Regional","26-39","Pedal cyclist",436,0,179,179,2.435754189944134
+2014,"Regional","26-39","Pedestrian",520,2,85,83,6.265060240963855
+2014,"Regional","26-39","Pick-up truck or van occupant",37,0,18,18,2.0555555555555554
+2014,"Regional","40-64","Bus occupant",200,0,17,17,11.764705882352942
+2014,"Regional","40-64","Car driver",5329,6,1079,1073,4.966449207828518
+2014,"Regional","40-64","Car passenger",1115,2,227,225,4.955555555555556
+2014,"Regional","40-64","Car unknown position",244,0,69,69,3.536231884057971
+2014,"Regional","40-64","Heavy transport driver",845,0,138,138,6.1231884057971016
+2014,"Regional","40-64","Heavy transport passenger",28,0,7,7,4
+2014,"Regional","40-64","Heavy transport unknown position",84,0,11,11,7.636363636363637
+2014,"Regional","40-64","Motorcyclist",5338,3,1014,1011,5.279920870425322
+2014,"Regional","40-64","Other or unknown",294,0,57,57,5.157894736842105
+2014,"Regional","40-64","Pedal cyclist",1806,1,527,526,3.4334600760456273
+2014,"Regional","40-64","Pedestrian",755,5,100,95,7.947368421052632
+2014,"Regional","40-64","Pick-up truck or van occupant",230,1,34,33,6.96969696969697
+2014,"Regional","65-74","Bus occupant",45,0,6,6,7.5
+2014,"Regional","65-74","Car driver",2150,4,299,295,7.288135593220339
+2014,"Regional","65-74","Car passenger",684,1,98,97,7.051546391752577
+2014,"Regional","65-74","Car unknown position",160,0,17,17,9.411764705882353
+2014,"Regional","65-74","Heavy transport driver",44,0,12,12,3.6666666666666665
+2014,"Regional","65-74","Heavy transport unknown position",67,0,5,5,13.4
+2014,"Regional","65-74","Motorcyclist",526,2,84,82,6.414634146341464
+2014,"Regional","65-74","Other or unknown",72,0,15,15,4.8
+2014,"Regional","65-74","Pedal cyclist",551,2,114,112,4.919642857142857
+2014,"Regional","65-74","Pedestrian",305,1,46,45,6.777777777777778
+2014,"Regional","65-74","Pick-up truck or van occupant",8,0,2,2,4
+2014,"Regional","75+","Bus occupant",81,0,14,14,5.785714285714286
+2014,"Regional","75+","Car driver",2472,14,325,311,7.948553054662379
+2014,"Regional","75+","Car passenger",868,5,111,106,8.18867924528302
+2014,"Regional","75+","Car unknown position",121,0,16,16,7.5625
+2014,"Regional","75+","Heavy transport driver",9,0,1,1,9
+2014,"Regional","75+","Motorcyclist",362,0,32,32,11.3125
+2014,"Regional","75+","Other or unknown",177,0,17,17,10.411764705882353
+2014,"Regional","75+","Pedal cyclist",178,1,33,32,5.5625
+2014,"Regional","75+","Pedestrian",652,3,70,67,9.73134328358209
+2014,"Regional","75+","Pick-up truck or van occupant",19,0,3,3,6.333333333333333
+2014,"Regional","8-16","Bus occupant",6,0,5,5,1.2
+2014,"Regional","8-16","Car driver",62,0,16,16,3.875
+2014,"Regional","8-16","Car passenger",896,0,190,190,4.71578947368421
+2014,"Regional","8-16","Car unknown position",40,0,11,11,3.6363636363636362
+2014,"Regional","8-16","Heavy transport passenger",46,0,1,1,46
+2014,"Regional","8-16","Motorcyclist",546,0,226,226,2.415929203539823
+2014,"Regional","8-16","Other or unknown",12,0,11,11,1.0909090909090908
+2014,"Regional","8-16","Pedal cyclist",709,1,305,304,2.3322368421052633
+2014,"Regional","8-16","Pedestrian",185,1,63,62,2.9838709677419355
+2014,"Regional","8-16","Pick-up truck or van occupant",43,0,8,8,5.375
+2014,"Remote","0-7","Car passenger",86,0,15,15,5.733333333333333
+2014,"Remote","0-7","Motorcyclist",2,0,2,2,1
+2014,"Remote","0-7","Other or unknown",4,0,3,3,1.3333333333333333
+2014,"Remote","0-7","Pedal cyclist",9,0,5,5,1.8
+2014,"Remote","0-7","Pedestrian",55,0,9,9,6.111111111111111
+2014,"Remote","17-25","Bus occupant",1,0,1,1,1
+2014,"Remote","17-25","Car driver",412,0,90,90,4.5777777777777775
+2014,"Remote","17-25","Car passenger",446,0,80,80,5.575
+2014,"Remote","17-25","Car unknown position",110,0,17,17,6.470588235294118
+2014,"Remote","17-25","Heavy transport driver",11,0,3,3,3.6666666666666665
+2014,"Remote","17-25","Motorcyclist",260,0,86,86,3.0232558139534884
+2014,"Remote","17-25","Other or unknown",25,0,8,8,3.125
+2014,"Remote","17-25","Pedal cyclist",7,0,5,5,1.4
+2014,"Remote","17-25","Pedestrian",98,0,12,12,8.166666666666666
+2014,"Remote","17-25","Pick-up truck or van occupant",2,0,2,2,1
+2014,"Remote","26-39","Car driver",623,0,87,87,7.160919540229885
+2014,"Remote","26-39","Car passenger",304,2,55,53,5.735849056603773
+2014,"Remote","26-39","Car unknown position",81,0,12,12,6.75
+2014,"Remote","26-39","Heavy transport driver",10,0,5,5,2
+2014,"Remote","26-39","Heavy transport passenger",1,0,1,1,1
+2014,"Remote","26-39","Heavy transport unknown position",1,0,1,1,1
+2014,"Remote","26-39","Motorcyclist",455,0,79,79,5.7594936708860756
+2014,"Remote","26-39","Other or unknown",38,0,8,8,4.75
+2014,"Remote","26-39","Pedal cyclist",54,0,21,21,2.5714285714285716
+2014,"Remote","26-39","Pedestrian",184,0,25,25,7.36
+2014,"Remote","26-39","Pick-up truck or van occupant",9,0,4,4,2.25
+2014,"Remote","40-64","Bus occupant",2,0,2,2,1
+2014,"Remote","40-64","Car driver",659,0,105,105,6.276190476190476
+2014,"Remote","40-64","Car passenger",487,1,46,45,10.822222222222223
+2014,"Remote","40-64","Car unknown position",35,0,17,17,2.0588235294117645
+2014,"Remote","40-64","Heavy transport driver",13,0,7,7,1.8571428571428572
+2014,"Remote","40-64","Heavy transport passenger",25,0,2,2,12.5
+2014,"Remote","40-64","Heavy transport unknown position",20,0,2,2,10
+2014,"Remote","40-64","Motorcyclist",436,0,71,71,6.140845070422535
+2014,"Remote","40-64","Other or unknown",46,0,13,13,3.5384615384615383
+2014,"Remote","40-64","Pedal cyclist",148,0,25,25,5.92
+2014,"Remote","40-64","Pedestrian",140,0,16,16,8.75
+2014,"Remote","40-64","Pick-up truck or van occupant",11,0,1,1,11
+2014,"Remote","65-74","Car driver",101,0,19,19,5.315789473684211
+2014,"Remote","65-74","Car passenger",84,0,11,11,7.636363636363637
+2014,"Remote","65-74","Car unknown position",14,0,3,3,4.666666666666667
+2014,"Remote","65-74","Motorcyclist",21,0,6,6,3.5
+2014,"Remote","65-74","Pedal cyclist",27,0,6,6,4.5
+2014,"Remote","65-74","Pedestrian",15,0,4,4,3.75
+2014,"Remote","65-74","Pick-up truck or van occupant",1,0,1,1,1
+2014,"Remote","75+","Car driver",92,0,16,16,5.75
+2014,"Remote","75+","Car passenger",39,1,7,6,6.5
+2014,"Remote","75+","Car unknown position",11,0,3,3,3.6666666666666665
+2014,"Remote","75+","Heavy transport driver",8,0,1,1,8
+2014,"Remote","75+","Pedestrian",31,0,4,4,7.75
+2014,"Remote","75+","Pick-up truck or van occupant",5,0,1,1,5
+2014,"Remote","8-16","Car driver",28,0,6,6,4.666666666666667
+2014,"Remote","8-16","Car passenger",147,0,29,29,5.068965517241379
+2014,"Remote","8-16","Car unknown position",5,0,2,2,2.5
+2014,"Remote","8-16","Heavy transport unknown position",1,0,1,1,1
+2014,"Remote","8-16","Motorcyclist",122,0,53,53,2.30188679245283
+2014,"Remote","8-16","Other or unknown",2,0,1,1,2
+2014,"Remote","8-16","Pedal cyclist",103,0,32,32,3.21875
+2014,"Remote","8-16","Pedestrian",21,0,4,4,5.25
+2014,"Remote","8-16","Pick-up truck or van occupant",8,0,3,3,2.6666666666666665
+2014,"Unknown","0-7","Car passenger",8,0,4,4,2
+2014,"Unknown","0-7","Car unknown position",7,0,1,1,7
+2014,"Unknown","0-7","Pedestrian",14,1,3,2,7
+2014,"Unknown","17-25","Bus occupant",5,0,5,5,1
+2014,"Unknown","17-25","Car driver",356,1,69,68,5.235294117647059
+2014,"Unknown","17-25","Car passenger",401,0,89,89,4.50561797752809
+2014,"Unknown","17-25","Car unknown position",39,1,8,7,5.571428571428571
+2014,"Unknown","17-25","Motorcyclist",193,1,41,40,4.825
+2014,"Unknown","17-25","Other or unknown",5,0,4,4,1.25
+2014,"Unknown","17-25","Pedal cyclist",79,0,23,23,3.4347826086956523
+2014,"Unknown","17-25","Pedestrian",75,0,24,24,3.125
+2014,"Unknown","17-25","Pick-up truck or van occupant",23,0,2,2,11.5
+2014,"Unknown","26-39","Bus occupant",29,0,6,6,4.833333333333333
+2014,"Unknown","26-39","Car driver",264,2,81,79,3.3417721518987342
+2014,"Unknown","26-39","Car passenger",355,1,56,55,6.454545454545454
+2014,"Unknown","26-39","Car unknown position",15,1,14,13,1.1538461538461537
+2014,"Unknown","26-39","Heavy transport driver",1,0,1,1,1
+2014,"Unknown","26-39","Motorcyclist",276,0,43,43,6.4186046511627906
+2014,"Unknown","26-39","Other or unknown",3,0,3,3,1
+2014,"Unknown","26-39","Pedal cyclist",84,0,33,33,2.5454545454545454
+2014,"Unknown","26-39","Pedestrian",86,0,22,22,3.909090909090909
+2014,"Unknown","26-39","Pick-up truck or van occupant",19,0,3,3,6.333333333333333
+2014,"Unknown","40-64","Bus occupant",22,0,6,6,3.6666666666666665
+2014,"Unknown","40-64","Car driver",130,0,34,34,3.823529411764706
+2014,"Unknown","40-64","Car passenger",304,0,46,46,6.608695652173913
+2014,"Unknown","40-64","Car unknown position",24,0,1,1,24
+2014,"Unknown","40-64","Heavy transport passenger",26,0,0,0,
+2014,"Unknown","40-64","Motorcyclist",127,1,23,22,5.7727272727272725
+2014,"Unknown","40-64","Other or unknown",9,0,4,4,2.25
+2014,"Unknown","40-64","Pedal cyclist",36,0,18,18,2
+2014,"Unknown","40-64","Pedestrian",216,0,18,18,12
+2014,"Unknown","40-64","Pick-up truck or van occupant",52,0,2,2,26
+2014,"Unknown","65-74","Bus occupant",1,0,1,1,1
+2014,"Unknown","65-74","Car driver",29,0,7,7,4.142857142857143
+2014,"Unknown","65-74","Car passenger",27,0,7,7,3.857142857142857
+2014,"Unknown","65-74","Car unknown position",12,0,0,0,
+2014,"Unknown","65-74","Other or unknown",24,1,2,1,24
+2014,"Unknown","65-74","Pedal cyclist",43,0,5,5,8.6
+2014,"Unknown","65-74","Pedestrian",108,0,7,7,15.428571428571429
+2014,"Unknown","65-74","Pick-up truck or van occupant",5,0,2,2,2.5
+2014,"Unknown","75+","Car driver",110,1,7,6,18.333333333333332
+2014,"Unknown","75+","Car passenger",38,0,6,6,6.333333333333333
+2014,"Unknown","75+","Motorcyclist",2,0,1,1,2
+2014,"Unknown","75+","Pedal cyclist",1,0,1,1,1
+2014,"Unknown","75+","Pedestrian",9,0,2,2,4.5
+2014,"Unknown","8-16","Bus occupant",6,0,6,6,1
+2014,"Unknown","8-16","Car driver",2,0,1,1,2
+2014,"Unknown","8-16","Car passenger",45,0,9,9,5
+2014,"Unknown","8-16","Car unknown position",38,0,1,1,38
+2014,"Unknown","8-16","Other or unknown",14,0,1,1,14
+2014,"Unknown","8-16","Pedal cyclist",5,0,4,4,1.25
+2015,"Major Cities","0-7","Car driver",3,0,1,1,3
+2015,"Major Cities","0-7","Car passenger",1113,1,204,203,5.482758620689655
+2015,"Major Cities","0-7","Car unknown position",20,0,6,6,3.3333333333333335
+2015,"Major Cities","0-7","Motorcyclist",28,0,15,15,1.8666666666666667
+2015,"Major Cities","0-7","Other or unknown",5,0,4,4,1.25
+2015,"Major Cities","0-7","Pedal cyclist",213,0,132,132,1.6136363636363635
+2015,"Major Cities","0-7","Pedestrian",338,1,92,91,3.7142857142857144
+2015,"Major Cities","0-7","Pick-up truck or van occupant",1,0,1,1,1
+2015,"Major Cities","17-25","Bus occupant",54,0,16,16,3.375
+2015,"Major Cities","17-25","Car driver",6434,3,1833,1830,3.515846994535519
+2015,"Major Cities","17-25","Car passenger",2540,0,772,772,3.290155440414508
+2015,"Major Cities","17-25","Car unknown position",258,0,101,101,2.5544554455445545
+2015,"Major Cities","17-25","Heavy transport driver",28,0,11,11,2.5454545454545454
+2015,"Major Cities","17-25","Heavy transport passenger",70,0,5,5,14
+2015,"Major Cities","17-25","Motorcyclist",5727,2,1270,1268,4.516561514195583
+2015,"Major Cities","17-25","Other or unknown",130,0,54,54,2.4074074074074074
+2015,"Major Cities","17-25","Pedal cyclist",1100,1,570,569,1.9332161687170475
+2015,"Major Cities","17-25","Pedestrian",1840,2,342,340,5.411764705882353
+2015,"Major Cities","17-25","Pick-up truck or van occupant",66,0,17,17,3.8823529411764706
+2015,"Major Cities","26-39","Bus occupant",207,0,19,19,10.894736842105264
+2015,"Major Cities","26-39","Car driver",6784,5,2116,2111,3.2136428233064898
+2015,"Major Cities","26-39","Car passenger",3034,3,563,560,5.417857142857143
+2015,"Major Cities","26-39","Car unknown position",477,1,123,122,3.9098360655737703
+2015,"Major Cities","26-39","Heavy transport driver",208,0,57,57,3.6491228070175437
+2015,"Major Cities","26-39","Heavy transport passenger",41,0,7,7,5.857142857142857
+2015,"Major Cities","26-39","Heavy transport unknown position",38,0,0,0,
+2015,"Major Cities","26-39","Motorcyclist",8115,8,1604,1596,5.084586466165414
+2015,"Major Cities","26-39","Other or unknown",232,0,74,74,3.135135135135135
+2015,"Major Cities","26-39","Pedal cyclist",3005,1,1255,1254,2.3963317384370018
+2015,"Major Cities","26-39","Pedestrian",1959,6,371,365,5.367123287671233
+2015,"Major Cities","26-39","Pick-up truck or van occupant",268,0,35,35,7.6571428571428575
+2015,"Major Cities","40-64","Bus occupant",175,0,51,51,3.4313725490196076
+2015,"Major Cities","40-64","Car driver",10000,13,2553,2540,3.937007874015748
+2015,"Major Cities","40-64","Car passenger",2370,1,620,619,3.8287560581583198
+2015,"Major Cities","40-64","Car unknown position",925,1,124,123,7.520325203252033
+2015,"Major Cities","40-64","Heavy transport driver",546,0,111,111,4.918918918918919
+2015,"Major Cities","40-64","Heavy transport passenger",76,0,6,6,12.666666666666666
+2015,"Major Cities","40-64","Heavy transport unknown position",28,1,12,11,2.5454545454545454
+2015,"Major Cities","40-64","Motorcyclist",13643,10,1987,1977,6.900859888720284
+2015,"Major Cities","40-64","Other or unknown",435,0,103,103,4.223300970873787
+2015,"Major Cities","40-64","Pedal cyclist",6605,2,2162,2160,3.0578703703703702
+2015,"Major Cities","40-64","Pedestrian",4766,14,500,486,9.806584362139917
+2015,"Major Cities","40-64","Pick-up truck or van occupant",209,0,51,51,4.098039215686274
+2015,"Major Cities","65-74","Bus occupant",380,0,39,39,9.743589743589743
+2015,"Major Cities","65-74","Car driver",3258,6,676,670,4.862686567164179
+2015,"Major Cities","65-74","Car passenger",1173,2,233,231,5.077922077922078
+2015,"Major Cities","65-74","Car unknown position",540,0,48,48,11.25
+2015,"Major Cities","65-74","Heavy transport driver",15,0,7,7,2.142857142857143
+2015,"Major Cities","65-74","Heavy transport passenger",8,0,1,1,8
+2015,"Major Cities","65-74","Motorcyclist",1131,1,137,136,8.316176470588236
+2015,"Major Cities","65-74","Other or unknown",177,0,22,22,8.045454545454545
+2015,"Major Cities","65-74","Pedal cyclist",1722,1,319,318,5.415094339622642
+2015,"Major Cities","65-74","Pedestrian",2430,6,211,205,11.853658536585366
+2015,"Major Cities","65-74","Pick-up truck or van occupant",9,0,5,5,1.8
+2015,"Major Cities","75+","Bus occupant",433,2,68,66,6.5606060606060606
+2015,"Major Cities","75+","Car driver",6126,12,762,750,8.168
+2015,"Major Cities","75+","Car passenger",2591,4,301,297,8.723905723905723
+2015,"Major Cities","75+","Car unknown position",726,1,58,57,12.736842105263158
+2015,"Major Cities","75+","Heavy transport driver",1,0,1,1,1
+2015,"Major Cities","75+","Heavy transport passenger",13,0,1,1,13
+2015,"Major Cities","75+","Motorcyclist",467,1,39,38,12.289473684210526
+2015,"Major Cities","75+","Other or unknown",375,0,26,26,14.423076923076923
+2015,"Major Cities","75+","Pedal cyclist",534,1,97,96,5.5625
+2015,"Major Cities","75+","Pedestrian",4687,10,294,284,16.503521126760564
+2015,"Major Cities","75+","Pick-up truck or van occupant",26,0,7,7,3.7142857142857144
+2015,"Major Cities","8-16","Bus occupant",4,0,4,4,1
+2015,"Major Cities","8-16","Car driver",33,0,24,24,1.375
+2015,"Major Cities","8-16","Car passenger",930,4,362,358,2.5977653631284916
+2015,"Major Cities","8-16","Car unknown position",26,1,19,18,1.4444444444444444
+2015,"Major Cities","8-16","Heavy transport driver",3,0,1,1,3
+2015,"Major Cities","8-16","Motorcyclist",723,0,183,183,3.9508196721311477
+2015,"Major Cities","8-16","Other or unknown",25,0,15,15,1.6666666666666667
+2015,"Major Cities","8-16","Pedal cyclist",1202,0,569,569,2.1124780316344465
+2015,"Major Cities","8-16","Pedestrian",876,1,206,205,4.273170731707317
+2015,"Major Cities","8-16","Pick-up truck or van occupant",2,0,1,1,2
+2015,"Regional","0-7","Car driver",2,0,2,2,1
+2015,"Regional","0-7","Car passenger",358,3,117,114,3.1403508771929824
+2015,"Regional","0-7","Car unknown position",7,0,5,5,1.4
+2015,"Regional","0-7","Heavy transport passenger",1,0,1,1,1
+2015,"Regional","0-7","Motorcyclist",20,0,13,13,1.5384615384615385
+2015,"Regional","0-7","Other or unknown",13,0,3,3,4.333333333333333
+2015,"Regional","0-7","Pedal cyclist",108,0,77,77,1.4025974025974026
+2015,"Regional","0-7","Pedestrian",155,1,26,25,6.2
+2015,"Regional","0-7","Pick-up truck or van occupant",1,0,1,1,1
+2015,"Regional","17-25","Bus occupant",19,0,3,3,6.333333333333333
+2015,"Regional","17-25","Car driver",4043,5,932,927,4.361380798274002
+2015,"Regional","17-25","Car passenger",1880,3,382,379,4.96042216358839
+2015,"Regional","17-25","Car unknown position",371,0,63,63,5.888888888888889
+2015,"Regional","17-25","Heavy transport driver",33,0,16,16,2.0625
+2015,"Regional","17-25","Heavy transport passenger",4,0,3,3,1.3333333333333333
+2015,"Regional","17-25","Heavy transport unknown position",4,0,3,3,1.3333333333333333
+2015,"Regional","17-25","Motorcyclist",2377,3,680,677,3.511078286558346
+2015,"Regional","17-25","Other or unknown",165,0,35,35,4.714285714285714
+2015,"Regional","17-25","Pedal cyclist",308,0,127,127,2.425196850393701
+2015,"Regional","17-25","Pedestrian",352,0,61,61,5.770491803278689
+2015,"Regional","17-25","Pick-up truck or van occupant",80,0,19,19,4.2105263157894735
+2015,"Regional","26-39","Bus occupant",3,0,1,1,3
+2015,"Regional","26-39","Car driver",4642,7,892,885,5.245197740112994
+2015,"Regional","26-39","Car passenger",1058,2,218,216,4.898148148148148
+2015,"Regional","26-39","Car unknown position",222,0,69,69,3.217391304347826
+2015,"Regional","26-39","Heavy transport driver",164,0,54,54,3.037037037037037
+2015,"Regional","26-39","Heavy transport passenger",14,0,4,4,3.5
+2015,"Regional","26-39","Heavy transport unknown position",93,0,3,3,31
+2015,"Regional","26-39","Motorcyclist",3330,6,622,616,5.4058441558441555
+2015,"Regional","26-39","Other or unknown",127,1,28,27,4.703703703703703
+2015,"Regional","26-39","Pedal cyclist",482,0,220,220,2.190909090909091
+2015,"Regional","26-39","Pedestrian",417,1,70,69,6.043478260869565
+2015,"Regional","26-39","Pick-up truck or van occupant",140,0,18,18,7.777777777777778
+2015,"Regional","40-64","Bus occupant",30,0,15,15,2
+2015,"Regional","40-64","Car driver",7895,3,1172,1169,6.753635585970915
+2015,"Regional","40-64","Car passenger",1394,0,277,277,5.0324909747292415
+2015,"Regional","40-64","Car unknown position",477,0,77,77,6.194805194805195
+2015,"Regional","40-64","Heavy transport driver",1094,0,147,147,7.442176870748299
+2015,"Regional","40-64","Heavy transport passenger",20,0,3,3,6.666666666666667
+2015,"Regional","40-64","Heavy transport unknown position",57,0,5,5,11.4
+2015,"Regional","40-64","Motorcyclist",5687,7,1013,1006,5.653081510934394
+2015,"Regional","40-64","Other or unknown",290,0,62,62,4.67741935483871
+2015,"Regional","40-64","Pedal cyclist",1830,4,508,504,3.630952380952381
+2015,"Regional","40-64","Pedestrian",818,1,115,114,7.175438596491228
+2015,"Regional","40-64","Pick-up truck or van occupant",299,0,44,44,6.795454545454546
+2015,"Regional","65-74","Bus occupant",19,0,5,5,3.8
+2015,"Regional","65-74","Car driver",2760,3,334,331,8.338368580060424
+2015,"Regional","65-74","Car passenger",1169,1,124,123,9.504065040650406
+2015,"Regional","65-74","Car unknown position",182,0,17,17,10.705882352941176
+2015,"Regional","65-74","Heavy transport driver",92,0,14,14,6.571428571428571
+2015,"Regional","65-74","Heavy transport passenger",8,1,3,2,4
+2015,"Regional","65-74","Heavy transport unknown position",1,0,1,1,1
+2015,"Regional","65-74","Motorcyclist",756,1,84,83,9.108433734939759
+2015,"Regional","65-74","Other or unknown",263,1,10,9,29.22222222222222
+2015,"Regional","65-74","Pedal cyclist",362,1,76,75,4.826666666666667
+2015,"Regional","65-74","Pedestrian",862,1,42,41,21.024390243902438
+2015,"Regional","65-74","Pick-up truck or van occupant",55,0,8,8,6.875
+2015,"Regional","75+","Bus occupant",37,0,5,5,7.4
+2015,"Regional","75+","Car driver",3614,19,377,358,10.094972067039107
+2015,"Regional","75+","Car passenger",1146,3,118,115,9.965217391304348
+2015,"Regional","75+","Car unknown position",283,1,26,25,11.32
+2015,"Regional","75+","Heavy transport driver",21,0,2,2,10.5
+2015,"Regional","75+","Motorcyclist",318,2,49,47,6.76595744680851
+2015,"Regional","75+","Other or unknown",115,0,13,13,8.846153846153847
+2015,"Regional","75+","Pedal cyclist",378,1,44,43,8.790697674418604
+2015,"Regional","75+","Pedestrian",1280,4,95,91,14.065934065934066
+2015,"Regional","75+","Pick-up truck or van occupant",63,0,8,8,7.875
+2015,"Regional","8-16","Bus occupant",10,0,8,8,1.25
+2015,"Regional","8-16","Car driver",70,1,29,28,2.5
+2015,"Regional","8-16","Car passenger",1142,2,232,230,4.965217391304348
+2015,"Regional","8-16","Car unknown position",37,0,16,16,2.3125
+2015,"Regional","8-16","Heavy transport passenger",8,0,7,7,1.1428571428571428
+2015,"Regional","8-16","Motorcyclist",665,0,239,239,2.782426778242678
+2015,"Regional","8-16","Other or unknown",20,0,9,9,2.2222222222222223
+2015,"Regional","8-16","Pedal cyclist",545,0,330,330,1.6515151515151516
+2015,"Regional","8-16","Pedestrian",331,1,60,59,5.610169491525424
+2015,"Regional","8-16","Pick-up truck or van occupant",1,0,1,1,1
+2015,"Remote","0-7","Car passenger",85,1,21,20,4.25
+2015,"Remote","0-7","Car unknown position",1,0,1,1,1
+2015,"Remote","0-7","Heavy transport passenger",1,0,1,1,1
+2015,"Remote","0-7","Motorcyclist",25,0,7,7,3.5714285714285716
+2015,"Remote","0-7","Other or unknown",2,0,2,2,1
+2015,"Remote","0-7","Pedal cyclist",13,0,10,10,1.3
+2015,"Remote","0-7","Pedestrian",32,0,5,5,6.4
+2015,"Remote","0-7","Pick-up truck or van occupant",2,0,1,1,2
+2015,"Remote","17-25","Bus occupant",3,0,1,1,3
+2015,"Remote","17-25","Car driver",332,0,78,78,4.256410256410256
+2015,"Remote","17-25","Car passenger",371,1,64,63,5.888888888888889
+2015,"Remote","17-25","Car unknown position",54,1,15,14,3.857142857142857
+2015,"Remote","17-25","Motorcyclist",327,0,79,79,4.139240506329114
+2015,"Remote","17-25","Other or unknown",20,0,10,10,2
+2015,"Remote","17-25","Pedal cyclist",37,0,14,14,2.642857142857143
+2015,"Remote","17-25","Pedestrian",96,0,11,11,8.727272727272727
+2015,"Remote","17-25","Pick-up truck or van occupant",25,0,5,5,5
+2015,"Remote","26-39","Bus occupant",77,0,5,5,15.4
+2015,"Remote","26-39","Car driver",454,1,97,96,4.729166666666667
+2015,"Remote","26-39","Car passenger",322,0,67,67,4.8059701492537314
+2015,"Remote","26-39","Car unknown position",24,0,10,10,2.4
+2015,"Remote","26-39","Heavy transport driver",11,0,5,5,2.2
+2015,"Remote","26-39","Motorcyclist",308,0,69,69,4.463768115942029
+2015,"Remote","26-39","Other or unknown",25,0,4,4,6.25
+2015,"Remote","26-39","Pedal cyclist",52,0,26,26,2
+2015,"Remote","26-39","Pedestrian",253,0,29,29,8.724137931034482
+2015,"Remote","26-39","Pick-up truck or van occupant",41,0,7,7,5.857142857142857
+2015,"Remote","40-64","Car driver",725,2,114,112,6.473214285714286
+2015,"Remote","40-64","Car passenger",439,0,51,51,8.607843137254902
+2015,"Remote","40-64","Car unknown position",35,0,13,13,2.6923076923076925
+2015,"Remote","40-64","Heavy transport driver",143,0,9,9,15.88888888888889
+2015,"Remote","40-64","Heavy transport passenger",74,0,0,0,
+2015,"Remote","40-64","Motorcyclist",605,0,87,87,6.954022988505747
+2015,"Remote","40-64","Other or unknown",61,0,16,16,3.8125
+2015,"Remote","40-64","Pedal cyclist",118,0,33,33,3.5757575757575757
+2015,"Remote","40-64","Pedestrian",485,1,37,36,13.472222222222221
+2015,"Remote","40-64","Pick-up truck or van occupant",42,0,5,5,8.4
+2015,"Remote","65-74","Car driver",58,1,17,16,3.625
+2015,"Remote","65-74","Car passenger",115,0,9,9,12.777777777777779
+2015,"Remote","65-74","Car unknown position",4,0,1,1,4
+2015,"Remote","65-74","Heavy transport driver",3,0,1,1,3
+2015,"Remote","65-74","Motorcyclist",38,0,6,6,6.333333333333333
+2015,"Remote","65-74","Other or unknown",2,0,2,2,1
+2015,"Remote","65-74","Pedal cyclist",8,0,3,3,2.6666666666666665
+2015,"Remote","65-74","Pedestrian",34,1,4,3,11.333333333333334
+2015,"Remote","75+","Car driver",94,0,8,8,11.75
+2015,"Remote","75+","Car passenger",11,0,4,4,2.75
+2015,"Remote","75+","Car unknown position",36,0,1,1,36
+2015,"Remote","75+","Motorcyclist",3,0,1,1,3
+2015,"Remote","75+","Other or unknown",38,0,2,2,19
+2015,"Remote","75+","Pedestrian",4,1,3,2,2
+2015,"Remote","8-16","Car driver",9,0,6,6,1.5
+2015,"Remote","8-16","Car passenger",185,0,31,31,5.967741935483871
+2015,"Remote","8-16","Car unknown position",2,0,1,1,2
+2015,"Remote","8-16","Motorcyclist",85,0,43,43,1.9767441860465116
+2015,"Remote","8-16","Other or unknown",3,0,3,3,1
+2015,"Remote","8-16","Pedal cyclist",48,0,31,31,1.5483870967741935
+2015,"Remote","8-16","Pedestrian",3,0,2,2,1.5
+2015,"Unknown","0-7","Car passenger",7,0,6,6,1.1666666666666667
+2015,"Unknown","0-7","Motorcyclist",2,0,2,2,1
+2015,"Unknown","0-7","Pedal cyclist",1,0,1,1,1
+2015,"Unknown","17-25","Bus occupant",1,0,1,1,1
+2015,"Unknown","17-25","Car driver",417,0,83,83,5.024096385542169
+2015,"Unknown","17-25","Car passenger",480,0,82,82,5.853658536585366
+2015,"Unknown","17-25","Car unknown position",32,0,16,16,2
+2015,"Unknown","17-25","Heavy transport passenger",2,0,2,2,1
+2015,"Unknown","17-25","Motorcyclist",165,1,41,40,4.125
+2015,"Unknown","17-25","Other or unknown",6,0,5,5,1.2
+2015,"Unknown","17-25","Pedal cyclist",156,0,38,38,4.105263157894737
+2015,"Unknown","17-25","Pedestrian",71,0,35,35,2.0285714285714285
+2015,"Unknown","17-25","Pick-up truck or van occupant",43,0,9,9,4.777777777777778
+2015,"Unknown","26-39","Bus occupant",3,0,2,2,1.5
+2015,"Unknown","26-39","Car driver",493,1,95,94,5.24468085106383
+2015,"Unknown","26-39","Car passenger",363,0,61,61,5.950819672131147
+2015,"Unknown","26-39","Car unknown position",10,0,5,5,2
+2015,"Unknown","26-39","Heavy transport driver",2,0,2,2,1
+2015,"Unknown","26-39","Motorcyclist",443,0,41,41,10.804878048780488
+2015,"Unknown","26-39","Other or unknown",22,0,2,2,11
+2015,"Unknown","26-39","Pedal cyclist",71,0,39,39,1.8205128205128205
+2015,"Unknown","26-39","Pedestrian",146,2,31,29,5.0344827586206895
+2015,"Unknown","26-39","Pick-up truck or van occupant",2,0,2,2,1
+2015,"Unknown","40-64","Bus occupant",3,0,3,3,1
+2015,"Unknown","40-64","Car driver",89,1,33,32,2.78125
+2015,"Unknown","40-64","Car passenger",287,0,41,41,7
+2015,"Unknown","40-64","Car unknown position",3,0,3,3,1
+2015,"Unknown","40-64","Heavy transport driver",28,0,6,6,4.666666666666667
+2015,"Unknown","40-64","Motorcyclist",146,1,28,27,5.407407407407407
+2015,"Unknown","40-64","Other or unknown",1,0,1,1,1
+2015,"Unknown","40-64","Pedal cyclist",99,0,33,33,3
+2015,"Unknown","40-64","Pedestrian",170,2,30,28,6.071428571428571
+2015,"Unknown","40-64","Pick-up truck or van occupant",3,0,2,2,1.5
+2015,"Unknown","65-74","Car driver",7,1,6,5,1.4
+2015,"Unknown","65-74","Car passenger",36,0,15,15,2.4
+2015,"Unknown","65-74","Motorcyclist",10,0,1,1,10
+2015,"Unknown","65-74","Pedal cyclist",6,0,4,4,1.5
+2015,"Unknown","65-74","Pedestrian",149,1,7,6,24.833333333333332
+2015,"Unknown","65-74","Pick-up truck or van occupant",2,0,2,2,1
+2015,"Unknown","75+","Bus occupant",9,0,2,2,4.5
+2015,"Unknown","75+","Car driver",85,0,6,6,14.166666666666666
+2015,"Unknown","75+","Car passenger",44,0,7,7,6.285714285714286
+2015,"Unknown","75+","Pedal cyclist",50,0,5,5,10
+2015,"Unknown","75+","Pedestrian",25,2,4,2,12.5
+2015,"Unknown","8-16","Car driver",1,0,1,1,1
+2015,"Unknown","8-16","Car passenger",63,2,9,7,9
+2015,"Unknown","8-16","Motorcyclist",1,0,1,1,1
+2015,"Unknown","8-16","Pedal cyclist",9,0,5,5,1.8
+2015,"Unknown","8-16","Pedestrian",65,0,3,3,21.666666666666668
+2016,"Major Cities","0-7","Bus occupant",3,0,2,2,1.5
+2016,"Major Cities","0-7","Car driver",1,0,1,1,1
+2016,"Major Cities","0-7","Car passenger",1006,1,182,181,5.558011049723757
+2016,"Major Cities","0-7","Car unknown position",9,0,9,9,1
+2016,"Major Cities","0-7","Motorcyclist",4,0,4,4,1
+2016,"Major Cities","0-7","Other or unknown",8,0,8,8,1
+2016,"Major Cities","0-7","Pedal cyclist",175,0,136,136,1.286764705882353
+2016,"Major Cities","0-7","Pedestrian",332,2,98,96,3.4583333333333335
+2016,"Major Cities","0-7","Pick-up truck or van occupant",1,0,1,1,1
+2016,"Major Cities","17-25","Bus occupant",15,0,11,11,1.3636363636363635
+2016,"Major Cities","17-25","Car driver",7192,6,2001,1995,3.605012531328321
+2016,"Major Cities","17-25","Car passenger",3852,4,873,869,4.432681242807825
+2016,"Major Cities","17-25","Car unknown position",300,2,105,103,2.912621359223301
+2016,"Major Cities","17-25","Heavy transport driver",21,0,12,12,1.75
+2016,"Major Cities","17-25","Heavy transport passenger",2,0,2,2,1
+2016,"Major Cities","17-25","Heavy transport unknown position",13,0,3,3,4.333333333333333
+2016,"Major Cities","17-25","Motorcyclist",6795,5,1369,1364,4.981671554252199
+2016,"Major Cities","17-25","Other or unknown",348,0,61,61,5.704918032786885
+2016,"Major Cities","17-25","Pedal cyclist",1091,1,539,538,2.0278810408921935
+2016,"Major Cities","17-25","Pedestrian",2418,9,354,345,7.008695652173913
+2016,"Major Cities","17-25","Pick-up truck or van occupant",173,0,29,29,5.9655172413793105
+2016,"Major Cities","26-39","Bus occupant",45,0,21,21,2.142857142857143
+2016,"Major Cities","26-39","Car driver",8788,7,2457,2450,3.586938775510204
+2016,"Major Cities","26-39","Car passenger",2380,1,561,560,4.25
+2016,"Major Cities","26-39","Car unknown position",592,2,130,128,4.625
+2016,"Major Cities","26-39","Heavy transport driver",298,0,38,38,7.842105263157895
+2016,"Major Cities","26-39","Heavy transport passenger",5,0,5,5,1
+2016,"Major Cities","26-39","Heavy transport unknown position",24,0,7,7,3.4285714285714284
+2016,"Major Cities","26-39","Motorcyclist",10453,9,1719,1710,6.112865497076023
+2016,"Major Cities","26-39","Other or unknown",479,0,93,93,5.150537634408602
+2016,"Major Cities","26-39","Pedal cyclist",2583,1,1272,1271,2.032258064516129
+2016,"Major Cities","26-39","Pedestrian",3357,2,397,395,8.49873417721519
+2016,"Major Cities","26-39","Pick-up truck or van occupant",453,0,46,46,9.847826086956522
+2016,"Major Cities","40-64","Bus occupant",661,1,84,83,7.963855421686747
+2016,"Major Cities","40-64","Car driver",12875,13,2881,2868,4.489191073919107
+2016,"Major Cities","40-64","Car passenger",2799,1,647,646,4.3328173374613
+2016,"Major Cities","40-64","Car unknown position",657,1,151,150,4.38
+2016,"Major Cities","40-64","Heavy transport driver",1129,0,117,117,9.649572649572649
+2016,"Major Cities","40-64","Heavy transport passenger",94,0,9,9,10.444444444444445
+2016,"Major Cities","40-64","Heavy transport unknown position",178,0,10,10,17.8
+2016,"Major Cities","40-64","Motorcyclist",14864,9,2077,2068,7.187620889748549
+2016,"Major Cities","40-64","Other or unknown",625,0,121,121,5.1652892561983474
+2016,"Major Cities","40-64","Pedal cyclist",7442,5,2218,2213,3.362855851784907
+2016,"Major Cities","40-64","Pedestrian",7396,10,574,564,13.113475177304965
+2016,"Major Cities","40-64","Pick-up truck or van occupant",454,0,60,60,7.566666666666666
+2016,"Major Cities","65-74","Bus occupant",243,0,27,27,9
+2016,"Major Cities","65-74","Car driver",5340,5,769,764,6.989528795811518
+2016,"Major Cities","65-74","Car passenger",1283,0,219,219,5.858447488584475
+2016,"Major Cities","65-74","Car unknown position",264,0,39,39,6.769230769230769
+2016,"Major Cities","65-74","Heavy transport driver",29,0,12,12,2.4166666666666665
+2016,"Major Cities","65-74","Heavy transport passenger",13,0,5,5,2.6
+2016,"Major Cities","65-74","Heavy transport unknown position",1,0,1,1,1
+2016,"Major Cities","65-74","Motorcyclist",1955,0,154,154,12.694805194805195
+2016,"Major Cities","65-74","Other or unknown",256,0,24,24,10.666666666666666
+2016,"Major Cities","65-74","Pedal cyclist",2223,4,362,358,6.209497206703911
+2016,"Major Cities","65-74","Pedestrian",3119,6,199,193,16.16062176165803
+2016,"Major Cities","65-74","Pick-up truck or van occupant",107,0,18,18,5.944444444444445
+2016,"Major Cities","75+","Bus occupant",557,2,67,65,8.569230769230769
+2016,"Major Cities","75+","Car driver",8009,14,782,768,10.428385416666666
+2016,"Major Cities","75+","Car passenger",2782,6,306,300,9.273333333333333
+2016,"Major Cities","75+","Car unknown position",655,1,38,37,17.7027027027027
+2016,"Major Cities","75+","Heavy transport driver",1,0,1,1,1
+2016,"Major Cities","75+","Heavy transport passenger",23,0,3,3,7.666666666666667
+2016,"Major Cities","75+","Motorcyclist",425,0,52,52,8.173076923076923
+2016,"Major Cities","75+","Other or unknown",484,0,33,33,14.666666666666666
+2016,"Major Cities","75+","Pedal cyclist",819,2,112,110,7.445454545454545
+2016,"Major Cities","75+","Pedestrian",6179,21,306,285,21.680701754385964
+2016,"Major Cities","75+","Pick-up truck or van occupant",18,0,2,2,9
+2016,"Major Cities","8-16","Bus occupant",18,0,12,12,1.5
+2016,"Major Cities","8-16","Car driver",30,0,21,21,1.4285714285714286
+2016,"Major Cities","8-16","Car passenger",891,3,356,353,2.5240793201133145
+2016,"Major Cities","8-16","Car unknown position",30,0,14,14,2.142857142857143
+2016,"Major Cities","8-16","Heavy transport unknown position",1,0,1,1,1
+2016,"Major Cities","8-16","Motorcyclist",465,1,152,151,3.0794701986754967
+2016,"Major Cities","8-16","Other or unknown",29,0,19,19,1.5263157894736843
+2016,"Major Cities","8-16","Pedal cyclist",1007,0,658,658,1.5303951367781155
+2016,"Major Cities","8-16","Pedestrian",1275,1,241,240,5.3125
+2016,"Major Cities","8-16","Pick-up truck or van occupant",2,0,2,2,1
+2016,"Regional","0-7","Bus occupant",7,0,2,2,3.5
+2016,"Regional","0-7","Car driver",3,0,2,2,1.5
+2016,"Regional","0-7","Car passenger",289,1,110,109,2.6513761467889907
+2016,"Regional","0-7","Car unknown position",16,0,12,12,1.3333333333333333
+2016,"Regional","0-7","Heavy transport passenger",2,0,2,2,1
+2016,"Regional","0-7","Motorcyclist",29,0,19,19,1.5263157894736843
+2016,"Regional","0-7","Other or unknown",17,0,6,6,2.8333333333333335
+2016,"Regional","0-7","Pedal cyclist",92,0,56,56,1.6428571428571428
+2016,"Regional","0-7","Pedestrian",152,1,31,30,5.066666666666666
+2016,"Regional","0-7","Pick-up truck or van occupant",4,0,3,3,1.3333333333333333
+2016,"Regional","17-25","Bus occupant",88,1,8,7,12.571428571428571
+2016,"Regional","17-25","Car driver",4443,8,1058,1050,4.231428571428571
+2016,"Regional","17-25","Car passenger",2529,1,427,426,5.936619718309859
+2016,"Regional","17-25","Car unknown position",274,1,68,67,4.08955223880597
+2016,"Regional","17-25","Heavy transport driver",58,0,18,18,3.2222222222222223
+2016,"Regional","17-25","Heavy transport passenger",4,0,2,2,2
+2016,"Regional","17-25","Heavy transport unknown position",3,0,3,3,1
+2016,"Regional","17-25","Motorcyclist",2956,2,714,712,4.151685393258427
+2016,"Regional","17-25","Other or unknown",229,1,49,48,4.770833333333333
+2016,"Regional","17-25","Pedal cyclist",247,0,135,135,1.8296296296296297
+2016,"Regional","17-25","Pedestrian",584,0,75,75,7.786666666666667
+2016,"Regional","17-25","Pick-up truck or van occupant",161,0,32,32,5.03125
+2016,"Regional","26-39","Bus occupant",17,0,6,6,2.8333333333333335
+2016,"Regional","26-39","Car driver",4799,9,881,872,5.503440366972477
+2016,"Regional","26-39","Car passenger",1596,0,253,253,6.308300395256917
+2016,"Regional","26-39","Car unknown position",327,1,49,48,6.8125
+2016,"Regional","26-39","Heavy transport driver",112,1,39,38,2.9473684210526314
+2016,"Regional","26-39","Heavy transport passenger",14,0,4,4,3.5
+2016,"Regional","26-39","Heavy transport unknown position",2,0,2,2,1
+2016,"Regional","26-39","Motorcyclist",3882,2,606,604,6.427152317880795
+2016,"Regional","26-39","Other or unknown",115,0,38,38,3.026315789473684
+2016,"Regional","26-39","Pedal cyclist",579,0,205,205,2.824390243902439
+2016,"Regional","26-39","Pedestrian",900,3,86,83,10.843373493975903
+2016,"Regional","26-39","Pick-up truck or van occupant",230,0,19,19,12.105263157894736
+2016,"Regional","40-64","Bus occupant",20,0,14,14,1.4285714285714286
+2016,"Regional","40-64","Car driver",8409,8,1180,1172,7.174914675767918
+2016,"Regional","40-64","Car passenger",1717,3,242,239,7.184100418410042
+2016,"Regional","40-64","Car unknown position",752,0,79,79,9.518987341772151
+2016,"Regional","40-64","Heavy transport driver",1365,1,131,130,10.5
+2016,"Regional","40-64","Heavy transport passenger",103,0,7,7,14.714285714285714
+2016,"Regional","40-64","Heavy transport unknown position",111,0,6,6,18.5
+2016,"Regional","40-64","Motorcyclist",7016,7,947,940,7.463829787234043
+2016,"Regional","40-64","Other or unknown",632,0,87,87,7.264367816091954
+2016,"Regional","40-64","Pedal cyclist",2259,0,546,546,4.137362637362638
+2016,"Regional","40-64","Pedestrian",1095,4,107,103,10.631067961165048
+2016,"Regional","40-64","Pick-up truck or van occupant",331,0,39,39,8.487179487179487
+2016,"Regional","65-74","Bus occupant",69,2,12,10,6.9
+2016,"Regional","65-74","Car driver",2833,1,325,324,8.743827160493828
+2016,"Regional","65-74","Car passenger",827,0,113,113,7.31858407079646
+2016,"Regional","65-74","Car unknown position",407,0,23,23,17.695652173913043
+2016,"Regional","65-74","Heavy transport driver",95,0,14,14,6.785714285714286
+2016,"Regional","65-74","Heavy transport passenger",8,0,1,1,8
+2016,"Regional","65-74","Heavy transport unknown position",2,0,1,1,2
+2016,"Regional","65-74","Motorcyclist",1161,1,103,102,11.382352941176471
+2016,"Regional","65-74","Other or unknown",130,0,17,17,7.647058823529412
+2016,"Regional","65-74","Pedal cyclist",658,1,107,106,6.2075471698113205
+2016,"Regional","65-74","Pedestrian",960,2,51,49,19.591836734693878
+2016,"Regional","65-74","Pick-up truck or van occupant",75,0,7,7,10.714285714285714
+2016,"Regional","75+","Bus occupant",89,0,6,6,14.833333333333334
+2016,"Regional","75+","Car driver",4215,14,396,382,11.034031413612565
+2016,"Regional","75+","Car passenger",1453,7,145,138,10.528985507246377
+2016,"Regional","75+","Car unknown position",504,0,25,25,20.16
+2016,"Regional","75+","Heavy transport driver",44,0,3,3,14.666666666666666
+2016,"Regional","75+","Heavy transport passenger",2,0,1,1,2
+2016,"Regional","75+","Motorcyclist",476,0,32,32,14.875
+2016,"Regional","75+","Other or unknown",426,0,11,11,38.72727272727273
+2016,"Regional","75+","Pedal cyclist",304,0,37,37,8.216216216216216
+2016,"Regional","75+","Pedestrian",1095,4,72,68,16.102941176470587
+2016,"Regional","75+","Pick-up truck or van occupant",32,0,7,7,4.571428571428571
+2016,"Regional","8-16","Car driver",82,0,25,25,3.28
+2016,"Regional","8-16","Car passenger",719,2,213,211,3.4075829383886256
+2016,"Regional","8-16","Car unknown position",9,0,8,8,1.125
+2016,"Regional","8-16","Heavy transport driver",1,0,1,1,1
+2016,"Regional","8-16","Motorcyclist",623,0,222,222,2.8063063063063063
+2016,"Regional","8-16","Other or unknown",33,0,11,11,3
+2016,"Regional","8-16","Pedal cyclist",502,1,286,285,1.7614035087719297
+2016,"Regional","8-16","Pedestrian",181,0,66,66,2.742424242424242
+2016,"Regional","8-16","Pick-up truck or van occupant",6,0,6,6,1
+2016,"Remote","0-7","Car passenger",64,0,22,22,2.909090909090909
+2016,"Remote","0-7","Car unknown position",3,0,2,2,1.5
+2016,"Remote","0-7","Motorcyclist",3,0,3,3,1
+2016,"Remote","0-7","Other or unknown",18,0,6,6,3
+2016,"Remote","0-7","Pedal cyclist",11,0,9,9,1.2222222222222223
+2016,"Remote","0-7","Pedestrian",2,0,2,2,1
+2016,"Remote","0-7","Pick-up truck or van occupant",4,0,3,3,1.3333333333333333
+2016,"Remote","17-25","Car driver",446,0,79,79,5.6455696202531644
+2016,"Remote","17-25","Car passenger",301,2,88,86,3.5
+2016,"Remote","17-25","Car unknown position",68,0,13,13,5.230769230769231
+2016,"Remote","17-25","Heavy transport driver",1,0,1,1,1
+2016,"Remote","17-25","Heavy transport passenger",3,0,1,1,3
+2016,"Remote","17-25","Motorcyclist",263,0,88,88,2.9886363636363638
+2016,"Remote","17-25","Other or unknown",8,0,5,5,1.6
+2016,"Remote","17-25","Pedal cyclist",18,0,9,9,2
+2016,"Remote","17-25","Pedestrian",58,0,11,11,5.2727272727272725
+2016,"Remote","17-25","Pick-up truck or van occupant",59,0,2,2,29.5
+2016,"Remote","26-39","Car driver",457,0,88,88,5.193181818181818
+2016,"Remote","26-39","Car passenger",289,0,59,59,4.898305084745763
+2016,"Remote","26-39","Car unknown position",107,0,14,14,7.642857142857143
+2016,"Remote","26-39","Heavy transport driver",10,1,3,2,5
+2016,"Remote","26-39","Heavy transport unknown position",1,0,1,1,1
+2016,"Remote","26-39","Motorcyclist",542,0,73,73,7.424657534246576
+2016,"Remote","26-39","Other or unknown",26,0,2,2,13
+2016,"Remote","26-39","Pedal cyclist",54,0,17,17,3.176470588235294
+2016,"Remote","26-39","Pedestrian",266,0,21,21,12.666666666666666
+2016,"Remote","26-39","Pick-up truck or van occupant",67,0,6,6,11.166666666666666
+2016,"Remote","40-64","Car driver",610,0,84,84,7.261904761904762
+2016,"Remote","40-64","Car passenger",434,2,62,60,7.233333333333333
+2016,"Remote","40-64","Car unknown position",43,1,9,8,5.375
+2016,"Remote","40-64","Heavy transport driver",35,0,8,8,4.375
+2016,"Remote","40-64","Heavy transport unknown position",5,0,3,3,1.6666666666666667
+2016,"Remote","40-64","Motorcyclist",639,0,69,69,9.26086956521739
+2016,"Remote","40-64","Other or unknown",87,1,10,9,9.666666666666666
+2016,"Remote","40-64","Pedal cyclist",113,0,24,24,4.708333333333333
+2016,"Remote","40-64","Pedestrian",341,0,27,27,12.62962962962963
+2016,"Remote","40-64","Pick-up truck or van occupant",12,0,4,4,3
+2016,"Remote","65-74","Bus occupant",1,0,1,1,1
+2016,"Remote","65-74","Car driver",132,1,26,25,5.28
+2016,"Remote","65-74","Car passenger",29,0,4,4,7.25
+2016,"Remote","65-74","Car unknown position",2,0,1,1,2
+2016,"Remote","65-74","Heavy transport driver",2,0,2,2,1
+2016,"Remote","65-74","Motorcyclist",13,0,3,3,4.333333333333333
+2016,"Remote","65-74","Other or unknown",8,0,3,3,2.6666666666666665
+2016,"Remote","65-74","Pedal cyclist",71,0,5,5,14.2
+2016,"Remote","65-74","Pedestrian",21,0,2,2,10.5
+2016,"Remote","75+","Car driver",122,1,14,13,9.384615384615385
+2016,"Remote","75+","Car passenger",28,1,5,4,7
+2016,"Remote","75+","Car unknown position",5,0,2,2,2.5
+2016,"Remote","75+","Heavy transport driver",1,0,1,1,1
+2016,"Remote","75+","Other or unknown",2,0,2,2,1
+2016,"Remote","75+","Pedal cyclist",19,0,2,2,9.5
+2016,"Remote","75+","Pedestrian",28,0,2,2,14
+2016,"Remote","75+","Pick-up truck or van occupant",24,0,1,1,24
+2016,"Remote","8-16","Bus occupant",2,0,1,1,2
+2016,"Remote","8-16","Car driver",6,0,3,3,2
+2016,"Remote","8-16","Car passenger",214,0,37,37,5.783783783783784
+2016,"Remote","8-16","Car unknown position",15,0,3,3,5
+2016,"Remote","8-16","Motorcyclist",139,0,50,50,2.78
+2016,"Remote","8-16","Other or unknown",5,0,1,1,5
+2016,"Remote","8-16","Pedal cyclist",94,0,45,45,2.088888888888889
+2016,"Remote","8-16","Pedestrian",10,0,6,6,1.6666666666666667
+2016,"Remote","8-16","Pick-up truck or van occupant",9,0,4,4,2.25
+2016,"Unknown","0-7","Car driver",1,0,1,1,1
+2016,"Unknown","0-7","Car passenger",2,0,2,2,1
+2016,"Unknown","0-7","Car unknown position",2,0,2,2,1
+2016,"Unknown","0-7","Motorcyclist",1,0,1,1,1
+2016,"Unknown","0-7","Other or unknown",1,0,1,1,1
+2016,"Unknown","0-7","Pedal cyclist",7,0,1,1,7
+2016,"Unknown","0-7","Pedestrian",34,0,2,2,17
+2016,"Unknown","17-25","Bus occupant",3,0,3,3,1
+2016,"Unknown","17-25","Car driver",436,1,81,80,5.45
+2016,"Unknown","17-25","Car passenger",826,1,86,85,9.717647058823529
+2016,"Unknown","17-25","Car unknown position",144,0,7,7,20.571428571428573
+2016,"Unknown","17-25","Heavy transport driver",2,0,2,2,1
+2016,"Unknown","17-25","Heavy transport unknown position",35,0,1,1,35
+2016,"Unknown","17-25","Motorcyclist",323,0,35,35,9.228571428571428
+2016,"Unknown","17-25","Other or unknown",7,0,2,2,3.5
+2016,"Unknown","17-25","Pedal cyclist",104,0,31,31,3.3548387096774195
+2016,"Unknown","17-25","Pedestrian",131,1,24,23,5.695652173913044
+2016,"Unknown","17-25","Pick-up truck or van occupant",10,0,3,3,3.3333333333333335
+2016,"Unknown","26-39","Bus occupant",8,0,5,5,1.6
+2016,"Unknown","26-39","Car driver",421,1,87,86,4.895348837209302
+2016,"Unknown","26-39","Car passenger",472,0,60,60,7.866666666666666
+2016,"Unknown","26-39","Car unknown position",30,1,8,7,4.285714285714286
+2016,"Unknown","26-39","Heavy transport driver",2,0,2,2,1
+2016,"Unknown","26-39","Motorcyclist",176,0,37,37,4.756756756756757
+2016,"Unknown","26-39","Other or unknown",13,0,6,6,2.1666666666666665
+2016,"Unknown","26-39","Pedal cyclist",88,0,47,47,1.872340425531915
+2016,"Unknown","26-39","Pedestrian",159,0,20,20,7.95
+2016,"Unknown","26-39","Pick-up truck or van occupant",12,0,2,2,6
+2016,"Unknown","40-64","Bus occupant",13,0,3,3,4.333333333333333
+2016,"Unknown","40-64","Car driver",202,1,33,32,6.3125
+2016,"Unknown","40-64","Car passenger",195,0,45,45,4.333333333333333
+2016,"Unknown","40-64","Car unknown position",5,0,2,2,2.5
+2016,"Unknown","40-64","Heavy transport driver",1,0,1,1,1
+2016,"Unknown","40-64","Motorcyclist",135,0,24,24,5.625
+2016,"Unknown","40-64","Other or unknown",11,0,5,5,2.2
+2016,"Unknown","40-64","Pedal cyclist",117,0,43,43,2.7209302325581395
+2016,"Unknown","40-64","Pedestrian",391,2,27,25,15.64
+2016,"Unknown","40-64","Pick-up truck or van occupant",6,0,2,2,3
+2016,"Unknown","65-74","Bus occupant",3,0,3,3,1
+2016,"Unknown","65-74","Car driver",32,0,7,7,4.571428571428571
+2016,"Unknown","65-74","Car passenger",47,0,14,14,3.357142857142857
+2016,"Unknown","65-74","Car unknown position",6,0,2,2,3
+2016,"Unknown","65-74","Motorcyclist",96,0,4,4,24
+2016,"Unknown","65-74","Other or unknown",1,0,1,1,1
+2016,"Unknown","65-74","Pedal cyclist",38,0,11,11,3.4545454545454546
+2016,"Unknown","65-74","Pedestrian",165,1,9,8,20.625
+2016,"Unknown","75+","Bus occupant",9,0,1,1,9
+2016,"Unknown","75+","Car driver",4,0,1,1,4
+2016,"Unknown","75+","Car passenger",84,0,4,4,21
+2016,"Unknown","75+","Pedal cyclist",11,0,1,1,11
+2016,"Unknown","75+","Pedestrian",11,1,1,0,
+2016,"Unknown","8-16","Car driver",1,0,1,1,1
+2016,"Unknown","8-16","Car passenger",8,0,4,4,2
+2016,"Unknown","8-16","Car unknown position",3,0,3,3,1
+2016,"Unknown","8-16","Motorcyclist",9,0,5,5,1.8
+2016,"Unknown","8-16","Pedal cyclist",6,0,5,5,1.2
+2016,"Unknown","8-16","Pedestrian",113,0,2,2,56.5
+2017,"Major Cities","0-7","Bus occupant",3,0,3,3,1
+2017,"Major Cities","0-7","Car driver",5,0,3,3,1.6666666666666667
+2017,"Major Cities","0-7","Car passenger",414,0,192,192,2.15625
+2017,"Major Cities","0-7","Car unknown position",12,1,10,9,1.3333333333333333
+2017,"Major Cities","0-7","Heavy transport passenger",1,0,1,1,1
+2017,"Major Cities","0-7","Motorcyclist",21,0,19,19,1.105263157894737
+2017,"Major Cities","0-7","Other or unknown",8,0,7,7,1.1428571428571428
+2017,"Major Cities","0-7","Pedal cyclist",163,0,127,127,1.2834645669291338
+2017,"Major Cities","0-7","Pedestrian",326,1,95,94,3.4680851063829787
+2017,"Major Cities","0-7","Pick-up truck or van occupant",3,0,3,3,1
+2017,"Major Cities","17-25","Bus occupant",24,0,21,21,1.1428571428571428
+2017,"Major Cities","17-25","Car driver",5852,5,2017,2012,2.908548707753479
+2017,"Major Cities","17-25","Car passenger",2713,3,810,807,3.36183395291202
+2017,"Major Cities","17-25","Car unknown position",318,0,106,106,3
+2017,"Major Cities","17-25","Heavy transport driver",84,0,20,20,4.2
+2017,"Major Cities","17-25","Heavy transport passenger",34,0,10,10,3.4
+2017,"Major Cities","17-25","Heavy transport unknown position",5,0,4,4,1.25
+2017,"Major Cities","17-25","Motorcyclist",6716,1,1353,1352,4.9674556213017755
+2017,"Major Cities","17-25","Other or unknown",145,0,66,66,2.196969696969697
+2017,"Major Cities","17-25","Pedal cyclist",1104,2,596,594,1.8585858585858586
+2017,"Major Cities","17-25","Pedestrian",2430,2,311,309,7.864077669902913
+2017,"Major Cities","17-25","Pick-up truck or van occupant",226,0,32,32,7.0625
+2017,"Major Cities","26-39","Bus occupant",43,0,16,16,2.6875
+2017,"Major Cities","26-39","Car driver",8597,4,2387,2383,3.6076374318086444
+2017,"Major Cities","26-39","Car passenger",2004,1,616,615,3.2585365853658534
+2017,"Major Cities","26-39","Car unknown position",829,1,129,128,6.4765625
+2017,"Major Cities","26-39","Heavy transport driver",161,0,65,65,2.476923076923077
+2017,"Major Cities","26-39","Heavy transport passenger",14,0,4,4,3.5
+2017,"Major Cities","26-39","Heavy transport unknown position",1,0,1,1,1
+2017,"Major Cities","26-39","Motorcyclist",10467,2,1714,1712,6.1139018691588785
+2017,"Major Cities","26-39","Other or unknown",501,0,93,93,5.387096774193548
+2017,"Major Cities","26-39","Pedal cyclist",2554,0,1279,1279,1.9968725566849101
+2017,"Major Cities","26-39","Pedestrian",3262,5,387,382,8.539267015706807
+2017,"Major Cities","26-39","Pick-up truck or van occupant",184,0,29,29,6.344827586206897
+2017,"Major Cities","40-64","Bus occupant",216,1,55,54,4
+2017,"Major Cities","40-64","Car driver",11217,7,2855,2848,3.938553370786517
+2017,"Major Cities","40-64","Car passenger",2622,3,593,590,4.444067796610169
+2017,"Major Cities","40-64","Car unknown position",1349,0,150,150,8.993333333333334
+2017,"Major Cities","40-64","Heavy transport driver",620,1,103,102,6.078431372549019
+2017,"Major Cities","40-64","Heavy transport passenger",36,0,8,8,4.5
+2017,"Major Cities","40-64","Heavy transport unknown position",54,0,10,10,5.4
+2017,"Major Cities","40-64","Motorcyclist",14025,7,2087,2080,6.742788461538462
+2017,"Major Cities","40-64","Other or unknown",444,0,111,111,4
+2017,"Major Cities","40-64","Pedal cyclist",8013,4,2317,2313,3.4643320363164722
+2017,"Major Cities","40-64","Pedestrian",7545,9,579,570,13.236842105263158
+2017,"Major Cities","40-64","Pick-up truck or van occupant",467,1,55,54,8.648148148148149
+2017,"Major Cities","65-74","Bus occupant",132,0,24,24,5.5
+2017,"Major Cities","65-74","Car driver",4230,1,694,693,6.103896103896104
+2017,"Major Cities","65-74","Car passenger",1559,2,237,235,6.634042553191489
+2017,"Major Cities","65-74","Car unknown position",678,0,40,40,16.95
+2017,"Major Cities","65-74","Heavy transport driver",22,0,9,9,2.4444444444444446
+2017,"Major Cities","65-74","Heavy transport passenger",7,0,1,1,7
+2017,"Major Cities","65-74","Heavy transport unknown position",1,0,1,1,1
+2017,"Major Cities","65-74","Motorcyclist",1671,1,191,190,8.794736842105262
+2017,"Major Cities","65-74","Other or unknown",333,0,18,18,18.5
+2017,"Major Cities","65-74","Pedal cyclist",1821,0,343,343,5.309037900874635
+2017,"Major Cities","65-74","Pedestrian",3872,10,226,216,17.925925925925927
+2017,"Major Cities","65-74","Pick-up truck or van occupant",52,0,8,8,6.5
+2017,"Major Cities","75+","Bus occupant",615,1,77,76,8.092105263157896
+2017,"Major Cities","75+","Car driver",6963,15,806,791,8.802781289506953
+2017,"Major Cities","75+","Car passenger",2579,9,308,299,8.62541806020067
+2017,"Major Cities","75+","Car unknown position",696,0,32,32,21.75
+2017,"Major Cities","75+","Heavy transport driver",7,0,0,0,
+2017,"Major Cities","75+","Heavy transport passenger",108,0,6,6,18
+2017,"Major Cities","75+","Heavy transport unknown position",5,0,1,1,5
+2017,"Major Cities","75+","Motorcyclist",456,0,48,48,9.5
+2017,"Major Cities","75+","Other or unknown",807,1,26,25,32.28
+2017,"Major Cities","75+","Pedal cyclist",782,1,119,118,6.627118644067797
+2017,"Major Cities","75+","Pedestrian",5882,18,271,253,23.24901185770751
+2017,"Major Cities","75+","Pick-up truck or van occupant",85,0,5,5,17
+2017,"Major Cities","8-16","Bus occupant",18,0,6,6,3
+2017,"Major Cities","8-16","Car driver",96,0,34,34,2.823529411764706
+2017,"Major Cities","8-16","Car passenger",1234,0,367,367,3.362397820163488
+2017,"Major Cities","8-16","Car unknown position",12,0,8,8,1.5
+2017,"Major Cities","8-16","Heavy transport unknown position",1,0,1,1,1
+2017,"Major Cities","8-16","Motorcyclist",474,0,159,159,2.981132075471698
+2017,"Major Cities","8-16","Other or unknown",32,0,16,16,2
+2017,"Major Cities","8-16","Pedal cyclist",1353,1,636,635,2.130708661417323
+2017,"Major Cities","8-16","Pedestrian",1107,0,231,231,4.792207792207792
+2017,"Major Cities","8-16","Pick-up truck or van occupant",4,0,2,2,2
+2017,"Regional","0-7","Bus occupant",1,0,0,0,
+2017,"Regional","0-7","Car driver",1,0,0,0,
+2017,"Regional","0-7","Car passenger",565,1,137,136,4.154411764705882
+2017,"Regional","0-7","Car unknown position",34,0,6,6,5.666666666666667
+2017,"Regional","0-7","Motorcyclist",31,0,12,12,2.5833333333333335
+2017,"Regional","0-7","Other or unknown",4,0,3,3,1.3333333333333333
+2017,"Regional","0-7","Pedal cyclist",81,0,59,59,1.3728813559322033
+2017,"Regional","0-7","Pedestrian",119,1,34,33,3.606060606060606
+2017,"Regional","0-7","Pick-up truck or van occupant",3,0,1,1,3
+2017,"Regional","17-25","Bus occupant",14,0,2,2,7
+2017,"Regional","17-25","Car driver",5032,1,1056,1055,4.769668246445498
+2017,"Regional","17-25","Car passenger",2136,0,443,443,4.821670428893905
+2017,"Regional","17-25","Car unknown position",241,0,57,57,4.228070175438597
+2017,"Regional","17-25","Heavy transport driver",32,0,19,19,1.6842105263157894
+2017,"Regional","17-25","Heavy transport passenger",4,0,3,3,1.3333333333333333
+2017,"Regional","17-25","Heavy transport unknown position",1,0,1,1,1
+2017,"Regional","17-25","Motorcyclist",3000,2,675,673,4.457652303120357
+2017,"Regional","17-25","Other or unknown",248,0,42,42,5.904761904761905
+2017,"Regional","17-25","Pedal cyclist",214,1,131,130,1.646153846153846
+2017,"Regional","17-25","Pedestrian",1187,1,72,71,16.718309859154928
+2017,"Regional","17-25","Pick-up truck or van occupant",112,0,31,31,3.6129032258064515
+2017,"Regional","26-39","Bus occupant",7,0,5,5,1.4
+2017,"Regional","26-39","Car driver",4859,3,902,899,5.404894327030034
+2017,"Regional","26-39","Car passenger",1664,0,226,226,7.3628318584070795
+2017,"Regional","26-39","Car unknown position",409,1,54,53,7.716981132075472
+2017,"Regional","26-39","Heavy transport driver",189,0,38,38,4.973684210526316
+2017,"Regional","26-39","Heavy transport passenger",3,0,3,3,1
+2017,"Regional","26-39","Heavy transport unknown position",4,0,2,2,2
+2017,"Regional","26-39","Motorcyclist",3621,1,637,636,5.693396226415095
+2017,"Regional","26-39","Other or unknown",209,0,41,41,5.097560975609756
+2017,"Regional","26-39","Pedal cyclist",643,0,208,208,3.0913461538461537
+2017,"Regional","26-39","Pedestrian",967,1,67,66,14.651515151515152
+2017,"Regional","26-39","Pick-up truck or van occupant",223,0,26,26,8.576923076923077
+2017,"Regional","40-64","Bus occupant",119,0,17,17,7
+2017,"Regional","40-64","Car driver",6613,4,1254,1250,5.2904
+2017,"Regional","40-64","Car passenger",1833,1,275,274,6.689781021897811
+2017,"Regional","40-64","Car unknown position",632,0,85,85,7.435294117647059
+2017,"Regional","40-64","Heavy transport driver",1361,2,149,147,9.258503401360544
+2017,"Regional","40-64","Heavy transport passenger",24,0,6,6,4
+2017,"Regional","40-64","Heavy transport unknown position",17,0,7,7,2.4285714285714284
+2017,"Regional","40-64","Motorcyclist",7512,6,1038,1032,7.27906976744186
+2017,"Regional","40-64","Other or unknown",500,1,76,75,6.666666666666667
+2017,"Regional","40-64","Pedal cyclist",2451,0,509,509,4.81532416502947
+2017,"Regional","40-64","Pedestrian",1474,0,105,105,14.038095238095238
+2017,"Regional","40-64","Pick-up truck or van occupant",211,0,41,41,5.146341463414634
+2017,"Regional","65-74","Bus occupant",175,0,14,14,12.5
+2017,"Regional","65-74","Car driver",3122,3,380,377,8.281167108753316
+2017,"Regional","65-74","Car passenger",878,3,128,125,7.024
+2017,"Regional","65-74","Car unknown position",326,0,18,18,18.11111111111111
+2017,"Regional","65-74","Heavy transport driver",161,0,25,25,6.44
+2017,"Regional","65-74","Heavy transport passenger",8,0,2,2,4
+2017,"Regional","65-74","Heavy transport unknown position",5,0,1,1,5
+2017,"Regional","65-74","Motorcyclist",1292,1,132,131,9.86259541984733
+2017,"Regional","65-74","Other or unknown",207,0,25,25,8.28
+2017,"Regional","65-74","Pedal cyclist",669,0,131,131,5.106870229007634
+2017,"Regional","65-74","Pedestrian",531,1,48,47,11.297872340425531
+2017,"Regional","65-74","Pick-up truck or van occupant",73,0,10,10,7.3
+2017,"Regional","75+","Bus occupant",131,2,15,13,10.076923076923077
+2017,"Regional","75+","Car driver",4119,18,392,374,11.01336898395722
+2017,"Regional","75+","Car passenger",1573,3,149,146,10.773972602739725
+2017,"Regional","75+","Car unknown position",572,0,19,19,30.105263157894736
+2017,"Regional","75+","Heavy transport driver",2,0,0,0,
+2017,"Regional","75+","Motorcyclist",567,0,34,34,16.676470588235293
+2017,"Regional","75+","Other or unknown",463,0,24,24,19.291666666666668
+2017,"Regional","75+","Pedal cyclist",377,0,36,36,10.472222222222221
+2017,"Regional","75+","Pedestrian",1262,3,66,63,20.03174603174603
+2017,"Regional","75+","Pick-up truck or van occupant",73,0,5,5,14.6
+2017,"Regional","8-16","Bus occupant",3,0,3,3,1
+2017,"Regional","8-16","Car driver",45,0,20,20,2.25
+2017,"Regional","8-16","Car passenger",780,0,214,214,3.6448598130841123
+2017,"Regional","8-16","Car unknown position",24,0,14,14,1.7142857142857142
+2017,"Regional","8-16","Heavy transport passenger",2,0,2,2,1
+2017,"Regional","8-16","Motorcyclist",466,0,229,229,2.034934497816594
+2017,"Regional","8-16","Other or unknown",30,0,17,17,1.7647058823529411
+2017,"Regional","8-16","Pedal cyclist",720,0,319,319,2.25705329153605
+2017,"Regional","8-16","Pedestrian",326,0,65,65,5.015384615384615
+2017,"Regional","8-16","Pick-up truck or van occupant",45,0,7,7,6.428571428571429
+2017,"Remote","0-7","Car passenger",35,0,14,14,2.5
+2017,"Remote","0-7","Motorcyclist",10,0,4,4,2.5
+2017,"Remote","0-7","Other or unknown",6,0,1,1,6
+2017,"Remote","0-7","Pedal cyclist",4,0,4,4,1
+2017,"Remote","0-7","Pedestrian",49,0,6,6,8.166666666666666
+2017,"Remote","17-25","Car driver",469,0,83,83,5.650602409638554
+2017,"Remote","17-25","Car passenger",288,0,54,54,5.333333333333333
+2017,"Remote","17-25","Car unknown position",53,0,13,13,4.076923076923077
+2017,"Remote","17-25","Heavy transport passenger",1,0,1,1,1
+2017,"Remote","17-25","Heavy transport unknown position",3,0,1,1,3
+2017,"Remote","17-25","Motorcyclist",315,0,76,76,4.144736842105263
+2017,"Remote","17-25","Other or unknown",46,0,7,7,6.571428571428571
+2017,"Remote","17-25","Pedal cyclist",13,0,8,8,1.625
+2017,"Remote","17-25","Pedestrian",72,0,11,11,6.545454545454546
+2017,"Remote","17-25","Pick-up truck or van occupant",10,0,5,5,2
+2017,"Remote","26-39","Car driver",397,0,74,74,5.364864864864865
+2017,"Remote","26-39","Car passenger",217,1,35,34,6.382352941176471
+2017,"Remote","26-39","Car unknown position",80,0,15,15,5.333333333333333
+2017,"Remote","26-39","Heavy transport driver",4,0,3,3,1.3333333333333333
+2017,"Remote","26-39","Heavy transport unknown position",1,0,0,0,
+2017,"Remote","26-39","Motorcyclist",545,0,71,71,7.676056338028169
+2017,"Remote","26-39","Other or unknown",23,0,6,6,3.8333333333333335
+2017,"Remote","26-39","Pedal cyclist",53,0,13,13,4.076923076923077
+2017,"Remote","26-39","Pedestrian",120,0,31,31,3.870967741935484
+2017,"Remote","26-39","Pick-up truck or van occupant",2,0,1,1,2
+2017,"Remote","40-64","Car driver",659,0,84,84,7.845238095238095
+2017,"Remote","40-64","Car passenger",287,0,64,64,4.484375
+2017,"Remote","40-64","Car unknown position",149,0,7,7,21.285714285714285
+2017,"Remote","40-64","Heavy transport driver",34,0,10,10,3.4
+2017,"Remote","40-64","Heavy transport passenger",1,0,1,1,1
+2017,"Remote","40-64","Heavy transport unknown position",3,0,1,1,3
+2017,"Remote","40-64","Motorcyclist",422,1,68,67,6.298507462686567
+2017,"Remote","40-64","Other or unknown",60,0,10,10,6
+2017,"Remote","40-64","Pedal cyclist",74,0,32,32,2.3125
+2017,"Remote","40-64","Pedestrian",582,2,44,42,13.857142857142858
+2017,"Remote","40-64","Pick-up truck or van occupant",23,0,0,0,
+2017,"Remote","65-74","Car driver",240,0,19,19,12.631578947368421
+2017,"Remote","65-74","Car passenger",30,1,4,3,10
+2017,"Remote","65-74","Car unknown position",2,0,2,2,1
+2017,"Remote","65-74","Heavy transport driver",1,0,1,1,1
+2017,"Remote","65-74","Motorcyclist",98,1,9,8,12.25
+2017,"Remote","65-74","Other or unknown",2,0,1,1,2
+2017,"Remote","65-74","Pedal cyclist",12,0,2,2,6
+2017,"Remote","65-74","Pedestrian",61,0,4,4,15.25
+2017,"Remote","75+","Car driver",202,0,17,17,11.882352941176471
+2017,"Remote","75+","Car passenger",139,0,5,5,27.8
+2017,"Remote","75+","Car unknown position",36,0,3,3,12
+2017,"Remote","75+","Motorcyclist",23,0,1,1,23
+2017,"Remote","75+","Other or unknown",12,0,1,1,12
+2017,"Remote","75+","Pedestrian",17,0,7,7,2.4285714285714284
+2017,"Remote","8-16","Car driver",62,0,8,8,7.75
+2017,"Remote","8-16","Car passenger",117,0,26,26,4.5
+2017,"Remote","8-16","Motorcyclist",221,0,53,53,4.169811320754717
+2017,"Remote","8-16","Other or unknown",2,0,2,2,1
+2017,"Remote","8-16","Pedal cyclist",47,0,33,33,1.4242424242424243
+2017,"Remote","8-16","Pedestrian",31,0,3,3,10.333333333333334
+2017,"Remote","8-16","Pick-up truck or van occupant",1,0,1,1,1
+2017,"Unknown","0-7","Car passenger",2,0,2,2,1
+2017,"Unknown","0-7","Pedestrian",1,0,1,1,1
+2017,"Unknown","17-25","Car driver",401,0,89,89,4.50561797752809
+2017,"Unknown","17-25","Car passenger",728,0,98,98,7.428571428571429
+2017,"Unknown","17-25","Car unknown position",108,0,4,4,27
+2017,"Unknown","17-25","Heavy transport driver",7,0,2,2,3.5
+2017,"Unknown","17-25","Heavy transport passenger",9,0,1,1,9
+2017,"Unknown","17-25","Motorcyclist",328,2,64,62,5.290322580645161
+2017,"Unknown","17-25","Other or unknown",10,1,4,3,3.3333333333333335
+2017,"Unknown","17-25","Pedal cyclist",92,0,56,56,1.6428571428571428
+2017,"Unknown","17-25","Pedestrian",115,3,32,29,3.9655172413793105
+2017,"Unknown","17-25","Pick-up truck or van occupant",10,0,5,5,2
+2017,"Unknown","26-39","Bus occupant",40,0,8,8,5
+2017,"Unknown","26-39","Car driver",492,1,105,104,4.730769230769231
+2017,"Unknown","26-39","Car passenger",230,1,60,59,3.8983050847457625
+2017,"Unknown","26-39","Car unknown position",29,0,6,6,4.833333333333333
+2017,"Unknown","26-39","Heavy transport driver",3,0,2,2,1.5
+2017,"Unknown","26-39","Heavy transport unknown position",1,0,1,1,1
+2017,"Unknown","26-39","Motorcyclist",210,1,60,59,3.559322033898305
+2017,"Unknown","26-39","Other or unknown",13,0,3,3,4.333333333333333
+2017,"Unknown","26-39","Pedal cyclist",211,0,70,70,3.0142857142857142
+2017,"Unknown","26-39","Pedestrian",126,0,34,34,3.7058823529411766
+2017,"Unknown","26-39","Pick-up truck or van occupant",15,0,4,4,3.75
+2017,"Unknown","40-64","Bus occupant",22,0,3,3,7.333333333333333
+2017,"Unknown","40-64","Car driver",290,2,41,39,7.435897435897436
+2017,"Unknown","40-64","Car passenger",179,0,38,38,4.7105263157894735
+2017,"Unknown","40-64","Car unknown position",3,0,1,1,3
+2017,"Unknown","40-64","Heavy transport driver",63,0,4,4,15.75
+2017,"Unknown","40-64","Motorcyclist",148,0,23,23,6.434782608695652
+2017,"Unknown","40-64","Pedal cyclist",143,0,43,43,3.3255813953488373
+2017,"Unknown","40-64","Pedestrian",107,0,29,29,3.689655172413793
+2017,"Unknown","40-64","Pick-up truck or van occupant",22,0,1,1,22
+2017,"Unknown","65-74","Bus occupant",8,0,0,0,
+2017,"Unknown","65-74","Car driver",33,0,7,7,4.714285714285714
+2017,"Unknown","65-74","Car passenger",77,0,18,18,4.277777777777778
+2017,"Unknown","65-74","Car unknown position",1,0,1,1,1
+2017,"Unknown","65-74","Motorcyclist",275,0,7,7,39.285714285714285
+2017,"Unknown","65-74","Other or unknown",2,0,2,2,1
+2017,"Unknown","65-74","Pedal cyclist",17,0,10,10,1.7
+2017,"Unknown","65-74","Pedestrian",180,0,8,8,22.5
+2017,"Unknown","65-74","Pick-up truck or van occupant",1,0,0,0,
+2017,"Unknown","75+","Bus occupant",6,1,1,0,
+2017,"Unknown","75+","Car driver",21,0,4,4,5.25
+2017,"Unknown","75+","Car passenger",4,0,2,2,2
+2017,"Unknown","75+","Pedestrian",28,2,5,3,9.333333333333334
+2017,"Unknown","8-16","Car passenger",157,0,16,16,9.8125
+2017,"Unknown","8-16","Motorcyclist",9,0,1,1,9
+2017,"Unknown","8-16","Other or unknown",14,0,1,1,14
+2017,"Unknown","8-16","Pedal cyclist",4,0,4,4,1
+2017,"Unknown","8-16","Pedestrian",1,0,1,1,1
+2018,"Major Cities","0-7","Bus occupant",1,0,1,1,1
+2018,"Major Cities","0-7","Car driver",1,0,1,1,1
+2018,"Major Cities","0-7","Car passenger",350,1,196,195,1.794871794871795
+2018,"Major Cities","0-7","Car unknown position",97,0,5,5,19.4
+2018,"Major Cities","0-7","Heavy transport passenger",1,0,1,1,1
+2018,"Major Cities","0-7","Motorcyclist",28,0,14,14,2
+2018,"Major Cities","0-7","Other or unknown",3,0,2,2,1.5
+2018,"Major Cities","0-7","Pedal cyclist",159,0,118,118,1.347457627118644
+2018,"Major Cities","0-7","Pedestrian",630,0,97,97,6.494845360824742
+2018,"Major Cities","17-25","Bus occupant",23,0,10,10,2.3
+2018,"Major Cities","17-25","Car driver",5184,4,2029,2025,2.56
+2018,"Major Cities","17-25","Car passenger",2745,4,798,794,3.457178841309824
+2018,"Major Cities","17-25","Car unknown position",494,0,97,97,5.092783505154639
+2018,"Major Cities","17-25","Heavy transport driver",176,1,21,20,8.8
+2018,"Major Cities","17-25","Heavy transport passenger",22,0,4,4,5.5
+2018,"Major Cities","17-25","Heavy transport unknown position",73,0,3,3,24.333333333333332
+2018,"Major Cities","17-25","Motorcyclist",5252,2,1245,1243,4.225261464199518
+2018,"Major Cities","17-25","Other or unknown",258,0,63,63,4.095238095238095
+2018,"Major Cities","17-25","Pedal cyclist",1134,0,531,531,2.135593220338983
+2018,"Major Cities","17-25","Pedestrian",2258,5,310,305,7.4032786885245905
+2018,"Major Cities","17-25","Pick-up truck or van occupant",317,0,42,42,7.5476190476190474
+2018,"Major Cities","26-39","Bus occupant",53,0,21,21,2.5238095238095237
+2018,"Major Cities","26-39","Car driver",7413,2,2440,2438,3.0406070549630844
+2018,"Major Cities","26-39","Car passenger",1749,3,567,564,3.101063829787234
+2018,"Major Cities","26-39","Car unknown position",520,0,152,152,3.4210526315789473
+2018,"Major Cities","26-39","Heavy transport driver",309,0,59,59,5.237288135593221
+2018,"Major Cities","26-39","Heavy transport passenger",28,0,15,15,1.8666666666666667
+2018,"Major Cities","26-39","Heavy transport unknown position",9,0,4,4,2.25
+2018,"Major Cities","26-39","Motorcyclist",9195,9,1691,1682,5.466706302021403
+2018,"Major Cities","26-39","Other or unknown",148,0,83,83,1.783132530120482
+2018,"Major Cities","26-39","Pedal cyclist",2632,2,1225,1223,2.152085036794767
+2018,"Major Cities","26-39","Pedestrian",2296,4,360,356,6.449438202247191
+2018,"Major Cities","26-39","Pick-up truck or van occupant",320,0,39,39,8.205128205128204
+2018,"Major Cities","40-64","Bus occupant",209,0,43,43,4.8604651162790695
+2018,"Major Cities","40-64","Car driver",9538,4,2774,2770,3.4433212996389893
+2018,"Major Cities","40-64","Car passenger",2878,0,620,620,4.641935483870967
+2018,"Major Cities","40-64","Car unknown position",1258,0,180,180,6.988888888888889
+2018,"Major Cities","40-64","Heavy transport driver",654,0,106,106,6.169811320754717
+2018,"Major Cities","40-64","Heavy transport passenger",82,0,12,12,6.833333333333333
+2018,"Major Cities","40-64","Heavy transport unknown position",320,0,13,13,24.615384615384617
+2018,"Major Cities","40-64","Motorcyclist",14597,6,2080,2074,7.038090646094504
+2018,"Major Cities","40-64","Other or unknown",610,1,137,136,4.485294117647059
+2018,"Major Cities","40-64","Pedal cyclist",8343,3,2318,2315,3.603887688984881
+2018,"Major Cities","40-64","Pedestrian",6616,8,517,509,12.99803536345776
+2018,"Major Cities","40-64","Pick-up truck or van occupant",309,0,52,52,5.9423076923076925
+2018,"Major Cities","65-74","Bus occupant",243,0,42,42,5.785714285714286
+2018,"Major Cities","65-74","Car driver",4423,5,762,757,5.842800528401585
+2018,"Major Cities","65-74","Car passenger",2089,4,270,266,7.853383458646617
+2018,"Major Cities","65-74","Car unknown position",642,0,32,32,20.0625
+2018,"Major Cities","65-74","Heavy transport driver",83,0,6,6,13.833333333333334
+2018,"Major Cities","65-74","Heavy transport passenger",8,0,2,2,4
+2018,"Major Cities","65-74","Motorcyclist",2450,2,216,214,11.448598130841122
+2018,"Major Cities","65-74","Other or unknown",424,0,26,26,16.307692307692307
+2018,"Major Cities","65-74","Pedal cyclist",1803,1,352,351,5.136752136752137
+2018,"Major Cities","65-74","Pedestrian",2998,6,211,205,14.62439024390244
+2018,"Major Cities","65-74","Pick-up truck or van occupant",35,0,10,10,3.5
+2018,"Major Cities","75+","Bus occupant",595,1,72,71,8.380281690140846
+2018,"Major Cities","75+","Car driver",7381,11,833,822,8.979318734793187
+2018,"Major Cities","75+","Car passenger",3382,4,365,361,9.368421052631579
+2018,"Major Cities","75+","Car unknown position",957,0,44,44,21.75
+2018,"Major Cities","75+","Heavy transport driver",27,0,1,1,27
+2018,"Major Cities","75+","Heavy transport passenger",3,0,2,2,1.5
+2018,"Major Cities","75+","Motorcyclist",694,0,51,51,13.607843137254902
+2018,"Major Cities","75+","Other or unknown",684,0,36,36,19
+2018,"Major Cities","75+","Pedal cyclist",840,1,145,144,5.833333333333333
+2018,"Major Cities","75+","Pedestrian",4898,16,274,258,18.984496124031008
+2018,"Major Cities","75+","Pick-up truck or van occupant",46,0,9,9,5.111111111111111
+2018,"Major Cities","8-16","Bus occupant",7,0,7,7,1
+2018,"Major Cities","8-16","Car driver",94,0,32,32,2.9375
+2018,"Major Cities","8-16","Car passenger",1226,1,367,366,3.349726775956284
+2018,"Major Cities","8-16","Car unknown position",16,0,9,9,1.7777777777777777
+2018,"Major Cities","8-16","Heavy transport passenger",16,0,3,3,5.333333333333333
+2018,"Major Cities","8-16","Motorcyclist",636,0,144,144,4.416666666666667
+2018,"Major Cities","8-16","Other or unknown",25,0,10,10,2.5
+2018,"Major Cities","8-16","Pedal cyclist",1014,0,638,638,1.5893416927899686
+2018,"Major Cities","8-16","Pedestrian",580,5,215,210,2.761904761904762
+2018,"Major Cities","8-16","Pick-up truck or van occupant",3,0,2,2,1.5
+2018,"Regional","0-7","Bus occupant",1,0,1,1,1
+2018,"Regional","0-7","Car driver",96,0,2,2,48
+2018,"Regional","0-7","Car passenger",512,0,130,130,3.9384615384615387
+2018,"Regional","0-7","Car unknown position",119,0,6,6,19.833333333333332
+2018,"Regional","0-7","Heavy transport passenger",2,0,2,2,1
+2018,"Regional","0-7","Motorcyclist",30,0,17,17,1.7647058823529411
+2018,"Regional","0-7","Other or unknown",5,0,5,5,1
+2018,"Regional","0-7","Pedal cyclist",101,1,56,55,1.8363636363636364
+2018,"Regional","0-7","Pedestrian",110,1,29,28,3.9285714285714284
+2018,"Regional","0-7","Pick-up truck or van occupant",6,0,1,1,6
+2018,"Regional","17-25","Bus occupant",23,0,8,8,2.875
+2018,"Regional","17-25","Car driver",6024,6,1109,1103,5.461468721668178
+2018,"Regional","17-25","Car passenger",2670,2,404,402,6.641791044776119
+2018,"Regional","17-25","Car unknown position",617,0,69,69,8.942028985507246
+2018,"Regional","17-25","Heavy transport driver",92,0,23,23,4
+2018,"Regional","17-25","Heavy transport passenger",6,0,5,5,1.2
+2018,"Regional","17-25","Heavy transport unknown position",3,0,3,3,1
+2018,"Regional","17-25","Motorcyclist",3133,2,630,628,4.988853503184713
+2018,"Regional","17-25","Other or unknown",169,0,43,43,3.9302325581395348
+2018,"Regional","17-25","Pedal cyclist",224,0,121,121,1.8512396694214877
+2018,"Regional","17-25","Pedestrian",597,1,70,69,8.652173913043478
+2018,"Regional","17-25","Pick-up truck or van occupant",354,0,27,27,13.11111111111111
+2018,"Regional","26-39","Bus occupant",10,0,8,8,1.25
+2018,"Regional","26-39","Car driver",5162,2,949,947,5.450897571277719
+2018,"Regional","26-39","Car passenger",1521,4,227,223,6.820627802690583
+2018,"Regional","26-39","Car unknown position",586,1,67,66,8.878787878787879
+2018,"Regional","26-39","Heavy transport driver",357,1,42,41,8.707317073170731
+2018,"Regional","26-39","Heavy transport passenger",4,0,2,2,2
+2018,"Regional","26-39","Heavy transport unknown position",3,0,3,3,1
+2018,"Regional","26-39","Motorcyclist",3184,0,697,697,4.568149210903874
+2018,"Regional","26-39","Other or unknown",231,0,46,46,5.021739130434782
+2018,"Regional","26-39","Pedal cyclist",688,1,222,221,3.1131221719457014
+2018,"Regional","26-39","Pedestrian",1060,1,96,95,11.157894736842104
+2018,"Regional","26-39","Pick-up truck or van occupant",110,0,19,19,5.7894736842105265
+2018,"Regional","40-64","Bus occupant",70,0,6,6,11.666666666666666
+2018,"Regional","40-64","Car driver",7654,9,1291,1282,5.970358814352574
+2018,"Regional","40-64","Car passenger",1491,1,273,272,5.481617647058823
+2018,"Regional","40-64","Car unknown position",616,0,88,88,7
+2018,"Regional","40-64","Heavy transport driver",887,0,128,128,6.9296875
+2018,"Regional","40-64","Heavy transport passenger",18,0,12,12,1.5
+2018,"Regional","40-64","Heavy transport unknown position",181,1,13,12,15.083333333333334
+2018,"Regional","40-64","Motorcyclist",7583,5,1077,1072,7.0736940298507465
+2018,"Regional","40-64","Other or unknown",593,1,76,75,7.906666666666666
+2018,"Regional","40-64","Pedal cyclist",1591,2,507,505,3.1504950495049506
+2018,"Regional","40-64","Pedestrian",1794,0,165,165,10.872727272727273
+2018,"Regional","40-64","Pick-up truck or van occupant",162,1,47,46,3.5217391304347827
+2018,"Regional","65-74","Bus occupant",24,0,3,3,8
+2018,"Regional","65-74","Car driver",3141,3,388,385,8.158441558441558
+2018,"Regional","65-74","Car passenger",900,0,100,100,9
+2018,"Regional","65-74","Car unknown position",700,0,17,17,41.1764705882353
+2018,"Regional","65-74","Heavy transport driver",40,0,19,19,2.1052631578947367
+2018,"Regional","65-74","Heavy transport passenger",1,0,0,0,
+2018,"Regional","65-74","Heavy transport unknown position",9,0,3,3,3
+2018,"Regional","65-74","Motorcyclist",1659,1,127,126,13.166666666666666
+2018,"Regional","65-74","Other or unknown",251,0,17,17,14.764705882352942
+2018,"Regional","65-74","Pedal cyclist",769,1,145,144,5.340277777777778
+2018,"Regional","65-74","Pedestrian",656,1,51,50,13.12
+2018,"Regional","65-74","Pick-up truck or van occupant",24,0,4,4,6
+2018,"Regional","75+","Bus occupant",134,0,3,3,44.666666666666664
+2018,"Regional","75+","Car driver",4596,6,405,399,11.518796992481203
+2018,"Regional","75+","Car passenger",1303,3,126,123,10.59349593495935
+2018,"Regional","75+","Car unknown position",398,0,27,27,14.74074074074074
+2018,"Regional","75+","Heavy transport driver",8,0,5,5,1.6
+2018,"Regional","75+","Heavy transport passenger",2,0,1,1,2
+2018,"Regional","75+","Heavy transport unknown position",8,0,1,1,8
+2018,"Regional","75+","Motorcyclist",508,1,32,31,16.387096774193548
+2018,"Regional","75+","Other or unknown",362,1,13,12,30.166666666666668
+2018,"Regional","75+","Pedal cyclist",381,1,46,45,8.466666666666667
+2018,"Regional","75+","Pedestrian",716,1,65,64,11.1875
+2018,"Regional","75+","Pick-up truck or van occupant",22,0,3,3,7.333333333333333
+2018,"Regional","8-16","Bus occupant",5,0,3,3,1.6666666666666667
+2018,"Regional","8-16","Car driver",161,0,20,20,8.05
+2018,"Regional","8-16","Car passenger",1032,2,258,256,4.03125
+2018,"Regional","8-16","Car unknown position",21,0,15,15,1.4
+2018,"Regional","8-16","Heavy transport passenger",4,0,3,3,1.3333333333333333
+2018,"Regional","8-16","Motorcyclist",494,0,198,198,2.494949494949495
+2018,"Regional","8-16","Other or unknown",127,0,8,8,15.875
+2018,"Regional","8-16","Pedal cyclist",548,1,277,276,1.9855072463768115
+2018,"Regional","8-16","Pedestrian",191,1,67,66,2.893939393939394
+2018,"Regional","8-16","Pick-up truck or van occupant",5,0,3,3,1.6666666666666667
+2018,"Remote","0-7","Car passenger",151,0,19,19,7.947368421052632
+2018,"Remote","0-7","Heavy transport passenger",1,0,1,1,1
+2018,"Remote","0-7","Motorcyclist",5,0,3,3,1.6666666666666667
+2018,"Remote","0-7","Pedal cyclist",9,0,7,7,1.2857142857142858
+2018,"Remote","0-7","Pedestrian",7,0,2,2,3.5
+2018,"Remote","17-25","Car driver",477,0,110,110,4.336363636363636
+2018,"Remote","17-25","Car passenger",519,2,97,95,5.463157894736842
+2018,"Remote","17-25","Car unknown position",92,0,12,12,7.666666666666667
+2018,"Remote","17-25","Heavy transport driver",5,0,4,4,1.25
+2018,"Remote","17-25","Heavy transport unknown position",1,0,1,1,1
+2018,"Remote","17-25","Motorcyclist",166,0,62,62,2.6774193548387095
+2018,"Remote","17-25","Other or unknown",333,0,7,7,47.57142857142857
+2018,"Remote","17-25","Pedal cyclist",11,0,8,8,1.375
+2018,"Remote","17-25","Pedestrian",52,0,12,12,4.333333333333333
+2018,"Remote","17-25","Pick-up truck or van occupant",4,0,3,3,1.3333333333333333
+2018,"Remote","26-39","Bus occupant",3,0,1,1,3
+2018,"Remote","26-39","Car driver",572,0,127,127,4.503937007874016
+2018,"Remote","26-39","Car passenger",537,0,80,80,6.7125
+2018,"Remote","26-39","Car unknown position",82,0,9,9,9.11111111111111
+2018,"Remote","26-39","Heavy transport driver",59,0,6,6,9.833333333333334
+2018,"Remote","26-39","Heavy transport unknown position",5,0,1,1,5
+2018,"Remote","26-39","Motorcyclist",253,0,73,73,3.4657534246575343
+2018,"Remote","26-39","Other or unknown",73,0,6,6,12.166666666666666
+2018,"Remote","26-39","Pedal cyclist",22,0,17,17,1.2941176470588236
+2018,"Remote","26-39","Pedestrian",108,0,18,18,6
+2018,"Remote","26-39","Pick-up truck or van occupant",30,0,6,6,5
+2018,"Remote","40-64","Bus occupant",56,0,3,3,18.666666666666668
+2018,"Remote","40-64","Car driver",423,0,94,94,4.5
+2018,"Remote","40-64","Car passenger",352,1,48,47,7.48936170212766
+2018,"Remote","40-64","Car unknown position",154,0,14,14,11
+2018,"Remote","40-64","Heavy transport driver",35,1,14,13,2.6923076923076925
+2018,"Remote","40-64","Heavy transport passenger",1,0,1,1,1
+2018,"Remote","40-64","Heavy transport unknown position",1,0,1,1,1
+2018,"Remote","40-64","Motorcyclist",383,0,74,74,5.175675675675675
+2018,"Remote","40-64","Other or unknown",17,0,6,6,2.8333333333333335
+2018,"Remote","40-64","Pedal cyclist",31,0,19,19,1.631578947368421
+2018,"Remote","40-64","Pedestrian",142,0,27,27,5.2592592592592595
+2018,"Remote","40-64","Pick-up truck or van occupant",21,0,1,1,21
+2018,"Remote","65-74","Car driver",93,0,23,23,4.043478260869565
+2018,"Remote","65-74","Car passenger",28,0,11,11,2.5454545454545454
+2018,"Remote","65-74","Car unknown position",1,0,1,1,1
+2018,"Remote","65-74","Motorcyclist",59,0,7,7,8.428571428571429
+2018,"Remote","65-74","Other or unknown",48,0,5,5,9.6
+2018,"Remote","65-74","Pedal cyclist",4,0,4,4,1
+2018,"Remote","65-74","Pedestrian",6,0,2,2,3
+2018,"Remote","75+","Car driver",82,0,9,9,9.11111111111111
+2018,"Remote","75+","Car passenger",20,0,6,6,3.3333333333333335
+2018,"Remote","75+","Car unknown position",9,0,1,1,9
+2018,"Remote","75+","Heavy transport driver",1,0,1,1,1
+2018,"Remote","75+","Motorcyclist",50,0,3,3,16.666666666666668
+2018,"Remote","75+","Other or unknown",1,0,1,1,1
+2018,"Remote","75+","Pedal cyclist",19,0,2,2,9.5
+2018,"Remote","75+","Pedestrian",41,0,1,1,41
+2018,"Remote","75+","Pick-up truck or van occupant",1,0,0,0,
+2018,"Remote","8-16","Bus occupant",1,0,1,1,1
+2018,"Remote","8-16","Car driver",19,0,6,6,3.1666666666666665
+2018,"Remote","8-16","Car passenger",258,1,52,51,5.0588235294117645
+2018,"Remote","8-16","Car unknown position",7,1,3,2,3.5
+2018,"Remote","8-16","Motorcyclist",55,0,34,34,1.6176470588235294
+2018,"Remote","8-16","Other or unknown",9,0,7,7,1.2857142857142858
+2018,"Remote","8-16","Pedal cyclist",32,0,26,26,1.2307692307692308
+2018,"Remote","8-16","Pedestrian",13,0,6,6,2.1666666666666665
+2018,"Unknown","0-7","Car passenger",4,0,4,4,1
+2018,"Unknown","0-7","Car unknown position",84,0,0,0,
+2018,"Unknown","0-7","Pedal cyclist",4,0,4,4,1
+2018,"Unknown","0-7","Pedestrian",14,0,3,3,4.666666666666667
+2018,"Unknown","17-25","Bus occupant",23,0,7,7,3.2857142857142856
+2018,"Unknown","17-25","Car driver",577,0,90,90,6.411111111111111
+2018,"Unknown","17-25","Car passenger",352,1,97,96,3.6666666666666665
+2018,"Unknown","17-25","Car unknown position",16,0,5,5,3.2
+2018,"Unknown","17-25","Heavy transport driver",1,0,1,1,1
+2018,"Unknown","17-25","Heavy transport passenger",4,0,0,0,
+2018,"Unknown","17-25","Motorcyclist",345,0,59,59,5.8474576271186445
+2018,"Unknown","17-25","Other or unknown",13,0,2,2,6.5
+2018,"Unknown","17-25","Pedal cyclist",116,0,52,52,2.230769230769231
+2018,"Unknown","17-25","Pedestrian",250,2,42,40,6.25
+2018,"Unknown","17-25","Pick-up truck or van occupant",16,0,5,5,3.2
+2018,"Unknown","26-39","Bus occupant",6,0,2,2,3
+2018,"Unknown","26-39","Car driver",594,0,103,103,5.766990291262136
+2018,"Unknown","26-39","Car passenger",437,0,65,65,6.723076923076923
+2018,"Unknown","26-39","Car unknown position",70,0,7,7,10
+2018,"Unknown","26-39","Heavy transport passenger",13,0,2,2,6.5
+2018,"Unknown","26-39","Heavy transport unknown position",1,0,1,1,1
+2018,"Unknown","26-39","Motorcyclist",295,0,84,84,3.511904761904762
+2018,"Unknown","26-39","Other or unknown",12,0,6,6,2
+2018,"Unknown","26-39","Pedal cyclist",190,0,80,80,2.375
+2018,"Unknown","26-39","Pedestrian",220,0,31,31,7.096774193548387
+2018,"Unknown","26-39","Pick-up truck or van occupant",110,0,7,7,15.714285714285714
+2018,"Unknown","40-64","Bus occupant",21,1,6,5,4.2
+2018,"Unknown","40-64","Car driver",218,1,40,39,5.589743589743589
+2018,"Unknown","40-64","Car passenger",270,0,39,39,6.923076923076923
+2018,"Unknown","40-64","Car unknown position",5,0,5,5,1
+2018,"Unknown","40-64","Heavy transport driver",6,0,4,4,1.5
+2018,"Unknown","40-64","Heavy transport passenger",1,0,1,1,1
+2018,"Unknown","40-64","Heavy transport unknown position",1,0,1,1,1
+2018,"Unknown","40-64","Motorcyclist",138,0,26,26,5.3076923076923075
+2018,"Unknown","40-64","Other or unknown",40,0,1,1,40
+2018,"Unknown","40-64","Pedal cyclist",106,0,33,33,3.212121212121212
+2018,"Unknown","40-64","Pedestrian",374,1,27,26,14.384615384615385
+2018,"Unknown","65-74","Car driver",42,0,7,7,6
+2018,"Unknown","65-74","Car passenger",32,0,13,13,2.4615384615384617
+2018,"Unknown","65-74","Motorcyclist",38,0,5,5,7.6
+2018,"Unknown","65-74","Pedal cyclist",46,0,11,11,4.181818181818182
+2018,"Unknown","65-74","Pedestrian",79,1,9,8,9.875
+2018,"Unknown","75+","Car driver",13,0,2,2,6.5
+2018,"Unknown","75+","Car passenger",1,0,1,1,1
+2018,"Unknown","75+","Car unknown position",38,0,1,1,38
+2018,"Unknown","75+","Heavy transport driver",8,1,1,0,
+2018,"Unknown","75+","Motorcyclist",76,0,1,1,76
+2018,"Unknown","75+","Pedal cyclist",12,0,4,4,3
+2018,"Unknown","75+","Pedestrian",11,1,5,4,2.75
+2018,"Unknown","8-16","Bus occupant",1,0,1,1,1
+2018,"Unknown","8-16","Car driver",2,0,2,2,1
+2018,"Unknown","8-16","Car passenger",43,0,7,7,6.142857142857143
+2018,"Unknown","8-16","Motorcyclist",1,0,1,1,1
+2018,"Unknown","8-16","Pedal cyclist",5,0,5,5,1
+2018,"Unknown","8-16","Pedestrian",5,0,4,4,1.25
+2019,"Major Cities","0-7","Bus occupant",1,0,1,1,1
+2019,"Major Cities","0-7","Car driver",8,0,4,4,2
+2019,"Major Cities","0-7","Car passenger",725,2,196,194,3.7371134020618557
+2019,"Major Cities","0-7","Car unknown position",3,0,2,2,1.5
+2019,"Major Cities","0-7","Motorcyclist",10,0,10,10,1
+2019,"Major Cities","0-7","Other or unknown",14,0,4,4,3.5
+2019,"Major Cities","0-7","Pedal cyclist",251,0,128,128,1.9609375
+2019,"Major Cities","0-7","Pedestrian",464,0,87,87,5.333333333333333
+2019,"Major Cities","17-25","Bus occupant",29,0,9,9,3.2222222222222223
+2019,"Major Cities","17-25","Car driver",5378,6,1797,1791,3.002791736460078
+2019,"Major Cities","17-25","Car passenger",3694,5,779,774,4.772609819121447
+2019,"Major Cities","17-25","Car unknown position",724,0,96,96,7.541666666666667
+2019,"Major Cities","17-25","Heavy transport driver",140,0,20,20,7
+2019,"Major Cities","17-25","Heavy transport passenger",26,0,9,9,2.888888888888889
+2019,"Major Cities","17-25","Heavy transport unknown position",8,0,3,3,2.6666666666666665
+2019,"Major Cities","17-25","Motorcyclist",7744,4,1355,1351,5.732050333086603
+2019,"Major Cities","17-25","Other or unknown",512,1,73,72,7.111111111111111
+2019,"Major Cities","17-25","Pedal cyclist",1362,0,530,530,2.569811320754717
+2019,"Major Cities","17-25","Pedestrian",2754,6,323,317,8.68769716088328
+2019,"Major Cities","17-25","Pick-up truck or van occupant",156,1,31,30,5.2
+2019,"Major Cities","26-39","Bus occupant",45,0,20,20,2.25
+2019,"Major Cities","26-39","Car driver",7105,5,2414,2409,2.949356579493566
+2019,"Major Cities","26-39","Car passenger",1818,2,559,557,3.263913824057451
+2019,"Major Cities","26-39","Car unknown position",558,0,158,158,3.5316455696202533
+2019,"Major Cities","26-39","Heavy transport driver",306,0,64,64,4.78125
+2019,"Major Cities","26-39","Heavy transport passenger",20,0,6,6,3.3333333333333335
+2019,"Major Cities","26-39","Heavy transport unknown position",46,0,8,8,5.75
+2019,"Major Cities","26-39","Motorcyclist",9903,8,1728,1720,5.757558139534884
+2019,"Major Cities","26-39","Other or unknown",335,0,97,97,3.4536082474226806
+2019,"Major Cities","26-39","Pedal cyclist",3166,1,1260,1259,2.5146942017474188
+2019,"Major Cities","26-39","Pedestrian",2956,2,388,386,7.658031088082901
+2019,"Major Cities","26-39","Pick-up truck or van occupant",267,0,39,39,6.846153846153846
+2019,"Major Cities","40-64","Bus occupant",154,0,65,65,2.3692307692307693
+2019,"Major Cities","40-64","Car driver",10844,12,2877,2865,3.7849912739965097
+2019,"Major Cities","40-64","Car passenger",2287,0,618,618,3.7006472491909386
+2019,"Major Cities","40-64","Car unknown position",935,0,151,151,6.19205298013245
+2019,"Major Cities","40-64","Heavy transport driver",776,0,114,114,6.807017543859649
+2019,"Major Cities","40-64","Heavy transport passenger",41,0,8,8,5.125
+2019,"Major Cities","40-64","Heavy transport unknown position",371,0,14,14,26.5
+2019,"Major Cities","40-64","Motorcyclist",14031,3,2114,2111,6.646612979630507
+2019,"Major Cities","40-64","Other or unknown",1007,0,127,127,7.929133858267717
+2019,"Major Cities","40-64","Pedal cyclist",7784,2,2396,2394,3.2514619883040936
+2019,"Major Cities","40-64","Pedestrian",5942,8,553,545,10.902752293577981
+2019,"Major Cities","40-64","Pick-up truck or van occupant",92,0,48,48,1.9166666666666667
+2019,"Major Cities","65-74","Bus occupant",61,0,37,37,1.6486486486486487
+2019,"Major Cities","65-74","Car driver",3960,2,794,792,5
+2019,"Major Cities","65-74","Car passenger",1964,3,253,250,7.856
+2019,"Major Cities","65-74","Car unknown position",669,1,37,36,18.583333333333332
+2019,"Major Cities","65-74","Heavy transport driver",160,0,9,9,17.77777777777778
+2019,"Major Cities","65-74","Heavy transport passenger",35,0,5,5,7
+2019,"Major Cities","65-74","Motorcyclist",1743,4,218,214,8.144859813084112
+2019,"Major Cities","65-74","Other or unknown",218,0,32,32,6.8125
+2019,"Major Cities","65-74","Pedal cyclist",2564,0,427,427,6.004683840749414
+2019,"Major Cities","65-74","Pedestrian",3393,6,230,224,15.147321428571429
+2019,"Major Cities","65-74","Pick-up truck or van occupant",127,0,8,8,15.875
+2019,"Major Cities","75+","Bus occupant",355,0,58,58,6.120689655172414
+2019,"Major Cities","75+","Car driver",6838,11,890,879,7.77929465301479
+2019,"Major Cities","75+","Car passenger",2846,10,344,334,8.520958083832335
+2019,"Major Cities","75+","Car unknown position",917,0,34,34,26.970588235294116
+2019,"Major Cities","75+","Heavy transport driver",1,0,1,1,1
+2019,"Major Cities","75+","Heavy transport passenger",3,0,3,3,1
+2019,"Major Cities","75+","Motorcyclist",1025,1,59,58,17.67241379310345
+2019,"Major Cities","75+","Other or unknown",886,0,45,45,19.68888888888889
+2019,"Major Cities","75+","Pedal cyclist",1161,2,133,131,8.86259541984733
+2019,"Major Cities","75+","Pedestrian",5848,19,298,279,20.96057347670251
+2019,"Major Cities","75+","Pick-up truck or van occupant",33,0,3,3,11
+2019,"Major Cities","8-16","Bus occupant",5,0,1,1,5
+2019,"Major Cities","8-16","Car driver",94,0,23,23,4.086956521739131
+2019,"Major Cities","8-16","Car passenger",981,1,349,348,2.8189655172413794
+2019,"Major Cities","8-16","Car unknown position",26,0,10,10,2.6
+2019,"Major Cities","8-16","Motorcyclist",529,1,179,178,2.9719101123595504
+2019,"Major Cities","8-16","Other or unknown",16,0,10,10,1.6
+2019,"Major Cities","8-16","Pedal cyclist",1121,0,689,689,1.6269956458635704
+2019,"Major Cities","8-16","Pedestrian",835,0,220,220,3.7954545454545454
+2019,"Major Cities","8-16","Pick-up truck or van occupant",2,0,2,2,1
+2019,"Regional","0-7","Bus occupant",3,0,2,2,1.5
+2019,"Regional","0-7","Car driver",1,0,1,1,1
+2019,"Regional","0-7","Car passenger",462,0,93,93,4.967741935483871
+2019,"Regional","0-7","Car unknown position",3,0,3,3,1
+2019,"Regional","0-7","Motorcyclist",112,0,21,21,5.333333333333333
+2019,"Regional","0-7","Other or unknown",12,0,6,6,2
+2019,"Regional","0-7","Pedal cyclist",86,0,66,66,1.303030303030303
+2019,"Regional","0-7","Pedestrian",56,0,25,25,2.24
+2019,"Regional","0-7","Pick-up truck or van occupant",4,0,3,3,1.3333333333333333
+2019,"Regional","17-25","Bus occupant",13,0,11,11,1.1818181818181819
+2019,"Regional","17-25","Car driver",5270,5,1057,1052,5.009505703422053
+2019,"Regional","17-25","Car passenger",1817,3,376,373,4.871313672922252
+2019,"Regional","17-25","Car unknown position",399,0,62,62,6.435483870967742
+2019,"Regional","17-25","Heavy transport driver",60,0,7,7,8.571428571428571
+2019,"Regional","17-25","Heavy transport passenger",21,0,3,3,7
+2019,"Regional","17-25","Motorcyclist",2515,0,642,642,3.9174454828660434
+2019,"Regional","17-25","Other or unknown",172,0,48,48,3.5833333333333335
+2019,"Regional","17-25","Pedal cyclist",277,0,117,117,2.3675213675213675
+2019,"Regional","17-25","Pedestrian",604,2,67,65,9.292307692307693
+2019,"Regional","17-25","Pick-up truck or van occupant",163,0,21,21,7.761904761904762
+2019,"Regional","26-39","Bus occupant",38,0,7,7,5.428571428571429
+2019,"Regional","26-39","Car driver",4165,4,887,883,4.7168742921857305
+2019,"Regional","26-39","Car passenger",1105,0,233,233,4.742489270386266
+2019,"Regional","26-39","Car unknown position",245,0,68,68,3.6029411764705883
+2019,"Regional","26-39","Heavy transport driver",119,0,38,38,3.1315789473684212
+2019,"Regional","26-39","Heavy transport passenger",8,0,5,5,1.6
+2019,"Regional","26-39","Heavy transport unknown position",53,0,4,4,13.25
+2019,"Regional","26-39","Motorcyclist",2799,1,603,602,4.649501661129568
+2019,"Regional","26-39","Other or unknown",168,0,47,47,3.574468085106383
+2019,"Regional","26-39","Pedal cyclist",636,0,219,219,2.904109589041096
+2019,"Regional","26-39","Pedestrian",666,1,87,86,7.744186046511628
+2019,"Regional","26-39","Pick-up truck or van occupant",52,0,25,25,2.08
+2019,"Regional","40-64","Bus occupant",24,0,9,9,2.6666666666666665
+2019,"Regional","40-64","Car driver",7329,4,1296,1292,5.672600619195046
+2019,"Regional","40-64","Car passenger",1360,0,261,261,5.210727969348659
+2019,"Regional","40-64","Car unknown position",412,0,78,78,5.282051282051282
+2019,"Regional","40-64","Heavy transport driver",879,2,137,135,6.511111111111111
+2019,"Regional","40-64","Heavy transport passenger",9,0,5,5,1.8
+2019,"Regional","40-64","Heavy transport unknown position",62,0,13,13,4.769230769230769
+2019,"Regional","40-64","Motorcyclist",9025,2,1064,1062,8.498116760828625
+2019,"Regional","40-64","Other or unknown",496,0,54,54,9.185185185185185
+2019,"Regional","40-64","Pedal cyclist",2063,1,531,530,3.892452830188679
+2019,"Regional","40-64","Pedestrian",1400,1,121,120,11.666666666666666
+2019,"Regional","40-64","Pick-up truck or van occupant",262,1,43,42,6.238095238095238
+2019,"Regional","65-74","Bus occupant",74,0,8,8,9.25
+2019,"Regional","65-74","Car driver",3575,1,412,411,8.69829683698297
+2019,"Regional","65-74","Car passenger",827,3,116,113,7.31858407079646
+2019,"Regional","65-74","Car unknown position",580,0,27,27,21.48148148148148
+2019,"Regional","65-74","Heavy transport driver",113,0,12,12,9.416666666666666
+2019,"Regional","65-74","Heavy transport passenger",2,0,1,1,2
+2019,"Regional","65-74","Heavy transport unknown position",7,0,3,3,2.3333333333333335
+2019,"Regional","65-74","Motorcyclist",1281,1,160,159,8.056603773584905
+2019,"Regional","65-74","Other or unknown",196,0,23,23,8.521739130434783
+2019,"Regional","65-74","Pedal cyclist",658,0,131,131,5.022900763358779
+2019,"Regional","65-74","Pedestrian",658,0,53,53,12.415094339622641
+2019,"Regional","65-74","Pick-up truck or van occupant",61,0,7,7,8.714285714285714
+2019,"Regional","75+","Bus occupant",26,0,3,3,8.666666666666666
+2019,"Regional","75+","Car driver",3971,9,456,447,8.883668903803132
+2019,"Regional","75+","Car passenger",1272,5,142,137,9.284671532846716
+2019,"Regional","75+","Car unknown position",360,0,20,20,18
+2019,"Regional","75+","Heavy transport driver",21,0,5,5,4.2
+2019,"Regional","75+","Heavy transport passenger",12,0,1,1,12
+2019,"Regional","75+","Heavy transport unknown position",6,0,0,0,
+2019,"Regional","75+","Motorcyclist",523,3,73,70,7.4714285714285715
+2019,"Regional","75+","Other or unknown",461,0,16,16,28.8125
+2019,"Regional","75+","Pedal cyclist",413,0,43,43,9.604651162790697
+2019,"Regional","75+","Pedestrian",1115,2,64,62,17.983870967741936
+2019,"Regional","75+","Pick-up truck or van occupant",79,0,5,5,15.8
+2019,"Regional","8-16","Car driver",70,0,20,20,3.5
+2019,"Regional","8-16","Car passenger",1181,0,211,211,5.597156398104265
+2019,"Regional","8-16","Car unknown position",47,0,6,6,7.833333333333333
+2019,"Regional","8-16","Heavy transport passenger",4,0,2,2,2
+2019,"Regional","8-16","Motorcyclist",590,0,222,222,2.6576576576576576
+2019,"Regional","8-16","Other or unknown",20,0,10,10,2
+2019,"Regional","8-16","Pedal cyclist",535,0,315,315,1.6984126984126984
+2019,"Regional","8-16","Pedestrian",324,1,60,59,5.491525423728813
+2019,"Regional","8-16","Pick-up truck or van occupant",6,0,4,4,1.5
+2019,"Remote","0-7","Car passenger",110,0,21,21,5.238095238095238
+2019,"Remote","0-7","Car unknown position",1,0,0,0,
+2019,"Remote","0-7","Motorcyclist",88,0,3,3,29.333333333333332
+2019,"Remote","0-7","Other or unknown",2,0,2,2,1
+2019,"Remote","0-7","Pedal cyclist",23,0,9,9,2.5555555555555554
+2019,"Remote","0-7","Pedestrian",52,0,6,6,8.666666666666666
+2019,"Remote","17-25","Bus occupant",1,0,1,1,1
+2019,"Remote","17-25","Car driver",444,1,118,117,3.7948717948717947
+2019,"Remote","17-25","Car passenger",223,0,59,59,3.7796610169491527
+2019,"Remote","17-25","Car unknown position",95,0,10,10,9.5
+2019,"Remote","17-25","Heavy transport passenger",1,0,1,1,1
+2019,"Remote","17-25","Heavy transport unknown position",1,0,1,1,1
+2019,"Remote","17-25","Motorcyclist",256,0,67,67,3.8208955223880596
+2019,"Remote","17-25","Other or unknown",22,0,4,4,5.5
+2019,"Remote","17-25","Pedal cyclist",22,0,13,13,1.6923076923076923
+2019,"Remote","17-25","Pedestrian",52,0,7,7,7.428571428571429
+2019,"Remote","17-25","Pick-up truck or van occupant",2,0,2,2,1
+2019,"Remote","26-39","Bus occupant",1,0,1,1,1
+2019,"Remote","26-39","Car driver",388,1,91,90,4.311111111111111
+2019,"Remote","26-39","Car passenger",216,0,65,65,3.3230769230769233
+2019,"Remote","26-39","Car unknown position",62,0,9,9,6.888888888888889
+2019,"Remote","26-39","Heavy transport driver",13,0,3,3,4.333333333333333
+2019,"Remote","26-39","Motorcyclist",144,0,62,62,2.3225806451612905
+2019,"Remote","26-39","Other or unknown",15,0,8,8,1.875
+2019,"Remote","26-39","Pedal cyclist",44,0,17,17,2.588235294117647
+2019,"Remote","26-39","Pedestrian",199,0,18,18,11.055555555555555
+2019,"Remote","26-39","Pick-up truck or van occupant",6,0,5,5,1.2
+2019,"Remote","40-64","Bus occupant",1,0,1,1,1
+2019,"Remote","40-64","Car driver",704,0,97,97,7.257731958762887
+2019,"Remote","40-64","Car passenger",364,1,48,47,7.74468085106383
+2019,"Remote","40-64","Car unknown position",47,0,5,5,9.4
+2019,"Remote","40-64","Heavy transport driver",95,0,10,10,9.5
+2019,"Remote","40-64","Heavy transport passenger",63,0,0,0,
+2019,"Remote","40-64","Heavy transport unknown position",2,0,0,0,
+2019,"Remote","40-64","Motorcyclist",495,0,58,58,8.53448275862069
+2019,"Remote","40-64","Other or unknown",49,0,5,5,9.8
+2019,"Remote","40-64","Pedal cyclist",191,0,29,29,6.586206896551724
+2019,"Remote","40-64","Pedestrian",155,0,29,29,5.344827586206897
+2019,"Remote","40-64","Pick-up truck or van occupant",13,0,3,3,4.333333333333333
+2019,"Remote","65-74","Car driver",100,0,17,17,5.882352941176471
+2019,"Remote","65-74","Car passenger",57,0,9,9,6.333333333333333
+2019,"Remote","65-74","Heavy transport driver",3,0,1,1,3
+2019,"Remote","65-74","Heavy transport unknown position",1,0,1,1,1
+2019,"Remote","65-74","Motorcyclist",18,0,7,7,2.5714285714285716
+2019,"Remote","65-74","Other or unknown",37,0,0,0,
+2019,"Remote","65-74","Pedal cyclist",10,0,3,3,3.3333333333333335
+2019,"Remote","65-74","Pedestrian",61,0,5,5,12.2
+2019,"Remote","75+","Car driver",254,0,20,20,12.7
+2019,"Remote","75+","Car passenger",71,0,2,2,35.5
+2019,"Remote","75+","Car unknown position",38,0,3,3,12.666666666666666
+2019,"Remote","75+","Motorcyclist",2,0,2,2,1
+2019,"Remote","75+","Other or unknown",7,0,1,1,7
+2019,"Remote","75+","Pedal cyclist",8,0,1,1,8
+2019,"Remote","8-16","Bus occupant",2,0,2,2,1
+2019,"Remote","8-16","Car driver",62,0,8,8,7.75
+2019,"Remote","8-16","Car passenger",70,0,36,36,1.9444444444444444
+2019,"Remote","8-16","Motorcyclist",155,0,57,57,2.719298245614035
+2019,"Remote","8-16","Other or unknown",1,0,1,1,1
+2019,"Remote","8-16","Pedal cyclist",53,0,33,33,1.606060606060606
+2019,"Remote","8-16","Pedestrian",53,0,5,5,10.6
+2019,"Unknown","0-7","Car passenger",48,0,8,8,6
+2019,"Unknown","0-7","Pedestrian",6,0,5,5,1.2
+2019,"Unknown","17-25","Car driver",472,1,104,103,4.58252427184466
+2019,"Unknown","17-25","Car passenger",307,1,89,88,3.4886363636363638
+2019,"Unknown","17-25","Car unknown position",80,0,9,9,8.88888888888889
+2019,"Unknown","17-25","Heavy transport driver",4,0,1,1,4
+2019,"Unknown","17-25","Motorcyclist",304,0,98,98,3.1020408163265305
+2019,"Unknown","17-25","Other or unknown",5,1,4,3,1.6666666666666667
+2019,"Unknown","17-25","Pedal cyclist",194,1,72,71,2.732394366197183
+2019,"Unknown","17-25","Pedestrian",156,1,40,39,4
+2019,"Unknown","17-25","Pick-up truck or van occupant",22,0,5,5,4.4
+2019,"Unknown","26-39","Bus occupant",7,0,5,5,1.4
+2019,"Unknown","26-39","Car driver",435,0,106,106,4.10377358490566
+2019,"Unknown","26-39","Car passenger",232,0,69,69,3.36231884057971
+2019,"Unknown","26-39","Car unknown position",92,0,8,8,11.5
+2019,"Unknown","26-39","Heavy transport driver",49,0,3,3,16.333333333333332
+2019,"Unknown","26-39","Heavy transport passenger",8,0,2,2,4
+2019,"Unknown","26-39","Motorcyclist",331,1,93,92,3.597826086956522
+2019,"Unknown","26-39","Other or unknown",2,0,1,1,2
+2019,"Unknown","26-39","Pedal cyclist",127,0,94,94,1.351063829787234
+2019,"Unknown","26-39","Pedestrian",156,1,42,41,3.8048780487804876
+2019,"Unknown","26-39","Pick-up truck or van occupant",4,0,2,2,2
+2019,"Unknown","40-64","Bus occupant",25,0,8,8,3.125
+2019,"Unknown","40-64","Car driver",322,1,45,44,7.318181818181818
+2019,"Unknown","40-64","Car passenger",217,0,53,53,4.09433962264151
+2019,"Unknown","40-64","Car unknown position",5,0,2,2,2.5
+2019,"Unknown","40-64","Heavy transport driver",12,0,2,2,6
+2019,"Unknown","40-64","Heavy transport passenger",27,0,0,0,
+2019,"Unknown","40-64","Motorcyclist",336,1,48,47,7.148936170212766
+2019,"Unknown","40-64","Other or unknown",215,0,3,3,71.66666666666667
+2019,"Unknown","40-64","Pedal cyclist",91,1,43,42,2.1666666666666665
+2019,"Unknown","40-64","Pedestrian",584,0,20,20,29.2
+2019,"Unknown","40-64","Pick-up truck or van occupant",35,0,4,4,8.75
+2019,"Unknown","65-74","Bus occupant",67,0,5,5,13.4
+2019,"Unknown","65-74","Car driver",17,0,6,6,2.8333333333333335
+2019,"Unknown","65-74","Car passenger",38,0,19,19,2
+2019,"Unknown","65-74","Car unknown position",17,0,0,0,
+2019,"Unknown","65-74","Motorcyclist",6,0,4,4,1.5
+2019,"Unknown","65-74","Other or unknown",2,0,1,1,2
+2019,"Unknown","65-74","Pedal cyclist",46,0,4,4,11.5
+2019,"Unknown","65-74","Pedestrian",92,0,4,4,23
+2019,"Unknown","75+","Car driver",31,0,4,4,7.75
+2019,"Unknown","75+","Car passenger",33,0,9,9,3.6666666666666665
+2019,"Unknown","75+","Motorcyclist",12,0,2,2,6
+2019,"Unknown","75+","Other or unknown",10,0,0,0,
+2019,"Unknown","75+","Pedal cyclist",9,0,3,3,3
+2019,"Unknown","75+","Pedestrian",115,0,5,5,23
+2019,"Unknown","8-16","Bus occupant",1,0,1,1,1
+2019,"Unknown","8-16","Car driver",1,0,1,1,1
+2019,"Unknown","8-16","Car passenger",35,0,8,8,4.375
+2019,"Unknown","8-16","Heavy transport passenger",2,0,1,1,2
+2019,"Unknown","8-16","Motorcyclist",9,0,5,5,1.8
+2019,"Unknown","8-16","Pedal cyclist",5,0,4,4,1.25
+2019,"Unknown","8-16","Pedestrian",1,0,1,1,1
+2019,"Unknown","8-16","Pick-up truck or van occupant",4,0,2,2,2
+2020,"Major Cities","0-7","Car driver",2,0,2,2,1
+2020,"Major Cities","0-7","Car passenger",431,1,171,170,2.5352941176470587
+2020,"Major Cities","0-7","Car unknown position",5,0,5,5,1
+2020,"Major Cities","0-7","Motorcyclist",8,0,7,7,1.1428571428571428
+2020,"Major Cities","0-7","Other or unknown",7,0,5,5,1.4
+2020,"Major Cities","0-7","Pedal cyclist",240,0,189,189,1.2698412698412698
+2020,"Major Cities","0-7","Pedestrian",188,0,78,78,2.41025641025641
+2020,"Major Cities","0-7","Pick-up truck or van occupant",1,0,1,1,1
+2020,"Major Cities","17-25","Bus occupant",42,0,14,14,3
+2020,"Major Cities","17-25","Car driver",5247,3,1818,1815,2.890909090909091
+2020,"Major Cities","17-25","Car passenger",3579,1,751,750,4.772
+2020,"Major Cities","17-25","Car unknown position",405,1,84,83,4.879518072289157
+2020,"Major Cities","17-25","Heavy transport driver",9,0,8,8,1.125
+2020,"Major Cities","17-25","Heavy transport passenger",9,0,2,2,4.5
+2020,"Major Cities","17-25","Heavy transport unknown position",9,0,3,3,3
+2020,"Major Cities","17-25","Motorcyclist",5540,3,1248,1245,4.449799196787149
+2020,"Major Cities","17-25","Other or unknown",380,0,60,60,6.333333333333333
+2020,"Major Cities","17-25","Pedal cyclist",1071,0,580,580,1.846551724137931
+2020,"Major Cities","17-25","Pedestrian",1760,1,227,226,7.787610619469026
+2020,"Major Cities","17-25","Pick-up truck or van occupant",155,0,30,30,5.166666666666667
+2020,"Major Cities","26-39","Bus occupant",16,0,14,14,1.1428571428571428
+2020,"Major Cities","26-39","Car driver",6746,3,2167,2164,3.1173752310536043
+2020,"Major Cities","26-39","Car passenger",1592,1,479,478,3.3305439330543933
+2020,"Major Cities","26-39","Car unknown position",540,0,139,139,3.884892086330935
+2020,"Major Cities","26-39","Heavy transport driver",314,0,65,65,4.8307692307692305
+2020,"Major Cities","26-39","Heavy transport passenger",14,0,6,6,2.3333333333333335
+2020,"Major Cities","26-39","Heavy transport unknown position",18,0,8,8,2.25
+2020,"Major Cities","26-39","Motorcyclist",8686,3,1614,1611,5.391682184978275
+2020,"Major Cities","26-39","Other or unknown",274,0,67,67,4.08955223880597
+2020,"Major Cities","26-39","Pedal cyclist",3013,2,1325,1323,2.2773998488284204
+2020,"Major Cities","26-39","Pedestrian",2449,3,259,256,9.56640625
+2020,"Major Cities","26-39","Pick-up truck or van occupant",72,0,25,25,2.88
+2020,"Major Cities","40-64","Bus occupant",153,0,45,45,3.4
+2020,"Major Cities","40-64","Car driver",8971,1,2450,2449,3.663127807268273
+2020,"Major Cities","40-64","Car passenger",2596,1,470,469,5.535181236673774
+2020,"Major Cities","40-64","Car unknown position",812,0,153,153,5.30718954248366
+2020,"Major Cities","40-64","Heavy transport driver",497,0,96,96,5.177083333333333
+2020,"Major Cities","40-64","Heavy transport passenger",95,0,10,10,9.5
+2020,"Major Cities","40-64","Heavy transport unknown position",97,0,7,7,13.857142857142858
+2020,"Major Cities","40-64","Motorcyclist",12660,4,1963,1959,6.462480857580398
+2020,"Major Cities","40-64","Other or unknown",498,0,142,142,3.507042253521127
+2020,"Major Cities","40-64","Pedal cyclist",7798,3,2677,2674,2.9162303664921465
+2020,"Major Cities","40-64","Pedestrian",4506,3,411,408,11.044117647058824
+2020,"Major Cities","40-64","Pick-up truck or van occupant",259,0,59,59,4.389830508474576
+2020,"Major Cities","65-74","Bus occupant",126,0,19,19,6.631578947368421
+2020,"Major Cities","65-74","Car driver",3730,2,650,648,5.756172839506172
+2020,"Major Cities","65-74","Car passenger",1469,0,177,177,8.299435028248588
+2020,"Major Cities","65-74","Car unknown position",427,0,36,36,11.86111111111111
+2020,"Major Cities","65-74","Heavy transport driver",110,0,11,11,10
+2020,"Major Cities","65-74","Heavy transport passenger",160,0,1,1,160
+2020,"Major Cities","65-74","Heavy transport unknown position",1,0,1,1,1
+2020,"Major Cities","65-74","Motorcyclist",2081,1,215,214,9.72429906542056
+2020,"Major Cities","65-74","Other or unknown",253,0,28,28,9.035714285714286
+2020,"Major Cities","65-74","Pedal cyclist",2859,1,523,522,5.477011494252873
+2020,"Major Cities","65-74","Pedestrian",2930,2,178,176,16.647727272727273
+2020,"Major Cities","65-74","Pick-up truck or van occupant",31,0,6,6,5.166666666666667
+2020,"Major Cities","75+","Bus occupant",338,0,44,44,7.681818181818182
+2020,"Major Cities","75+","Car driver",5458,5,746,741,7.365721997300945
+2020,"Major Cities","75+","Car passenger",2025,4,238,234,8.653846153846153
+2020,"Major Cities","75+","Car unknown position",974,0,25,25,38.96
+2020,"Major Cities","75+","Heavy transport driver",5,0,1,1,5
+2020,"Major Cities","75+","Heavy transport unknown position",33,0,0,0,
+2020,"Major Cities","75+","Motorcyclist",819,2,45,43,19.046511627906977
+2020,"Major Cities","75+","Other or unknown",752,0,22,22,34.18181818181818
+2020,"Major Cities","75+","Pedal cyclist",1219,1,169,168,7.255952380952381
+2020,"Major Cities","75+","Pedestrian",3958,5,193,188,21.0531914893617
+2020,"Major Cities","75+","Pick-up truck or van occupant",1,0,1,1,1
+2020,"Major Cities","8-16","Bus occupant",14,0,11,11,1.2727272727272727
+2020,"Major Cities","8-16","Car driver",171,0,29,29,5.896551724137931
+2020,"Major Cities","8-16","Car passenger",1274,0,308,308,4.136363636363637
+2020,"Major Cities","8-16","Car unknown position",21,0,13,13,1.6153846153846154
+2020,"Major Cities","8-16","Motorcyclist",528,0,186,186,2.838709677419355
+2020,"Major Cities","8-16","Other or unknown",21,0,16,16,1.3125
+2020,"Major Cities","8-16","Pedal cyclist",1858,0,967,967,1.921406411582213
+2020,"Major Cities","8-16","Pedestrian",868,1,186,185,4.691891891891892
+2020,"Major Cities","8-16","Pick-up truck or van occupant",4,0,4,4,1
+2020,"Regional","0-7","Car driver",4,0,4,4,1
+2020,"Regional","0-7","Car passenger",876,0,107,107,8.186915887850468
+2020,"Regional","0-7","Car unknown position",2,0,2,2,1
+2020,"Regional","0-7","Heavy transport passenger",4,0,1,1,4
+2020,"Regional","0-7","Motorcyclist",100,0,17,17,5.882352941176471
+2020,"Regional","0-7","Other or unknown",11,0,4,4,2.75
+2020,"Regional","0-7","Pedal cyclist",91,0,62,62,1.467741935483871
+2020,"Regional","0-7","Pedestrian",65,0,20,20,3.25
+2020,"Regional","17-25","Bus occupant",40,0,7,7,5.714285714285714
+2020,"Regional","17-25","Car driver",3775,3,1069,1066,3.541275797373358
+2020,"Regional","17-25","Car passenger",2740,1,411,410,6.682926829268292
+2020,"Regional","17-25","Car unknown position",533,0,48,48,11.104166666666666
+2020,"Regional","17-25","Heavy transport driver",67,0,17,17,3.9411764705882355
+2020,"Regional","17-25","Heavy transport passenger",16,0,1,1,16
+2020,"Regional","17-25","Heavy transport unknown position",1,0,0,0,
+2020,"Regional","17-25","Motorcyclist",2479,0,681,681,3.6402349486049927
+2020,"Regional","17-25","Other or unknown",145,0,58,58,2.5
+2020,"Regional","17-25","Pedal cyclist",301,0,140,140,2.15
+2020,"Regional","17-25","Pedestrian",416,0,73,73,5.698630136986301
+2020,"Regional","17-25","Pick-up truck or van occupant",227,0,47,47,4.829787234042553
+2020,"Regional","26-39","Bus occupant",14,0,5,5,2.8
+2020,"Regional","26-39","Car driver",4006,0,894,894,4.480984340044743
+2020,"Regional","26-39","Car passenger",915,0,242,242,3.78099173553719
+2020,"Regional","26-39","Car unknown position",277,1,63,62,4.467741935483871
+2020,"Regional","26-39","Heavy transport driver",554,0,55,55,10.072727272727272
+2020,"Regional","26-39","Heavy transport passenger",47,0,6,6,7.833333333333333
+2020,"Regional","26-39","Heavy transport unknown position",5,0,5,5,1
+2020,"Regional","26-39","Motorcyclist",3565,0,744,744,4.791666666666667
+2020,"Regional","26-39","Other or unknown",139,0,43,43,3.2325581395348837
+2020,"Regional","26-39","Pedal cyclist",551,0,244,244,2.2581967213114753
+2020,"Regional","26-39","Pedestrian",672,0,93,93,7.225806451612903
+2020,"Regional","26-39","Pick-up truck or van occupant",170,0,28,28,6.071428571428571
+2020,"Regional","40-64","Bus occupant",20,0,5,5,4
+2020,"Regional","40-64","Car driver",7763,0,1121,1121,6.925066904549509
+2020,"Regional","40-64","Car passenger",1304,0,251,251,5.195219123505976
+2020,"Regional","40-64","Car unknown position",595,0,72,72,8.26388888888889
+2020,"Regional","40-64","Heavy transport driver",733,0,118,118,6.211864406779661
+2020,"Regional","40-64","Heavy transport passenger",31,0,13,13,2.3846153846153846
+2020,"Regional","40-64","Heavy transport unknown position",39,0,11,11,3.5454545454545454
+2020,"Regional","40-64","Motorcyclist",6863,1,1017,1016,6.7549212598425195
+2020,"Regional","40-64","Other or unknown",350,0,48,48,7.291666666666667
+2020,"Regional","40-64","Pedal cyclist",2635,3,593,590,4.466101694915254
+2020,"Regional","40-64","Pedestrian",1365,2,117,115,11.869565217391305
+2020,"Regional","40-64","Pick-up truck or van occupant",319,0,49,49,6.510204081632653
+2020,"Regional","65-74","Bus occupant",47,0,3,3,15.666666666666666
+2020,"Regional","65-74","Car driver",2521,3,317,314,8.028662420382165
+2020,"Regional","65-74","Car passenger",1379,0,109,109,12.65137614678899
+2020,"Regional","65-74","Car unknown position",223,0,20,20,11.15
+2020,"Regional","65-74","Heavy transport driver",55,0,16,16,3.4375
+2020,"Regional","65-74","Heavy transport passenger",6,0,3,3,2
+2020,"Regional","65-74","Heavy transport unknown position",1,0,1,1,1
+2020,"Regional","65-74","Motorcyclist",1186,0,157,157,7.554140127388535
+2020,"Regional","65-74","Other or unknown",253,1,23,22,11.5
+2020,"Regional","65-74","Pedal cyclist",883,0,155,155,5.696774193548387
+2020,"Regional","65-74","Pedestrian",545,0,47,47,11.595744680851064
+2020,"Regional","65-74","Pick-up truck or van occupant",55,0,11,11,5
+2020,"Regional","75+","Bus occupant",24,0,1,1,24
+2020,"Regional","75+","Car driver",4173,4,371,367,11.370572207084468
+2020,"Regional","75+","Car passenger",982,1,98,97,10.123711340206185
+2020,"Regional","75+","Car unknown position",540,0,14,14,38.57142857142857
+2020,"Regional","75+","Heavy transport driver",13,0,4,4,3.25
+2020,"Regional","75+","Motorcyclist",570,0,31,31,18.387096774193548
+2020,"Regional","75+","Other or unknown",356,0,14,14,25.428571428571427
+2020,"Regional","75+","Pedal cyclist",728,0,80,80,9.1
+2020,"Regional","75+","Pedestrian",725,4,53,49,14.795918367346939
+2020,"Regional","75+","Pick-up truck or van occupant",98,0,7,7,14
+2020,"Regional","8-16","Bus occupant",6,0,3,3,2
+2020,"Regional","8-16","Car driver",136,0,32,32,4.25
+2020,"Regional","8-16","Car passenger",700,0,196,196,3.5714285714285716
+2020,"Regional","8-16","Car unknown position",25,0,11,11,2.272727272727273
+2020,"Regional","8-16","Heavy transport passenger",2,0,2,2,1
+2020,"Regional","8-16","Motorcyclist",806,0,284,284,2.8380281690140845
+2020,"Regional","8-16","Other or unknown",21,0,10,10,2.1
+2020,"Regional","8-16","Pedal cyclist",653,0,347,347,1.8818443804034581
+2020,"Regional","8-16","Pedestrian",147,0,45,45,3.2666666666666666
+2020,"Regional","8-16","Pick-up truck or van occupant",11,0,7,7,1.5714285714285714
+2020,"Remote","0-7","Car passenger",29,0,12,12,2.4166666666666665
+2020,"Remote","0-7","Car unknown position",2,0,2,2,1
+2020,"Remote","0-7","Heavy transport unknown position",1,0,1,1,1
+2020,"Remote","0-7","Motorcyclist",8,0,8,8,1
+2020,"Remote","0-7","Other or unknown",6,0,4,4,1.5
+2020,"Remote","0-7","Pedal cyclist",15,0,7,7,2.142857142857143
+2020,"Remote","0-7","Pedestrian",1,0,1,1,1
+2020,"Remote","17-25","Car driver",452,0,112,112,4.035714285714286
+2020,"Remote","17-25","Car passenger",246,0,57,57,4.315789473684211
+2020,"Remote","17-25","Car unknown position",35,0,15,15,2.3333333333333335
+2020,"Remote","17-25","Heavy transport driver",2,0,0,0,
+2020,"Remote","17-25","Heavy transport passenger",3,0,1,1,3
+2020,"Remote","17-25","Motorcyclist",460,0,91,91,5.054945054945055
+2020,"Remote","17-25","Other or unknown",39,0,12,12,3.25
+2020,"Remote","17-25","Pedal cyclist",4,0,3,3,1.3333333333333333
+2020,"Remote","17-25","Pedestrian",23,0,9,9,2.5555555555555554
+2020,"Remote","17-25","Pick-up truck or van occupant",11,0,8,8,1.375
+2020,"Remote","26-39","Car driver",494,0,108,108,4.574074074074074
+2020,"Remote","26-39","Car passenger",354,0,64,64,5.53125
+2020,"Remote","26-39","Car unknown position",111,0,7,7,15.857142857142858
+2020,"Remote","26-39","Heavy transport driver",1,0,1,1,1
+2020,"Remote","26-39","Heavy transport passenger",8,0,1,1,8
+2020,"Remote","26-39","Motorcyclist",281,0,78,78,3.6025641025641026
+2020,"Remote","26-39","Other or unknown",32,0,6,6,5.333333333333333
+2020,"Remote","26-39","Pedal cyclist",17,0,14,14,1.2142857142857142
+2020,"Remote","26-39","Pedestrian",129,0,20,20,6.45
+2020,"Remote","26-39","Pick-up truck or van occupant",26,0,5,5,5.2
+2020,"Remote","40-64","Car driver",722,0,113,113,6.389380530973451
+2020,"Remote","40-64","Car passenger",443,0,46,46,9.630434782608695
+2020,"Remote","40-64","Car unknown position",28,0,10,10,2.8
+2020,"Remote","40-64","Heavy transport driver",79,0,15,15,5.266666666666667
+2020,"Remote","40-64","Heavy transport unknown position",1,0,1,1,1
+2020,"Remote","40-64","Motorcyclist",338,0,67,67,5.044776119402985
+2020,"Remote","40-64","Other or unknown",36,0,6,6,6
+2020,"Remote","40-64","Pedal cyclist",68,0,27,27,2.5185185185185186
+2020,"Remote","40-64","Pedestrian",204,1,29,28,7.285714285714286
+2020,"Remote","40-64","Pick-up truck or van occupant",16,0,6,6,2.6666666666666665
+2020,"Remote","65-74","Car driver",108,1,20,19,5.684210526315789
+2020,"Remote","65-74","Car passenger",19,0,4,4,4.75
+2020,"Remote","65-74","Heavy transport driver",8,0,2,2,4
+2020,"Remote","65-74","Heavy transport unknown position",9,0,1,1,9
+2020,"Remote","65-74","Motorcyclist",14,0,6,6,2.3333333333333335
+2020,"Remote","65-74","Other or unknown",68,0,2,2,34
+2020,"Remote","65-74","Pedal cyclist",13,0,10,10,1.3
+2020,"Remote","65-74","Pedestrian",72,0,6,6,12
+2020,"Remote","65-74","Pick-up truck or van occupant",54,0,3,3,18
+2020,"Remote","75+","Car driver",94,1,14,13,7.230769230769231
+2020,"Remote","75+","Car passenger",42,0,3,3,14
+2020,"Remote","75+","Motorcyclist",4,0,1,1,4
+2020,"Remote","75+","Other or unknown",1,0,1,1,1
+2020,"Remote","75+","Pedal cyclist",6,0,3,3,2
+2020,"Remote","75+","Pedestrian",29,0,1,1,29
+2020,"Remote","75+","Pick-up truck or van occupant",9,0,1,1,9
+2020,"Remote","8-16","Bus occupant",2,0,1,1,2
+2020,"Remote","8-16","Car driver",4,0,4,4,1
+2020,"Remote","8-16","Car passenger",55,0,22,22,2.5
+2020,"Remote","8-16","Car unknown position",1,0,1,1,1
+2020,"Remote","8-16","Motorcyclist",193,0,64,64,3.015625
+2020,"Remote","8-16","Other or unknown",14,0,7,7,2
+2020,"Remote","8-16","Pedal cyclist",48,0,29,29,1.6551724137931034
+2020,"Remote","8-16","Pedestrian",2,0,2,2,1
+2020,"Unknown","0-7","Car passenger",5,0,3,3,1.6666666666666667
+2020,"Unknown","0-7","Car unknown position",1,0,1,1,1
+2020,"Unknown","0-7","Pedal cyclist",1,0,0,0,
+2020,"Unknown","0-7","Pedestrian",37,0,1,1,37
+2020,"Unknown","17-25","Car driver",169,0,77,77,2.1948051948051948
+2020,"Unknown","17-25","Car passenger",126,0,58,58,2.1724137931034484
+2020,"Unknown","17-25","Car unknown position",7,0,7,7,1
+2020,"Unknown","17-25","Heavy transport passenger",4,0,1,1,4
+2020,"Unknown","17-25","Motorcyclist",215,0,85,85,2.5294117647058822
+2020,"Unknown","17-25","Other or unknown",13,0,1,1,13
+2020,"Unknown","17-25","Pedal cyclist",79,0,45,45,1.7555555555555555
+2020,"Unknown","17-25","Pedestrian",67,0,25,25,2.68
+2020,"Unknown","26-39","Bus occupant",1,0,0,0,
+2020,"Unknown","26-39","Car driver",188,0,87,87,2.160919540229885
+2020,"Unknown","26-39","Car passenger",171,0,32,32,5.34375
+2020,"Unknown","26-39","Car unknown position",26,1,4,3,8.666666666666666
+2020,"Unknown","26-39","Heavy transport driver",3,0,1,1,3
+2020,"Unknown","26-39","Motorcyclist",234,0,68,68,3.4411764705882355
+2020,"Unknown","26-39","Other or unknown",2,0,1,1,2
+2020,"Unknown","26-39","Pedal cyclist",214,0,100,100,2.14
+2020,"Unknown","26-39","Pedestrian",134,0,27,27,4.962962962962963
+2020,"Unknown","26-39","Pick-up truck or van occupant",17,0,2,2,8.5
+2020,"Unknown","40-64","Car driver",228,0,33,33,6.909090909090909
+2020,"Unknown","40-64","Car passenger",159,0,28,28,5.678571428571429
+2020,"Unknown","40-64","Car unknown position",4,0,1,1,4
+2020,"Unknown","40-64","Heavy transport driver",74,0,2,2,37
+2020,"Unknown","40-64","Heavy transport unknown position",1,0,1,1,1
+2020,"Unknown","40-64","Motorcyclist",101,0,20,20,5.05
+2020,"Unknown","40-64","Other or unknown",2,0,2,2,1
+2020,"Unknown","40-64","Pedal cyclist",275,0,40,40,6.875
+2020,"Unknown","40-64","Pedestrian",131,1,17,16,8.1875
+2020,"Unknown","65-74","Car driver",14,0,3,3,4.666666666666667
+2020,"Unknown","65-74","Car passenger",30,1,14,13,2.3076923076923075
+2020,"Unknown","65-74","Car unknown position",140,0,1,1,140
+2020,"Unknown","65-74","Other or unknown",5,0,1,1,5
+2020,"Unknown","65-74","Pedal cyclist",19,0,6,6,3.1666666666666665
+2020,"Unknown","65-74","Pedestrian",216,0,5,5,43.2
+2020,"Unknown","75+","Car driver",4,0,1,1,4
+2020,"Unknown","75+","Car passenger",9,0,1,1,9
+2020,"Unknown","75+","Heavy transport unknown position",6,0,0,0,
+2020,"Unknown","75+","Pedal cyclist",30,0,2,2,15
+2020,"Unknown","75+","Pedestrian",29,0,1,1,29
+2020,"Unknown","8-16","Bus occupant",2,0,1,1,2
+2020,"Unknown","8-16","Car driver",1,0,1,1,1
+2020,"Unknown","8-16","Car passenger",5,0,3,3,1.6666666666666667
+2020,"Unknown","8-16","Motorcyclist",9,0,1,1,9
+2020,"Unknown","8-16","Pedal cyclist",10,0,5,5,2
+2020,"Unknown","8-16","Pedestrian",4,0,2,2,2
+2021,"Major Cities","0-7","Bus occupant",1,0,1,1,1
+2021,"Major Cities","0-7","Car driver",14,0,5,5,2.8
+2021,"Major Cities","0-7","Car passenger",419,0,172,172,2.436046511627907
+2021,"Major Cities","0-7","Car unknown position",19,0,7,7,2.7142857142857144
+2021,"Major Cities","0-7","Motorcyclist",15,0,10,10,1.5
+2021,"Major Cities","0-7","Other or unknown",11,0,6,6,1.8333333333333333
+2021,"Major Cities","0-7","Pedal cyclist",275,0,162,162,1.6975308641975309
+2021,"Major Cities","0-7","Pedestrian",260,0,86,86,3.0232558139534884
+2021,"Major Cities","0-7","Pick-up truck or van occupant",1,0,1,1,1
+2021,"Major Cities","17-25","Bus occupant",60,0,8,8,7.5
+2021,"Major Cities","17-25","Car driver",5665,0,1932,1932,2.9321946169772257
+2021,"Major Cities","17-25","Car passenger",2587,0,711,711,3.638537271448664
+2021,"Major Cities","17-25","Car unknown position",684,0,98,98,6.979591836734694
+2021,"Major Cities","17-25","Heavy transport driver",129,0,21,21,6.142857142857143
+2021,"Major Cities","17-25","Heavy transport passenger",18,0,11,11,1.6363636363636365
+2021,"Major Cities","17-25","Heavy transport unknown position",3,0,2,2,1.5
+2021,"Major Cities","17-25","Motorcyclist",6044,0,1234,1234,4.897893030794165
+2021,"Major Cities","17-25","Other or unknown",206,0,51,51,4.03921568627451
+2021,"Major Cities","17-25","Pedal cyclist",1207,0,566,566,2.1325088339222615
+2021,"Major Cities","17-25","Pedestrian",1427,0,245,245,5.8244897959183675
+2021,"Major Cities","17-25","Pick-up truck or van occupant",108,0,38,38,2.8421052631578947
+2021,"Major Cities","26-39","Bus occupant",22,0,14,14,1.5714285714285714
+2021,"Major Cities","26-39","Car driver",7303,0,2424,2424,3.012788778877888
+2021,"Major Cities","26-39","Car passenger",2057,0,537,537,3.830540037243948
+2021,"Major Cities","26-39","Car unknown position",632,0,122,122,5.180327868852459
+2021,"Major Cities","26-39","Heavy transport driver",395,0,58,58,6.810344827586207
+2021,"Major Cities","26-39","Heavy transport passenger",62,0,8,8,7.75
+2021,"Major Cities","26-39","Heavy transport unknown position",23,0,2,2,11.5
+2021,"Major Cities","26-39","Motorcyclist",8245,0,1662,1662,4.960890493381468
+2021,"Major Cities","26-39","Other or unknown",313,0,88,88,3.5568181818181817
+2021,"Major Cities","26-39","Pedal cyclist",2922,0,1244,1244,2.3488745980707395
+2021,"Major Cities","26-39","Pedestrian",3100,0,320,320,9.6875
+2021,"Major Cities","26-39","Pick-up truck or van occupant",157,0,48,48,3.2708333333333335
+2021,"Major Cities","40-64","Bus occupant",71,0,46,46,1.5434782608695652
+2021,"Major Cities","40-64","Car driver",9619,0,2704,2704,3.5573224852071004
+2021,"Major Cities","40-64","Car passenger",2563,0,578,578,4.4342560553633215
+2021,"Major Cities","40-64","Car unknown position",856,0,129,129,6.635658914728682
+2021,"Major Cities","40-64","Heavy transport driver",554,0,106,106,5.226415094339623
+2021,"Major Cities","40-64","Heavy transport passenger",53,0,11,11,4.818181818181818
+2021,"Major Cities","40-64","Heavy transport unknown position",22,0,6,6,3.6666666666666665
+2021,"Major Cities","40-64","Motorcyclist",14471,0,2091,2091,6.920612147297944
+2021,"Major Cities","40-64","Other or unknown",649,0,130,130,4.992307692307692
+2021,"Major Cities","40-64","Pedal cyclist",8785,0,2713,2713,3.2381127902690747
+2021,"Major Cities","40-64","Pedestrian",4696,0,455,455,10.320879120879122
+2021,"Major Cities","40-64","Pick-up truck or van occupant",180,0,40,40,4.5
+2021,"Major Cities","65-74","Bus occupant",71,0,20,20,3.55
+2021,"Major Cities","65-74","Car driver",3468,0,743,743,4.667563930013459
+2021,"Major Cities","65-74","Car passenger",864,0,174,174,4.9655172413793105
+2021,"Major Cities","65-74","Car unknown position",527,0,39,39,13.512820512820513
+2021,"Major Cities","65-74","Heavy transport driver",49,0,12,12,4.083333333333333
+2021,"Major Cities","65-74","Heavy transport passenger",17,0,4,4,4.25
+2021,"Major Cities","65-74","Heavy transport unknown position",13,0,3,3,4.333333333333333
+2021,"Major Cities","65-74","Motorcyclist",2061,0,249,249,8.27710843373494
+2021,"Major Cities","65-74","Other or unknown",647,0,44,44,14.704545454545455
+2021,"Major Cities","65-74","Pedal cyclist",3445,0,554,554,6.218411552346571
+2021,"Major Cities","65-74","Pedestrian",3270,0,192,192,17.03125
+2021,"Major Cities","65-74","Pick-up truck or van occupant",319,0,20,20,15.95
+2021,"Major Cities","75+","Bus occupant",256,0,39,39,6.564102564102564
+2021,"Major Cities","75+","Car driver",6811,0,834,834,8.166666666666666
+2021,"Major Cities","75+","Car passenger",2245,0,260,260,8.634615384615385
+2021,"Major Cities","75+","Car unknown position",838,0,29,29,28.896551724137932
+2021,"Major Cities","75+","Heavy transport driver",9,0,2,2,4.5
+2021,"Major Cities","75+","Heavy transport passenger",4,0,4,4,1
+2021,"Major Cities","75+","Motorcyclist",586,0,65,65,9.015384615384615
+2021,"Major Cities","75+","Other or unknown",565,0,29,29,19.482758620689655
+2021,"Major Cities","75+","Pedal cyclist",1090,0,209,209,5.215311004784689
+2021,"Major Cities","75+","Pedestrian",3561,0,222,222,16.04054054054054
+2021,"Major Cities","75+","Pick-up truck or van occupant",46,0,4,4,11.5
+2021,"Major Cities","8-16","Bus occupant",8,0,5,5,1.6
+2021,"Major Cities","8-16","Car driver",207,0,39,39,5.3076923076923075
+2021,"Major Cities","8-16","Car passenger",1273,0,345,345,3.689855072463768
+2021,"Major Cities","8-16","Car unknown position",9,0,7,7,1.2857142857142858
+2021,"Major Cities","8-16","Heavy transport passenger",1,0,1,1,1
+2021,"Major Cities","8-16","Motorcyclist",935,0,208,208,4.4951923076923075
+2021,"Major Cities","8-16","Other or unknown",172,0,21,21,8.19047619047619
+2021,"Major Cities","8-16","Pedal cyclist",1369,0,864,864,1.5844907407407407
+2021,"Major Cities","8-16","Pedestrian",620,0,210,210,2.9523809523809526
+2021,"Major Cities","8-16","Pick-up truck or van occupant",1,0,1,1,1
+2021,"Regional","0-7","Car driver",8,0,4,4,2
+2021,"Regional","0-7","Car passenger",420,0,96,96,4.375
+2021,"Regional","0-7","Car unknown position",159,0,6,6,26.5
+2021,"Regional","0-7","Heavy transport passenger",13,0,1,1,13
+2021,"Regional","0-7","Motorcyclist",29,0,21,21,1.380952380952381
+2021,"Regional","0-7","Other or unknown",7,0,6,6,1.1666666666666667
+2021,"Regional","0-7","Pedal cyclist",76,0,46,46,1.6521739130434783
+2021,"Regional","0-7","Pedestrian",132,0,31,31,4.258064516129032
+2021,"Regional","0-7","Pick-up truck or van occupant",3,0,3,3,1
+2021,"Regional","17-25","Bus occupant",2,0,2,2,1
+2021,"Regional","17-25","Car driver",5790,0,1181,1181,4.902624894157493
+2021,"Regional","17-25","Car passenger",1807,0,395,395,4.574683544303798
+2021,"Regional","17-25","Car unknown position",976,0,69,69,14.144927536231885
+2021,"Regional","17-25","Heavy transport driver",12,0,7,7,1.7142857142857142
+2021,"Regional","17-25","Heavy transport passenger",8,0,4,4,2
+2021,"Regional","17-25","Heavy transport unknown position",13,0,0,0,
+2021,"Regional","17-25","Motorcyclist",2848,0,641,641,4.443057722308892
+2021,"Regional","17-25","Other or unknown",234,0,51,51,4.588235294117647
+2021,"Regional","17-25","Pedal cyclist",444,0,133,133,3.338345864661654
+2021,"Regional","17-25","Pedestrian",732,0,56,56,13.071428571428571
+2021,"Regional","17-25","Pick-up truck or van occupant",246,0,55,55,4.472727272727273
+2021,"Regional","26-39","Bus occupant",2,0,2,2,1
+2021,"Regional","26-39","Car driver",4678,0,968,968,4.832644628099174
+2021,"Regional","26-39","Car passenger",1016,0,204,204,4.980392156862745
+2021,"Regional","26-39","Car unknown position",255,0,61,61,4.180327868852459
+2021,"Regional","26-39","Heavy transport driver",410,0,48,48,8.541666666666666
+2021,"Regional","26-39","Heavy transport passenger",5,0,5,5,1
+2021,"Regional","26-39","Heavy transport unknown position",10,0,8,8,1.25
+2021,"Regional","26-39","Motorcyclist",2959,0,673,673,4.396731054977712
+2021,"Regional","26-39","Other or unknown",259,0,40,40,6.475
+2021,"Regional","26-39","Pedal cyclist",886,0,225,225,3.937777777777778
+2021,"Regional","26-39","Pedestrian",672,0,82,82,8.195121951219512
+2021,"Regional","26-39","Pick-up truck or van occupant",123,0,31,31,3.967741935483871
+2021,"Regional","40-64","Bus occupant",23,0,9,9,2.5555555555555554
+2021,"Regional","40-64","Car driver",6938,0,1201,1201,5.776852622814322
+2021,"Regional","40-64","Car passenger",1248,0,285,285,4.378947368421053
+2021,"Regional","40-64","Car unknown position",655,0,76,76,8.618421052631579
+2021,"Regional","40-64","Heavy transport driver",574,0,94,94,6.1063829787234045
+2021,"Regional","40-64","Heavy transport passenger",51,0,4,4,12.75
+2021,"Regional","40-64","Heavy transport unknown position",53,0,11,11,4.818181818181818
+2021,"Regional","40-64","Motorcyclist",7077,0,1086,1086,6.516574585635359
+2021,"Regional","40-64","Other or unknown",308,0,55,55,5.6
+2021,"Regional","40-64","Pedal cyclist",2741,0,620,620,4.420967741935484
+2021,"Regional","40-64","Pedestrian",1508,0,132,132,11.424242424242424
+2021,"Regional","40-64","Pick-up truck or van occupant",365,0,42,42,8.69047619047619
+2021,"Regional","65-74","Bus occupant",177,0,8,8,22.125
+2021,"Regional","65-74","Car driver",2880,0,350,350,8.228571428571428
+2021,"Regional","65-74","Car passenger",1057,0,97,97,10.896907216494846
+2021,"Regional","65-74","Car unknown position",284,0,16,16,17.75
+2021,"Regional","65-74","Heavy transport driver",253,0,17,17,14.882352941176471
+2021,"Regional","65-74","Heavy transport passenger",1,0,1,1,1
+2021,"Regional","65-74","Heavy transport unknown position",1,0,1,1,1
+2021,"Regional","65-74","Motorcyclist",1183,0,147,147,8.047619047619047
+2021,"Regional","65-74","Other or unknown",216,0,16,16,13.5
+2021,"Regional","65-74","Pedal cyclist",1186,0,192,192,6.177083333333333
+2021,"Regional","65-74","Pedestrian",506,0,45,45,11.244444444444444
+2021,"Regional","65-74","Pick-up truck or van occupant",126,0,14,14,9
+2021,"Regional","75+","Bus occupant",39,0,5,5,7.8
+2021,"Regional","75+","Car driver",4286,0,401,401,10.688279301745636
+2021,"Regional","75+","Car passenger",1312,0,111,111,11.81981981981982
+2021,"Regional","75+","Car unknown position",453,0,15,15,30.2
+2021,"Regional","75+","Heavy transport driver",37,0,4,4,9.25
+2021,"Regional","75+","Heavy transport unknown position",20,0,0,0,
+2021,"Regional","75+","Motorcyclist",681,0,45,45,15.133333333333333
+2021,"Regional","75+","Other or unknown",313,0,13,13,24.076923076923077
+2021,"Regional","75+","Pedal cyclist",731,0,73,73,10.013698630136986
+2021,"Regional","75+","Pedestrian",884,0,55,55,16.072727272727274
+2021,"Regional","75+","Pick-up truck or van occupant",30,0,5,5,6
+2021,"Regional","8-16","Bus occupant",1,0,1,1,1
+2021,"Regional","8-16","Car driver",163,0,21,21,7.761904761904762
+2021,"Regional","8-16","Car passenger",921,0,217,217,4.244239631336406
+2021,"Regional","8-16","Car unknown position",47,0,10,10,4.7
+2021,"Regional","8-16","Heavy transport passenger",4,0,2,2,2
+2021,"Regional","8-16","Motorcyclist",779,0,307,307,2.537459283387622
+2021,"Regional","8-16","Other or unknown",55,0,18,18,3.0555555555555554
+2021,"Regional","8-16","Pedal cyclist",903,0,356,356,2.5365168539325844
+2021,"Regional","8-16","Pedestrian",278,0,66,66,4.212121212121212
+2021,"Regional","8-16","Pick-up truck or van occupant",17,0,8,8,2.125
+2021,"Remote","0-7","Car passenger",24,0,13,13,1.8461538461538463
+2021,"Remote","0-7","Motorcyclist",9,0,5,5,1.8
+2021,"Remote","0-7","Other or unknown",1,0,1,1,1
+2021,"Remote","0-7","Pedal cyclist",20,0,9,9,2.2222222222222223
+2021,"Remote","0-7","Pedestrian",43,0,6,6,7.166666666666667
+2021,"Remote","0-7","Pick-up truck or van occupant",2,0,1,1,2
+2021,"Remote","17-25","Car driver",360,0,111,111,3.2432432432432434
+2021,"Remote","17-25","Car passenger",242,0,68,68,3.5588235294117645
+2021,"Remote","17-25","Car unknown position",124,0,11,11,11.272727272727273
+2021,"Remote","17-25","Motorcyclist",246,0,76,76,3.236842105263158
+2021,"Remote","17-25","Other or unknown",12,0,2,2,6
+2021,"Remote","17-25","Pedal cyclist",10,0,6,6,1.6666666666666667
+2021,"Remote","17-25","Pedestrian",121,0,22,22,5.5
+2021,"Remote","17-25","Pick-up truck or van occupant",34,0,11,11,3.090909090909091
+2021,"Remote","26-39","Bus occupant",12,0,4,4,3
+2021,"Remote","26-39","Car driver",938,0,95,95,9.873684210526315
+2021,"Remote","26-39","Car passenger",261,0,48,48,5.4375
+2021,"Remote","26-39","Car unknown position",16,0,7,7,2.2857142857142856
+2021,"Remote","26-39","Heavy transport driver",2,0,2,2,1
+2021,"Remote","26-39","Heavy transport unknown position",1,0,1,1,1
+2021,"Remote","26-39","Motorcyclist",323,0,85,85,3.8
+2021,"Remote","26-39","Other or unknown",45,0,6,6,7.5
+2021,"Remote","26-39","Pedal cyclist",30,0,10,10,3
+2021,"Remote","26-39","Pedestrian",123,0,18,18,6.833333333333333
+2021,"Remote","26-39","Pick-up truck or van occupant",59,0,6,6,9.833333333333334
+2021,"Remote","40-64","Bus occupant",6,0,3,3,2
+2021,"Remote","40-64","Car driver",720,0,103,103,6.990291262135922
+2021,"Remote","40-64","Car passenger",385,0,48,48,8.020833333333334
+2021,"Remote","40-64","Car unknown position",72,0,7,7,10.285714285714286
+2021,"Remote","40-64","Heavy transport driver",10,0,6,6,1.6666666666666667
+2021,"Remote","40-64","Heavy transport unknown position",1,0,1,1,1
+2021,"Remote","40-64","Motorcyclist",339,0,57,57,5.947368421052632
+2021,"Remote","40-64","Other or unknown",106,0,7,7,15.142857142857142
+2021,"Remote","40-64","Pedal cyclist",82,0,26,26,3.1538461538461537
+2021,"Remote","40-64","Pedestrian",254,0,20,20,12.7
+2021,"Remote","40-64","Pick-up truck or van occupant",11,0,2,2,5.5
+2021,"Remote","65-74","Car driver",167,0,21,21,7.9523809523809526
+2021,"Remote","65-74","Car passenger",46,0,14,14,3.2857142857142856
+2021,"Remote","65-74","Car unknown position",119,0,2,2,59.5
+2021,"Remote","65-74","Heavy transport driver",1,0,1,1,1
+2021,"Remote","65-74","Motorcyclist",52,0,6,6,8.666666666666666
+2021,"Remote","65-74","Other or unknown",2,0,2,2,1
+2021,"Remote","65-74","Pedal cyclist",23,0,2,2,11.5
+2021,"Remote","65-74","Pedestrian",14,0,2,2,7
+2021,"Remote","75+","Car driver",659,0,14,14,47.07142857142857
+2021,"Remote","75+","Car passenger",16,0,4,4,4
+2021,"Remote","75+","Motorcyclist",5,0,2,2,2.5
+2021,"Remote","75+","Other or unknown",1,0,1,1,1
+2021,"Remote","75+","Pedal cyclist",8,0,2,2,4
+2021,"Remote","75+","Pick-up truck or van occupant",1,0,1,1,1
+2021,"Remote","8-16","Bus occupant",2,0,2,2,1
+2021,"Remote","8-16","Car driver",73,0,6,6,12.166666666666666
+2021,"Remote","8-16","Car passenger",85,0,29,29,2.9310344827586206
+2021,"Remote","8-16","Car unknown position",2,0,1,1,2
+2021,"Remote","8-16","Motorcyclist",156,0,59,59,2.6440677966101696
+2021,"Remote","8-16","Other or unknown",15,0,5,5,3
+2021,"Remote","8-16","Pedal cyclist",51,0,28,28,1.8214285714285714
+2021,"Remote","8-16","Pedestrian",16,0,5,5,3.2
+2021,"Remote","8-16","Pick-up truck or van occupant",1,0,1,1,1
+2021,"Unknown","0-7","Car passenger",38,0,7,7,5.428571428571429
+2021,"Unknown","0-7","Other or unknown",1,0,1,1,1
+2021,"Unknown","17-25","Car driver",97,0,48,48,2.0208333333333335
+2021,"Unknown","17-25","Car passenger",112,0,29,29,3.8620689655172415
+2021,"Unknown","17-25","Car unknown position",1,0,1,1,1
+2021,"Unknown","17-25","Heavy transport driver",3,0,2,2,1.5
+2021,"Unknown","17-25","Motorcyclist",424,0,69,69,6.144927536231884
+2021,"Unknown","17-25","Other or unknown",6,0,1,1,6
+2021,"Unknown","17-25","Pedal cyclist",30,0,22,22,1.3636363636363635
+2021,"Unknown","17-25","Pedestrian",30,0,15,15,2
+2021,"Unknown","17-25","Pick-up truck or van occupant",72,0,5,5,14.4
+2021,"Unknown","26-39","Car driver",190,0,84,84,2.261904761904762
+2021,"Unknown","26-39","Car passenger",97,0,24,24,4.041666666666667
+2021,"Unknown","26-39","Car unknown position",6,0,2,2,3
+2021,"Unknown","26-39","Heavy transport driver",1,0,1,1,1
+2021,"Unknown","26-39","Heavy transport unknown position",1,0,1,1,1
+2021,"Unknown","26-39","Motorcyclist",333,0,59,59,5.6440677966101696
+2021,"Unknown","26-39","Other or unknown",19,0,3,3,6.333333333333333
+2021,"Unknown","26-39","Pedal cyclist",323,0,63,63,5.126984126984127
+2021,"Unknown","26-39","Pedestrian",202,0,30,30,6.733333333333333
+2021,"Unknown","40-64","Car driver",253,0,28,28,9.035714285714286
+2021,"Unknown","40-64","Car passenger",79,0,13,13,6.076923076923077
+2021,"Unknown","40-64","Car unknown position",28,0,2,2,14
+2021,"Unknown","40-64","Heavy transport driver",33,0,1,1,33
+2021,"Unknown","40-64","Motorcyclist",109,0,25,25,4.36
+2021,"Unknown","40-64","Other or unknown",5,0,2,2,2.5
+2021,"Unknown","40-64","Pedal cyclist",118,0,34,34,3.4705882352941178
+2021,"Unknown","40-64","Pedestrian",280,0,15,15,18.666666666666668
+2021,"Unknown","40-64","Pick-up truck or van occupant",63,0,2,2,31.5
+2021,"Unknown","65-74","Car driver",21,0,5,5,4.2
+2021,"Unknown","65-74","Car passenger",17,0,2,2,8.5
+2021,"Unknown","65-74","Heavy transport driver",1,0,1,1,1
+2021,"Unknown","65-74","Pedal cyclist",7,0,1,1,7
+2021,"Unknown","65-74","Pedestrian",1,0,1,1,1
+2021,"Unknown","75+","Car driver",96,0,5,5,19.2
+2021,"Unknown","75+","Car passenger",7,0,2,2,3.5
+2021,"Unknown","75+","Other or unknown",11,0,1,1,11
+2021,"Unknown","75+","Pedal cyclist",1,0,1,1,1
+2021,"Unknown","75+","Pedestrian",1,0,1,1,1
+2021,"Unknown","8-16","Car passenger",272,0,12,12,22.666666666666668
+2021,"Unknown","8-16","Motorcyclist",12,0,1,1,12
+2021,"Unknown","8-16","Other or unknown",101,0,1,1,101
+2021,"Unknown","8-16","Pedal cyclist",2,0,2,2,1
+2021,"Unknown","8-16","Pedestrian",2,0,2,2,1
+2021,"Unknown","8-16","Pick-up truck or van occupant",10,0,2,2,5

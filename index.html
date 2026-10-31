@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Australian Road Crash Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <header role="banner">
+        <h1>National Road Crash Hospitalisations (2011-2021)</h1>
+    </header>
+
+    <div class="top-nav">
+        <button class="nav-tab active" data-target="view-hospitalised">Hospitalised injuries</button>
+        <button class="nav-tab" data-target="view-severity">Severity Analysis</button>
+        <button class="nav-tab" data-target="view-state">Regional Insights</button>
+        <button class="nav-tab" data-target="view-glossary">Glossary</button>
+    </div>
+
+    <!-- 过滤器和 KPI -->
+    <div id="data-controls">
+        <nav id="controls" aria-label="Dashboard filters">
+            <div class="filter-group">
+                <label><strong>Year:</strong></label>
+                <select id="year-select"><option value="All">All Years</option></select>
+            </div>
+            <!-- 注意：Road User 和 Remoteness 过滤器只对 National 数据有效 -->
+            <div class="filter-group national-filter">
+                <label><strong>Road User:</strong></label>
+                <select id="ru-select"><option value="All">All Road Users</option></select>
+            </div>
+            <div class="filter-group national-filter">
+                <label><strong>Remoteness:</strong></label>
+                <select id="remote-select"><option value="All">All Areas</option></select>
+            </div>
+        </nav>
+
+        <div id="kpi-container">
+            <div class="kpi-box">
+                <h3>Total Fatalities (Died Cases)</h3>
+                <p id="kpi-died">0</p>
+            </div>
+            <div class="kpi-box">
+                <h3>Average Bed Days</h3>
+                <p id="kpi-bed">0.00</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 视图 1：基础住院数据 (National) -->
+    <main class="dashboard view-section active-view" id="view-hospitalised" role="main">
+        <section class="chart-container" id="trend-section">
+            <h2>Hospitalisations Trend Over Time</h2>
+            <div id="chart-trend"></div>
+        </section>
+        <section class="chart-container">
+            <h2>Road User Breakdown</h2>
+            <div id="chart-ru"></div>
+        </section>
+        <section class="chart-container">
+            <h2>Age Group Breakdown</h2>
+            <div id="chart-age"></div>
+        </section>
+    </main>
+
+    <!-- 视图 2：严重程度分析 (National) -->
+    <main class="dashboard view-section" id="view-severity" role="main">
+        <section class="chart-container">
+            <h2>Total Fatalities by Road User</h2>
+            <div id="chart-fatalities"></div>
+        </section>
+        <section class="chart-container">
+            <h2>Average Bed Days by Age Group</h2>
+            <div id="chart-beddays"></div>
+        </section>
+    </main>
+
+    <!-- 视图 3：区域洞察 (State - 新增的数据文件图表) -->
+    <main class="dashboard view-section" id="view-state" role="main">
+        <section class="chart-container">
+            <h2>Total Hospitalisations by State</h2>
+            <div id="chart-state-hosp"></div>
+        </section>
+        <section class="chart-container">
+            <h2>Avg Length of Stay (AIOS) by State</h2>
+            <div id="chart-state-aios"></div>
+        </section>
+    </main>
+
+    <!-- 视图 4：Glossary (词汇表) -->
+    <main class="glossary-container view-section" id="view-glossary" role="main">
+        <div class="glossary-content">
+            <h2>Glossary & Data Dictionary</h2>
+            <p>This dashboard presents hospitalised injuries in Australia where the cause was a road crash.</p>
+            <div class="glossary-item">
+                <h3>Hospitalised injuries</h3>
+                <p>A hospitalised injury is defined as an injury which results in the person being admitted to hospital...</p>
+            </div>
+            <div class="glossary-item">
+                <h3>Bed days</h3>
+                <p>The calculation of average length of stay is derived by the number of total patient days divided by injury cases...</p>
+            </div>
+            <div class="glossary-item">
+                <h3>Road users</h3>
+                <p>The road user type refers to the injured person at the time of injury...</p>
+            </div>
+            <div class="glossary-item">
+                <h3>Remoteness area</h3>
+                <p>Remoteness areas are defined using the Australian Bureau of Statistics (ABS)...</p>
+            </div>
+        </div>
+    </main>
+
+    <div id="tooltip" class="hidden" role="tooltip"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
