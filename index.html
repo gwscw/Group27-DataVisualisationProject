@@ -1,120 +1,240 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Australian Road Crash Dashboard</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Australian Road Crash Hospitalisations (2011-2021) - Data Story & Visualisation</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
     <header role="banner">
         <h1>National Road Crash Hospitalisations (2011-2021)</h1>
+        <p class="header-subtitle">An Empirical Analysis of Australian Road Crash Injuries, Severity, Regional Disparity, and First Nations Equity</p>
     </header>
 
-    <div class="top-nav">
-        <button class="nav-tab active" data-target="view-hospitalised">Hospitalised injuries</button>
-        <button class="nav-tab" data-target="view-severity">Severity Analysis</button>
-        <button class="nav-tab" data-target="view-state">Regional Insights</button>
-        <button class="nav-tab" data-target="view-glossary">Glossary</button>
-    </div>
+    
+    <nav class="top-nav" aria-label="Visualisation views">
+        <button class="nav-tab active" data-target="view-hospitalised" aria-selected="true">Hospitalised Injuries</button>
+        <button class="nav-tab" data-target="view-state" aria-selected="false">Regional Insights</button>
+        <button class="nav-tab" data-target="view-equity" aria-selected="false">Health Equity</button>
+        <button class="nav-tab" data-target="view-glossary" aria-selected="false">Glossary</button>
+    </nav>
 
-    <!-- 过滤器和 KPI -->
+    
     <div id="data-controls">
-        <nav id="controls" aria-label="Dashboard filters">
-            <div class="filter-group">
-                <label><strong>Year:</strong></label>
-                <select id="year-select"><option value="All">All Years</option></select>
+        <nav id="controls" aria-label="Dashboard multi-select filters">
+            
+            <div class="filter-dropdown" id="dropdown-year">
+                <button type="button" class="dropdown-trigger" aria-haspopup="true" aria-expanded="false">
+                    <span class="filter-label">Year:</span>
+                    <span class="filter-summary" id="summary-year">All Years</span>
+                    <span class="dropdown-caret">&#9662;</span>
+                </button>
+                <div class="dropdown-panel" role="region" aria-label="Filter by Year">
+                    <div class="dropdown-header">
+                        <label class="checkbox-label select-all-label">
+                            <input type="checkbox" id="check-all-year" checked>
+                            <span>Select All</span>
+                        </label>
+                    </div>
+                    <div class="checkbox-options" id="list-year"></div>
+                </div>
             </div>
-            <!-- 注意：Road User 和 Remoteness 过滤器只对 National 数据有效 -->
-            <div class="filter-group national-filter">
-                <label><strong>Road User:</strong></label>
-                <select id="ru-select"><option value="All">All Road Users</option></select>
+
+            
+            <div class="filter-dropdown national-filter" id="dropdown-ru">
+                <button type="button" class="dropdown-trigger" aria-haspopup="true" aria-expanded="false">
+                    <span class="filter-label">Road User:</span>
+                    <span class="filter-summary" id="summary-ru">All Road Users</span>
+                    <span class="dropdown-caret">&#9662;</span>
+                </button>
+                <div class="dropdown-panel" role="region" aria-label="Filter by Road User">
+                    <div class="dropdown-header">
+                        <label class="checkbox-label select-all-label">
+                            <input type="checkbox" id="check-all-ru" checked>
+                            <span>Select All</span>
+                        </label>
+                    </div>
+                    <div class="checkbox-options" id="list-ru"></div>
+                </div>
             </div>
-            <div class="filter-group national-filter">
-                <label><strong>Remoteness:</strong></label>
-                <select id="remote-select"><option value="All">All Areas</option></select>
+
+            
+            <div class="filter-dropdown national-filter" id="dropdown-remote">
+                <button type="button" class="dropdown-trigger" aria-haspopup="true" aria-expanded="false">
+                    <span class="filter-label">Remoteness:</span>
+                    <span class="filter-summary" id="summary-remote">All Areas</span>
+                    <span class="dropdown-caret">&#9662;</span>
+                </button>
+                <div class="dropdown-panel" role="region" aria-label="Filter by Remoteness">
+                    <div class="dropdown-header">
+                        <label class="checkbox-label select-all-label">
+                            <input type="checkbox" id="check-all-remote" checked>
+                            <span>Select All</span>
+                        </label>
+                    </div>
+                    <div class="checkbox-options" id="list-remote"></div>
+                </div>
+            </div>
+
+            
+            <div class="filter-dropdown equity-filter" id="dropdown-equity-geo" style="display: none;">
+                <button type="button" class="dropdown-trigger" aria-haspopup="true" aria-expanded="false">
+                    <span class="filter-label">Remoteness:</span>
+                    <span class="filter-summary" id="summary-equity-geo">All Overview</span>
+                    <span class="dropdown-caret">&#9662;</span>
+                </button>
+                <div class="dropdown-panel" role="region" aria-label="Filter by Remoteness Area">
+                    <div class="checkbox-options" id="list-equity-geo"></div>
+                </div>
+            </div>
+
+            
+            <div class="filter-dropdown equity-filter" id="dropdown-equity-metric" style="display: none;">
+                <button type="button" class="dropdown-trigger" aria-haspopup="true" aria-expanded="false">
+                    <span class="filter-label">Measure:</span>
+                    <span class="filter-summary" id="summary-equity-metric">Hospitalisation Volume (Counts)</span>
+                    <span class="dropdown-caret">&#9662;</span>
+                </button>
+                <div class="dropdown-panel" role="region" aria-label="Filter by Measure">
+                    <div class="checkbox-options" id="list-equity-metric"></div>
+                </div>
             </div>
         </nav>
 
-        <div id="kpi-container">
+        <div id="kpi-container" aria-live="polite">
             <div class="kpi-box">
-                <h3>Total Fatalities (Died Cases)</h3>
+                <h3 id="kpi-label-1">Total Fatalities (Died Cases)</h3>
                 <p id="kpi-died">0</p>
             </div>
             <div class="kpi-box">
-                <h3>Average Bed Days</h3>
+                <h3 id="kpi-label-2">Average Bed Days</h3>
                 <p id="kpi-bed">0.00</p>
             </div>
         </div>
     </div>
 
-    <!-- 视图 1：基础住院数据 (National) -->
-    <main class="dashboard view-section active-view" id="view-hospitalised" role="main">
+    
+    <main class="dashboard view-section active-view" id="view-hospitalised" role="main" aria-label="Hospitalised injuries view">
         <section class="chart-container" id="trend-section">
-            <h2>Hospitalisations Trend Over Time</h2>
+            <h2>Hospitalisations Trend Over Time (2011-2021)</h2>
+            <p class="chart-desc">Annual trajectory of hospital admissions resulting from road crashes across Australia. <em>Note: Victorian (2012) and NSW (2017) Emergency Department admission policy revisions introduce structural series breaks.</em></p>
             <div id="chart-trend"></div>
         </section>
         <section class="chart-container">
             <h2>Road User Breakdown</h2>
+            <p class="chart-desc">Distribution of hospital admissions by injured road user category.</p>
             <div id="chart-ru"></div>
         </section>
         <section class="chart-container">
             <h2>Age Group Breakdown</h2>
+            <p class="chart-desc">Admissions across age brackets, highlighting youth and young adult vulnerability.</p>
             <div id="chart-age"></div>
         </section>
     </main>
 
-    <!-- 视图 2：严重程度分析 (National) -->
-    <main class="dashboard view-section" id="view-severity" role="main">
+    
+    <main class="dashboard view-section" id="view-state" role="main" aria-label="Regional insights view">
         <section class="chart-container">
-            <h2>Total Fatalities by Road User</h2>
-            <div id="chart-fatalities"></div>
-        </section>
-        <section class="chart-container">
-            <h2>Average Bed Days by Age Group</h2>
-            <div id="chart-beddays"></div>
-        </section>
-    </main>
-
-    <!-- 视图 3：区域洞察 (State - 新增的数据文件图表) -->
-    <main class="dashboard view-section" id="view-state" role="main">
-        <section class="chart-container">
-            <h2>Total Hospitalisations by State</h2>
+            <h2>Total Hospitalisations by State & Territory</h2>
+            <p class="chart-desc">Absolute admission counts across Australian jurisdictions (reflecting population concentration).</p>
             <div id="chart-state-hosp"></div>
         </section>
         <section class="chart-container">
-            <h2>Avg Length of Stay (AIOS) by State</h2>
-            <div id="chart-state-aios"></div>
+            <h2>Average Length of Stay (ALOS) by State & Territory</h2>
+            <p class="chart-desc">Average stay duration in days. <em>Note: Transferred cases accumulate total bed days under 1 admission, explaining elevated ALOS in remote jurisdictions like NT.</em></p>
+            <div id="chart-state-alos"></div>
         </section>
     </main>
 
-    <!-- 视图 4：Glossary (词汇表) -->
-    <main class="glossary-container view-section" id="view-glossary" role="main">
+    
+    <main class="dashboard view-section" id="view-equity" role="main" aria-label="Health equity view">
+        
+        <section class="chart-container equity-chart-card">
+            <h2>First Nations &amp; Remoteness Road Trauma Disparity (2011-2021)</h2>
+            <p class="chart-desc">
+                Comparative analysis of hospital admissions and injury severity between First Nations and Non-Indigenous Australians across Major Cities, Regional, and Remote areas.
+            </p>
+
+            
+            <div class="equity-legend-wrapper">
+                <div class="legend-item">
+                    <span class="legend-swatch fn"></span>
+                    <span>First Nations (Terracotta Rust)</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-swatch non" id="legend-non-box"></span>
+                    <span id="legend-non-label">Non-Indigenous (Slate)</span>
+                </div>
+                <div class="tier-legend" id="tier-legend">
+                    <span class="tier-title">Overview Tiers:</span>
+                    <span class="legend-swatch tier-cities"></span><span>Cities</span>
+                    <span class="legend-swatch tier-regional"></span><span>Regional</span>
+                    <span class="legend-swatch tier-remote"></span><span>Remote</span>
+                </div>
+            </div>
+
+            
+            <div class="responsive-svg-container">
+                <div id="first_nations_chart"></div>
+            </div>
+
+            <p class="chart-desc footnote">
+                <strong>Data Source:</strong> Australian Institute of Health and Welfare (AIHW) National Hospital Morbidity Database (NHMD), 2011-2021.
+                Average Length of Stay (ALOS) is total patient bed days divided by hospitalisations. See Glossary for transfer-linking rules and demographic context.
+            </p>
+        </section>
+    </main>
+
+    
+    <main class="glossary-container view-section" id="view-glossary" role="main" aria-label="Glossary and metadata">
         <div class="glossary-content">
-            <h2>Glossary & Data Dictionary</h2>
-            <p>This dashboard presents hospitalised injuries in Australia where the cause was a road crash.</p>
+            <h2>Glossary & Data Dictionary (BITRE / AIHW Standards)</h2>
+            <p>This dashboard presents hospitalised injuries in Australia where the cause was a road crash, sourced from the Bureau of Infrastructure and Transport Research Economics (BITRE) and AIHW National Hospital Morbidity Database (2011-2021).</p>
+            
             <div class="glossary-item">
-                <h3>Hospitalised injuries</h3>
-                <p>A hospitalised injury is defined as an injury which results in the person being admitted to hospital...</p>
+                <h3>Hospitalised injuries (Separations & Admission Criteria)</h3>
+                <p>A hospitalised injury is defined as an episode of care for an admitted patient ending between 1 Jan 2011 and 31 Dec 2021, coded under ICD-10-AM. To minimise double counting where a person experiences multiple care episodes, hospital transfers and non-acute statistical admissions are excluded from case counts.</p>
             </div>
             <div class="glossary-item">
-                <h3>Bed days</h3>
-                <p>The calculation of average length of stay is derived by the number of total patient days divided by injury cases...</p>
+                <h3>Why ALOS Differs: Transfer Linking & Bed Days Accumulation</h3>
+                <p>Average Length of Stay (ALOS) is total patient bed days divided by hospitalisation cases. Per official BITRE specifications: <em>When an individual receives care ending in transfer to another hospital, only the first separation counts as 1 case, but the bed days of all transferred periods of care are combined.</em> This mechanism naturally elevates ALOS in regional and remote cohorts (e.g. Northern Territory and remote First Nations communities) that require long-distance medical evacuation and multi-hospital care pathways. Between 2011 and 2021, remote First Nations crash patients averaged 6.08 bed days per admission (peaking at 7.04 days in 2017) compared to 4.55 days in major cities, reflecting complex trauma care and aeromedical transit via the Royal Flying Doctor Service (RFDS) to capital city hospitals.</p>
             </div>
             <div class="glossary-item">
-                <h3>Road users</h3>
-                <p>The road user type refers to the injured person at the time of injury...</p>
+                <h3>First Nations Road Trauma Disparity by Remoteness</h3>
+                <p>In major cities, First Nations individuals represent approximately 2% of annual road traffic hospitalisations, matching urban demographic proportions. However, in remote areas, First Nations Australians accounted for 45.6% of all crash hospitalisations by 2021 (503 out of 1,103 admissions), despite representing roughly 3.8% of the national population. Contributing factors include higher travel speeds, unsealed road networks, older vehicle profiles, and limited roadside barrier infrastructure.</p>
             </div>
             <div class="glossary-item">
-                <h3>Remoteness area</h3>
-                <p>Remoteness areas are defined using the Australian Bureau of Statistics (ABS)...</p>
+                <h3>The 2020 COVID-19 Divergence in Remote Areas</h3>
+                <p>During the 2020 pandemic lockdowns, metropolitan traffic volumes dropped sharply, reducing urban crash admissions. In contrast, remote First Nations hospitalisations reached a 10-year high of 504 admissions. This divergence highlights that essential travel over long distances and unsealed roads continued uninterrupted in remote communities, independent of urban travel reductions.</p>
+            </div>
+            <div class="glossary-item">
+                <h3>Data Breaks in Series: Emergency Department Policy Revisions</h3>
+                <p>Victoria revised its admission criteria from 1 July 2012 to exclude episodes delivered solely within Emergency Departments (reducing Victorian admissions by ~5.6%). NSW implemented an equivalent policy change from June 2017. These policy shifts introduce structural breaks in annual time-series comparisons.</p>
+            </div>
+            <div class="glossary-item">
+                <h3>Remoteness Area (Usual Residence vs Crash Location)</h3>
+                <p>Remoteness areas follow the Australian Statistical Geography Standard (ASGS) Remoteness Structure. In this dataset, remoteness strictly refers to the <strong>usual residence of the patient</strong>, not the physical location of the crash. Extended stays for remote residents often reflect subacute care deficits and discharge delays prior to returning home.</p>
+            </div>
+            <div class="glossary-item">
+                <h3>Graphical Integrity & Population Limitations</h3>
+                <p>BITRE reports absolute injury counts. Direct comparisons of raw counts between jurisdictions (e.g. NT vs VIC) or demographic cohorts (e.g. First Nations ~3.8% of national population) reflect population size rather than risk. Rate-based analysis and ALOS metrics provide critical equity insights free of population scale distortions.</p>
             </div>
         </div>
     </main>
 
-    <div id="tooltip" class="hidden" role="tooltip"></div>
+    
+    <div id="tooltip" class="hidden" role="tooltip" aria-hidden="true"></div>
 
-    <script src="app.js"></script>
+    
+    <div id="chart-tooltip" class="tooltip" role="tooltip" aria-hidden="true"></div>
+
+    <script src="assets/js/shared-constants.js"></script>
+    <script src="assets/js/chart-trend.js"></script>
+    <script src="assets/js/chart-barchart.js"></script>
+    <script src="assets/js/chart-first-nations.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 </html>
